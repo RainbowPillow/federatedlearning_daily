@@ -1,9 +1,10 @@
-[main page](../README.md)
+[main page](../readme.md)
 
 # TSC
 
 |Date|Title|Comment|Code|
 |----|-----|-------|----|
+|**2022-01-07**|**[Unifying Epidemic Models with Mixtures](http://arxiv.org/abs/2201.04960v1)**|~|~|
 |**2022-01-13**|**[Persistence of temperature and precipitation: from local to global anomalies](http://arxiv.org/abs/2201.04920v1)**|20 pages, 13 figures, 3 tables|~|
 |**2022-01-13**|**[Detection of Gravity Modes in RR Lyrae Stars](http://arxiv.org/abs/2201.04869v1)**|17 pages, 6 figures, accepted for publication in the Astrophysical  Journal ApJ|~|
 |**2022-01-13**|**[Multi-Scale Adaptive Graph Neural Network for Multivariate Time Series Forecasting](http://arxiv.org/abs/2201.04828v1)**|~|[code](https://github.com/shangzongjiang/magnn)|
@@ -14,4 +15,93 @@
 |**2022-01-12**|**[Generative time series models using Neural ODE in Variational Autoencoders](http://arxiv.org/abs/2201.04630v1)**|~|[code](https://github.com/simonmoesorensen/neural-ode-project)|
 |**2022-01-12**|**[Intra-domain and cross-domain transfer learning for time series data -- How transferable are the features?](http://arxiv.org/abs/2201.04449v1)**|~|~|
 |**2022-01-11**|**[Discovery of 74 new bright ZZ Ceti stars in the first three years of TESS](http://arxiv.org/abs/2201.04158v1)**|Accepted for publication in MNRAS|~|
+|**2022-01-11**|**[Seizure prediction with long-term iEEG recordings: What can we learn from data nonstationarity?](http://arxiv.org/abs/2201.04137v1)**|accepted for MLESP 2021|~|
+|**2022-01-11**|**[Application of Common Spatial Patterns in Gravitational Waves Detection](http://arxiv.org/abs/2201.04086v1)**|~|~|
+|**2022-01-11**|**[DANNTe: a case study of a turbo-machinery sensor virtualization under domain shift](http://arxiv.org/abs/2201.03850v1)**|5 pages, 3 figures, NeurIPS 2021|~|
+|**2022-01-11**|**[Winning solutions and post-challenge analyses of the ChaLearn AutoDL challenge 2019](http://arxiv.org/abs/2201.03801v1)**|The first three authors contributed equally; This is only a draft  version|~|
+|**2022-01-10**|**[Positive Time Series Regression Models](http://arxiv.org/abs/2201.03667v1)**|~|~|
+|**2022-01-10**|**[Watch Less and Uncover More: Could Navigation Tools Help Users Search and Explore Videos?](http://arxiv.org/abs/2201.03408v1)**|Published at the ACM SIGIR Conference on Human Information  Interaction and Retrieval (CHIIR'22)|~|
+|**2022-01-10**|**[A machine learning search for optimal GARCH parameters](http://arxiv.org/abs/2201.03286v1)**|~|~|
+|**2022-01-10**|**[Spiked eigenvalues of high-dimensional sample autocovariance matrices: CLT and applications](http://arxiv.org/abs/2201.03181v1)**|~|~|
+|**2022-01-09**|**[Weak Supervision for Affordable Modeling of Electrocardiogram Data](http://arxiv.org/abs/2201.02936v1)**|Accepted at American Medical Informatics Association (AMIA) 2021  Annual Symposium. 10 pages and 6 figures|~|
+|**2022-01-09**|**[Causal Discovery from Sparse Time-Series Data Using Echo State Network](http://arxiv.org/abs/2201.02933v1)**|~|~|
+|**2022-01-08**|**[A novel audio representation using space filling curves](http://arxiv.org/abs/2201.02805v1)**|2021 IEEE. Personal use of this material is permitted. Permission  from IEEE must be obtained for all other uses, in any current or future  media, including reprinting/republishing this material for advertising or  promotional purposes, creating new collective works, for resale or  redistribution to servers or lists, or reuse of any copyrighted component of  this work in other works|[code](https://github.com/amari97/sfc-audio)|
+|**2022-01-08**|**[Conditional Approximate Normalizing Flows for Joint Multi-Step Probabilistic Electricity Demand Forecasting](http://arxiv.org/abs/2201.02753v1)**|~|[code](https://github.com/sisl/jointdemandforecasting)|
+|**2022-01-08**|**[Bayesian Changepoint Estimation for Spatially Indexed Functional Time Series](http://arxiv.org/abs/2201.02742v1)**|~|~|
+|**2021-12-28**|**[Cognitive Computing to Optimize IT Services](http://arxiv.org/abs/2201.02737v1)**|2018 IEEE 17th International Conference on Cognitive Informatics &  Cognitive Computing (ICCI* CC)|~|
+|**2022-01-06**|**[Bitcoin Price Predictive Modeling Using Expert Correction](http://arxiv.org/abs/2201.02729v1)**|~|~|
+|**2022-01-07**|**[An Improved Mathematical Model of Sepsis: Modeling, Bifurcation Analysis, and Optimal Control Study for Complex Nonlinear Infectious Disease System](http://arxiv.org/abs/2201.02702v1)**|25 pages, 7 figures, 1 table|~|
+|**2022-01-07**|**[Detecting CAN Masquerade Attacks with Signal Clustering Similarity](http://arxiv.org/abs/2201.02665v1)**|7 pages, 7 figures, 1 table|~|
+|**2022-01-07**|**[Dynamic Factor Model for Functional Time Series: Identification, Estimation, and Prediction](http://arxiv.org/abs/2201.02532v1)**|~|[code](https://github.com/ottosven/dffm)|
+|**2022-01-07**|**[Churn prediction in online gambling](http://arxiv.org/abs/2201.02463v1)**|14 pages, 3 figures Submitted to Expert Systems with Applications|~|
+|**2022-01-07**|**[Applications of Signature Methods to Market Anomaly Detection](http://arxiv.org/abs/2201.02441v1)**|~|~|
+|**2022-01-07**|**[Efficient modeling of correlated noise. III. Scalable methods for jointly modeling several observables' time series with Gaussian processes](http://arxiv.org/abs/2201.02440v1)**|Accepted for publication in A&A|~|
+|**2022-01-07**|**[Bayesian Online Change Point Detection for Baseline Shifts](http://arxiv.org/abs/2201.02325v1)**|Published in Statistics, Optimization & Information Computing|~|
+|**2022-01-07**|**[Time Series Forecasting Using Fuzzy Cognitive Maps: A Survey](http://arxiv.org/abs/2201.02297v2)**|~|~|
+|**2022-01-06**|**[Second-Order Ultrasound Elastography with L1-norm Spatial Regularization](http://arxiv.org/abs/2201.02226v1)**|~|~|
+|**2022-01-06**|**[Introducing Randomized High Order Fuzzy Cognitive Maps as Reservoir Computing Models: A Case Study in Solar Energy and Load Forecasting](http://arxiv.org/abs/2201.02158v2)**|~|~|
+|**2022-01-06**|**[Ecce Signum: An R Package for Multivariate Signal Extraction and Time Series Analysis](http://arxiv.org/abs/2201.02148v1)**|~|~|
+|**2022-01-06**|**[Classification of Long Sequential Data using Circular Dilated Convolutional Neural Networks](http://arxiv.org/abs/2201.02143v1)**|~|[code](https://github.com/leicheng-no/cdil-cnn)|
+|**2022-01-05**|**[Eye Know You Too: A DenseNet Architecture for End-to-end Biometric Authentication via Eye Movements](http://arxiv.org/abs/2201.02110v1)**|10 pages, 3 figures, 1 table|~|
+|**2022-01-06**|**[Sales Time Series Analytics Using Deep Q-Learning](http://arxiv.org/abs/2201.02058v1)**|~|~|
+|**2022-01-05**|**[A Review of Mathematical and Computational Methods in Cancer Dynamics](http://arxiv.org/abs/2201.02055v3)**|55 pages, 2 figures, 1 table|~|
+|**2022-01-05**|**[Deep Fusion of Lead-lag Graphs:Application to Cryptocurrencies](http://arxiv.org/abs/2201.02040v1)**|~|~|
+|**2022-01-06**|**[Bayesian Regression Approach for Building and Stacking Predictive Models in Time Series Analytics](http://arxiv.org/abs/2201.02034v1)**|~|~|
+|**2022-01-06**|**[A new measure for assessment of clustering based on kernel density estimation](http://arxiv.org/abs/2201.02030v1)**|16 pages|~|
+|**2022-01-04**|**[Elastic Product Quantization for Time Series](http://arxiv.org/abs/2201.01856v1)**|~|~|
+|**2022-01-05**|**[Mean-field synchronization model for open-loop, swirl controlled thermoacoustic system](http://arxiv.org/abs/2201.01764v1)**|S.S. and A. K. D. contributed equally in this paper. 8 pages and 6  figures|~|
+|**2022-01-05**|**[The effect of biologically mediated decay rates on modelling soil carbon sequestration in agricultural settings](http://arxiv.org/abs/2201.01564v1)**|arXiv admin note: substantial text overlap with arXiv:2105.04789|~|
+|**2022-01-05**|**[CORALIE radial-velocity search for companions around evolved stars (CASCADES). I. Sample definition and first results: Three new planets orbiting giant stars](http://arxiv.org/abs/2201.01528v1)**|20 pages, 18 figures, 7 tables, to be published in Astronomy &  Astrophysics|~|
+|**2022-01-05**|**[Towards Similarity-Aware Time-Series Classification](http://arxiv.org/abs/2201.01413v2)**|Accepted by SDM 2022|[code](https://github.com/daochenzha/simtsc)|
+|**2022-01-05**|**[Inferring Astrophysical Parameters of Core-Collapse Supernovae from their Gravitational-Wave Emission](http://arxiv.org/abs/2201.01397v1)**|~|~|
+|**2022-01-04**|**[Wavescan: multiresolution regression of gravitational-wave data](http://arxiv.org/abs/2201.01096v1)**|8 pages, 8 figures|~|
+|**2022-01-04**|**[Clustering and Forecasting Multiple Functional Time Series](http://arxiv.org/abs/2201.01024v1)**|~|~|
+|**2022-01-04**|**[Large sample correlation matrices: a comparison theorem and its applications](http://arxiv.org/abs/2201.00916v1)**|20 pages|~|
+|**2022-01-03**|**[Multivariate Time Series Regression with Graph Neural Networks](http://arxiv.org/abs/2201.00818v2)**|25 pages, LaTeX; fixed some typos/formatting/cleanup|~|
+|**2022-01-03**|**[WHOCARES: data-driven WHOle-brain CArdiac signal REgression from highly accelerated simultaneous multi-Slice fMRI acquisitions](http://arxiv.org/abs/2201.00744v1)**|~|[code](https://github.com/gferrazzi/whocares)|
+|**2022-01-03**|**[Adaptive Memory Networks with Self-supervised Learning for Unsupervised Anomaly Detection](http://arxiv.org/abs/2201.00464v1)**|Accepted by IEEE Transactions on Knowledge and Data Engineering  (TKDE) 2022; 13 pages|~|
+|**2022-01-02**|**[Randomized Signature Layers for Signal Extraction in Time Series Data](http://arxiv.org/abs/2201.00384v1)**|~|~|
+|**2022-01-02**|**[LSTM Architecture for Oil Stocks Prices Prediction](http://arxiv.org/abs/2201.00350v1)**|7 figures, 6 tables|~|
+|**2022-01-01**|**[High-dimensional Bayesian Optimization Algorithm with Recurrent Neural Network for Disease Control Models in Time Series](http://arxiv.org/abs/2201.00147v1)**|16 pages, 9 figures, 2 tables|~|
+|**2022-01-01**|**[Role of Data Augmentation Strategies in Knowledge Distillation for Wearable Sensor Data](http://arxiv.org/abs/2201.00111v1)**|~|~|
+|**2021-12-31**|**[The validity of bootstrap testing in the threshold framework](http://arxiv.org/abs/2201.00028v1)**|~|~|
+|**2021-12-30**|**[An Efficient Federated Distillation Learning System for Multi-task Time Series Classification](http://arxiv.org/abs/2201.00011v1)**|11 pages|~|
+|**2021-12-31**|**[Modelling matrix time series via a tensor CP-decomposition](http://arxiv.org/abs/2112.15423v1)**|~|~|
+|**2021-12-31**|**[Evolutionary correlation, regime switching, spectral dynamics and optimal trading strategies for cryptocurrencies and equities](http://arxiv.org/abs/2112.15321v1)**|43 pages|~|
+|**2021-12-31**|**[Bayesian Testing Of Granger Causality In Functional Time Series](http://arxiv.org/abs/2112.15315v1)**|~|~|
+|**2021-12-31**|**[Random cohort effects and age groups dependency structure for mortality modelling and forecasting: Mixed-effects time-series model approach](http://arxiv.org/abs/2112.15258v1)**|~|~|
+|**2021-12-30**|**[ChunkFormer: Learning Long Time Series with Multi-stage Chunked Transformer](http://arxiv.org/abs/2112.15087v1)**|7 pages, 4 figures|~|
+|**2021-12-30**|**[Optimal Difference-based Variance Estimators in Time Series: A General Framework](http://arxiv.org/abs/2112.15003v1)**|To appear in Annals of Statistics|~|
+|**2021-12-29**|**[An Analysis of an Alternative Pythagorean Expected Win Percentage Model: Applications Using Major League Baseball Team Quality Simulations](http://arxiv.org/abs/2112.14846v1)**|5 pages|~|
+|**2021-12-29**|**[AutoFITS: Automatic Feature Engineering for Irregular Time Series](http://arxiv.org/abs/2112.14806v1)**|~|[code](https://gitlab.com/blank.user.autofits/autofits)|
+|**2021-12-26**|**[Time Series Data Mining Algorithms Towards Scalable and Real-Time Behavior Monitoring](http://arxiv.org/abs/2112.14630v1)**|PhD thesis|~|
+|**2021-12-29**|**[Monte Carlo EM for Deep Time Series Anomaly Detection](http://arxiv.org/abs/2112.14436v1)**|Presented at the ICML 2021 Time Series Workshop|~|
+|**2021-12-28**|**[Time-Incremental Learning from Data Using Temporal Logics](http://arxiv.org/abs/2112.14300v1)**|~|~|
+|**2021-12-27**|**[Shock trace prediction by reduced models for a viscous stochastic Burgers equation](http://arxiv.org/abs/2112.13840v1)**|27 pages, 6 figures|~|
+|**2021-12-27**|**[Self-supervision of wearable sensors time-series data for influenza detection](http://arxiv.org/abs/2112.13755v1)**|The workshop on Self-Supervised Learning at NeurIPS (2021)|~|
+|**2021-12-27**|**[SAME: Scenario Adaptive Mixture-of-Experts for Promotion-Aware Click-Through Rate Prediction](http://arxiv.org/abs/2112.13747v1)**|~|~|
+|**2021-12-27**|**[Factor modelling for high-dimensional functional time series](http://arxiv.org/abs/2112.13651v1)**|~|~|
+|**2021-12-27**|**[Novel data analysis techniques in coronal seismology](http://arxiv.org/abs/2112.13577v1)**|~|~|
+|**2021-12-27**|**[Online Change-point Detection for Matrix-valued Time Series with Latent Two-way Factor Structure](http://arxiv.org/abs/2112.13479v1)**|~|~|
+|**2021-12-24**|**[Toeplitz Least Squares Problems, Fast Algorithms and Big Data](http://arxiv.org/abs/2112.12994v1)**|28 pages, 11 figures|~|
+|**2021-12-24**|**[Error-bounded Approximate Time Series Joins using Compact Dictionary Representations of Time Series](http://arxiv.org/abs/2112.12965v1)**|~|~|
+|**2021-12-24**|**[TSAX is Trending](http://arxiv.org/abs/2112.12912v1)**|21st International Conference on Computational Science (ICCS 2021)|~|
+|**2021-12-24**|**[Monitoring Deforestation Using Multivariate Bayesian Online Changepoint Detection with Outliers](http://arxiv.org/abs/2112.12899v2)**|21 pages, 6 figures|~|
+|**2021-12-23**|**[A Multi-View Framework for BGP Anomaly Detection via Graph Attention Network](http://arxiv.org/abs/2112.12793v1)**|12 pages, 8 figures|~|
+|**2021-12-22**|**[Collaborative adversary nodes learning on the logs of IoT devices in an IoT network](http://arxiv.org/abs/2112.12546v1)**|~|~|
+|**2021-12-23**|**[Stationarity analysis of the stock market data and its application to mechanical trading](http://arxiv.org/abs/2112.12459v2)**|~|~|
+|**2021-12-22**|**[High time resolution broad-band polarimetry: technique, calibration and standards](http://arxiv.org/abs/2112.12277v1)**|Submitted to Astronomy & Astrophysics, 8 pages, 3 figures, 2 tables|~|
+|**2021-12-22**|**[Density Regression with Bayesian Additive Regression Trees](http://arxiv.org/abs/2112.12259v1)**|30 pages, 12 figures|~|
+|**2021-12-22**|**[An absolute calibration of the near-infrared Period-Luminosity Relations of Type II Cepheids in the Milky Way and in the Large Magellanic Cloud](http://arxiv.org/abs/2112.12122v1)**|Accepted for ApJ|~|
+|**2021-12-22**|**[Stationary Bootstrap: A Refined Error Estimation for Equilibrium Time Series](http://arxiv.org/abs/2112.11837v1)**|11 pages, 6 figures|[code](https://github.com/YoshihikoNishikawa/StationaryBootstrap)|
+|**2021-12-22**|**[MECATS: Mixture-of-Experts for Quantile Forecasts of Aggregated Time Series](http://arxiv.org/abs/2112.11669v1)**|41 pages, 13 figures, 20 tables|~|
+|**2021-12-22**|**[Neural Echo State Network using oscillations of gas bubbles in water: Computational validation by Mackey-Glass time series forecasting](http://arxiv.org/abs/2112.11592v1)**|5 pages, 3 figures|~|
+|**2021-12-21**|**[AutoCTS: Automated Correlated Time Series Forecasting -- Extended Version](http://arxiv.org/abs/2112.11174v1)**|to appear in PVLDB 2022|~|
+|**2021-12-21**|**[Short range vs long range dependence. An hyppothesis test based on Fractional Iterated Ornstein--Uhlenbeck processes](http://arxiv.org/abs/2112.10958v1)**|22 pages, 5 figures|~|
+|**2021-12-20**|**[Detection of causality in time series using extreme values](http://arxiv.org/abs/2112.10858v1)**|42 pages, 8 figures|~|
+|**2021-12-20**|**[PyChEst: a Python package for the consistent retrospective estimation of distributional changes in piece-wise stationary time series](http://arxiv.org/abs/2112.10565v1)**|~|~|
+|**2021-12-20**|**[Complex dynamical properties of coupled Van der Pol-Duffing oscillators with balanced loss and gain](http://arxiv.org/abs/2112.10555v1)**|23 pages; 9 multi-panel figures|~|
+|**2021-12-19**|**[SSDNet: State Space Decomposition Neural Network for Time Series Forecasting](http://arxiv.org/abs/2112.10251v1)**|ICDM 2021 Regular paper|~|
+|**2021-12-19**|**[Denoised Labels for Financial Time-Series Data via Self-Supervised Learning](http://arxiv.org/abs/2112.10139v1)**|~|~|
+|**2021-12-19**|**[Evaluation of the ICRF stability from position time series analysis](http://arxiv.org/abs/2112.10079v2)**|7 pages, 8 figures, accepted for publication in A&A|~|
 
