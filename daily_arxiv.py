@@ -228,7 +228,7 @@ if __name__ == "__main__":
     json_path = './json/'
     init = False
     demo = False
-    num_result = 10
+    num_result = 100
     if init:
         num_result = 50
     if demo:
