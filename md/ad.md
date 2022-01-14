@@ -1,0 +1,57 @@
+[main page](../readme.md)
+
+# AD
+
+|Date|Title|Comment|Code|
+|----|-----|-------|----|
+|**2022-01-13**|**[Functional Anomaly Detection: a Benchmark Study](http://arxiv.org/abs/2201.05115v1)**|~|~|
+|**2022-01-13**|**[Forecast-based Multi-aspect Framework for Multivariate Time-series Anomaly Detection](http://arxiv.org/abs/2201.04792v1)**|Published at IEEE BigData 2021|~|
+|**2022-01-12**|**[Local2Global: A distributed approach for scaling representation learning on graphs](http://arxiv.org/abs/2201.04729v1)**|25 pages, 6 figures. arXiv admin note: substantial text overlap with  arXiv:2107.12224|~|
+|**2022-01-11**|**[Active Reinforcement Learning -- A Roadmap Towards Curious Classifier Systems for Self-Adaptation](http://arxiv.org/abs/2201.03947v1)**|~|~|
+|**2022-01-11**|**[An Introduction to Autoencoders](http://arxiv.org/abs/2201.03898v1)**|26 pages; lecture notes; introductory paper|~|
+|**2022-01-10**|**[The Effects of Reward Misspecification: Mapping and Mitigating Misaligned Models](http://arxiv.org/abs/2201.03544v1)**|19 pages|~|
+|**2022-01-09**|**[Adaptive Performance Anomaly Detection for Online Service Systems via Pattern Sketching](http://arxiv.org/abs/2201.02944v1)**|Accepted by The 44th International Conference on Software Engineering  (ICSE 2022)|[code](https://github.com/opspai/adsketch)|
+|**2022-01-09**|**[TPAD: Identifying Effective Trajectory Predictions Under the Guidance of Trajectory Anomaly Detection Model](http://arxiv.org/abs/2201.02941v1)**|14 pages, 7 figures|~|
+|**2022-01-08**|**[AnomMAN: Detect Anomaly on Multi-view Attributed Networks](http://arxiv.org/abs/2201.02822v1)**|preprint, 5 figures, 9pages|~|
+|**2022-01-07**|**[Detecting Anomaly in Chemical Sensors via L1-Kernels based Principal Component Analysis](http://arxiv.org/abs/2201.02709v1)**|~|~|
+|**2022-01-07**|**[Unsupervised Machine Learning for Exploratory Data Analysis of Exoplanet Transmission Spectra](http://arxiv.org/abs/2201.02696v1)**|10 pages, 11 figures, submitted to MNRAS|~|
+|**2022-01-07**|**[Applications of Signature Methods to Market Anomaly Detection](http://arxiv.org/abs/2201.02441v1)**|~|~|
+|**2022-01-07**|**[iDECODe: In-distribution Equivariance for Conformal Out-of-distribution Detection](http://arxiv.org/abs/2201.02331v1)**|Association for the Advancement of Artificial Intelligence (AAAI),  2022|~|
+|**2022-01-06**|**[An Input-to-State Safety Approach to Anomaly-Resilient Parabolic PDEs: Application to Cyber-Physical Battery Modules](http://arxiv.org/abs/2201.02239v1)**|~|~|
+|**2022-01-06**|**[Detecting Anomalies using Overlapping Electrical Measurements in Smart Power Grids](http://arxiv.org/abs/2201.02236v1)**|~|~|
+|**2022-01-06**|**[SQUAD: Combining Sketching and Sampling Is Better than Either for Per-item Quantile Estimation](http://arxiv.org/abs/2201.01958v1)**|~|~|
+|**2022-01-06**|**[Distributed Online Anomaly Detection for Virtualized Network Slicing Environment](http://arxiv.org/abs/2201.01900v1)**|~|~|
+|**2022-01-05**|**[Using Machine Learning for Anomaly Detection on a System-on-Chip under Gamma Radiation](http://arxiv.org/abs/2201.01588v1)**|~|~|
+|**2022-01-03**|**[Adaptive Memory Networks with Self-supervised Learning for Unsupervised Anomaly Detection](http://arxiv.org/abs/2201.00464v1)**|Accepted by IEEE Transactions on Knowledge and Data Engineering  (TKDE) 2022; 13 pages|~|
+|**2021-12-31**|**[TransLog: A Unified Transformer-based Framework for Log Anomaly Detection](http://arxiv.org/abs/2201.00016v1)**|6 pages|~|
+|**2021-12-29**|**[Anomaly Detection in Cyber-Physical Systems: Reconstruction of a Prediction Error Feature Space](http://arxiv.org/abs/2112.14821v1)**|~|~|
+|**2021-12-29**|**[Monte Carlo EM for Deep Time Series Anomaly Detection](http://arxiv.org/abs/2112.14436v1)**|Presented at the ICML 2021 Time Series Workshop|~|
+|**2021-12-27**|**[PORTFILER: Port-Level Network Profiling for Self-Propagating Malware Detection](http://arxiv.org/abs/2112.13798v1)**|An earlier version is accepted to be published in IEEE Conference on  Communications and Network Security (CNS) 2021|~|
+|**2021-12-27**|**[Anomaly Detection using Capsule Networks for High-dimensional Datasets](http://arxiv.org/abs/2112.13514v2)**|Submitted to ACML2019|~|
+|**2021-12-25**|**[Continual Learning for Unsupervised Anomaly Detection in Continuous Auditing of Financial Accounting Data](http://arxiv.org/abs/2112.13215v1)**|~|~|
+|**2021-12-23**|**[Dense anomaly detection by robust learning on synthetic negative data](http://arxiv.org/abs/2112.12833v2)**|~|~|
+|**2021-12-23**|**[A Multi-View Framework for BGP Anomaly Detection via Graph Attention Network](http://arxiv.org/abs/2112.12793v1)**|12 pages, 8 figures|~|
+|**2021-12-23**|**[SemParser: A Semantic Parser for Log Analysis](http://arxiv.org/abs/2112.12636v2)**|~|~|
+|**2021-12-22**|**[Compromised ACC vehicles can degrade current mixed-autonomy traffic performance while remaining stealthy against detection](http://arxiv.org/abs/2112.11986v1)**|~|~|
+|**2021-12-22**|**[Bottom-up approaches for multi-person pose estimation and it's applications: A brief review](http://arxiv.org/abs/2112.11834v1)**|13 pages, 11 figures|~|
+|**2021-12-21**|**[Anomaly Clustering: Grouping Images into Coherent Clusters of Anomaly Types](http://arxiv.org/abs/2112.11573v1)**|Tech report|~|
+|**2021-12-20**|**[Projected Sliced Wasserstein Autoencoder-based Hyperspectral Images Anomaly Detection](http://arxiv.org/abs/2112.11243v2)**|~|~|
+|**2021-12-20**|**[Unsupervised deep learning techniques for powdery mildew recognition based on multispectral imaging](http://arxiv.org/abs/2112.11242v1)**|~|~|
+|**2021-12-18**|**[An Autonomous Self-Incremental Learning Approach for Detection of Cyber Attacks on Unmanned Aerial Vehicles (UAVs)](http://arxiv.org/abs/2112.11219v1)**|10 pages, 4 figures|~|
+|**2021-12-20**|**[Difuzer: Uncovering Suspicious Hidden Sensitive Operations in Android Apps](http://arxiv.org/abs/2112.10470v1)**|In the proceedings of the 44th International Conference on Software  Engineering 2022 (ICSE 2022)|~|
+|**2021-12-19**|**[Deep Graph-level Anomaly Detection by Glocal Knowledge Distillation](http://arxiv.org/abs/2112.10063v1)**|Accepted to WSDM 2022|~|
+|**2021-12-16**|**[The MVTec 3D-AD Dataset for Unsupervised 3D Anomaly Detection and Localization](http://arxiv.org/abs/2112.09045v1)**|Accepted for presentation at VISAPP 2022|~|
+|**2021-12-13**|**[Challenges and Solutions to Build a Data Pipeline to Identify Anomalies in Enterprise System Performance](http://arxiv.org/abs/2112.08940v1)**|~|~|
+|**2021-12-16**|**[A Deep Learning Approach for Ontology Enrichment from Unstructured Text](http://arxiv.org/abs/2112.08554v1)**|Accepted as a book chapter in "Cybersecurity & High-Performance  Computing Environments: Integrated Innovations, Practices, and Applications",  published by Taylor and Francis. arXiv admin note: substantial text overlap  with arXiv:2102.04081|~|
+|**2021-12-14**|**[Utilizing XAI technique to improve autoencoder based model for computer network anomaly detection with shapley additive explanation(SHAP)](http://arxiv.org/abs/2112.08442v1)**|20 pages, 12 figures, 4 tables, journal article|~|
+|**2021-12-15**|**[Real-time Detection of Anomalies in Multivariate Time Series of Astronomical Data](http://arxiv.org/abs/2112.08415v1)**|9 pages, 5 figures, Accepted at the NeurIPS 2021 workshop on Machine  Learning and the Physical Sciences|~|
+|**2021-12-14**|**[Anomaly Detection in Particle Accelerators using Autoencoders](http://arxiv.org/abs/2112.07793v1)**|~|~|
+|**2021-12-14**|**[Out-of-Distribution Detection without Class Labels](http://arxiv.org/abs/2112.07662v1)**|~|~|
+|**2021-12-14**|**[Approaches Toward Physical and General Video Anomaly Detection](http://arxiv.org/abs/2112.07661v1)**|~|[code](https://github.com/laurarkart/Physical-Anomalous-Trajectory-or-Motion-PHANTOM-Dataset)|
+|**2021-12-14**|**[Noise Reduction and Driving Event Extraction Method for Performance Improvement on Driving Noise-based Surface Anomaly Detection](http://arxiv.org/abs/2112.07214v1)**|3 pages, 3 figures, 2 tables|~|
+|**2021-12-13**|**[Why Are You Weird? Infusing Interpretability in Isolation Forest for Anomaly Detection](http://arxiv.org/abs/2112.06858v1)**|~|[code](https://github.com/karthajee/aws-if-interpretability)|
+|**2021-12-12**|**[Anomaly Crossing: A New Method for Video Anomaly Detection as Cross-domain Few-shot Learning](http://arxiv.org/abs/2112.06320v2)**|~|~|
+|**2021-12-12**|**[DeepFIB: Self-Imputation for Time Series Anomaly Detection](http://arxiv.org/abs/2112.06247v1)**|~|~|
+|**2021-12-11**|**[Anomaly Detection in Blockchain Networks: A Comprehensive Survey](http://arxiv.org/abs/2112.06089v1)**|Submitted to journal|~|
+|**2021-12-10**|**[Fast and scalable neuroevolution deep learning architecture search for multivariate anomaly detection](http://arxiv.org/abs/2112.05640v3)**|arXiv admin note: substantial text overlap with arXiv:2108.03585|~|
+
