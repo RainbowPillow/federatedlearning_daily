@@ -239,6 +239,7 @@ if __name__ == "__main__":
     keywords = {
         'fl': "abs:federated\ learning",
         'tsc': "abs:time\ series",
+        'ad': "abs:anomaly\ detection"
     }
 
     for topic, keyword in keywords.items():
