@@ -228,7 +228,7 @@ if __name__ == "__main__":
     json_path = './json/'
     init = False
     demo = False
-    num_result = 500
+    num_result = 50
     if init:
         num_result = 50
     if demo:
@@ -239,7 +239,7 @@ if __name__ == "__main__":
     keywords = {
         'fl': "abs:federated\ learning",
         'tsc': "abs:time\ series",
-        'ad': "abs:anomaly\ detection"
+        'ad': "abs:'anomaly\ detection'",
     }
 
     for topic, keyword in keywords.items():
