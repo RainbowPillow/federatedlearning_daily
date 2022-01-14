@@ -164,7 +164,7 @@ def json_to_md(topic, filename, to_web=False):
         if to_web:
             f.write("[main page](../index.md)\n\n")
         else:
-            f.write("[main page](../readme.md)\n\n")
+            f.write("[main page](../README.md)\n\n")
         
         for keyword in data.keys():
             day_content = data[keyword]
