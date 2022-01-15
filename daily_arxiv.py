@@ -240,6 +240,7 @@ if __name__ == "__main__":
         'fl': "abs:federated\ learning",
         'tsc': "abs:time\ series",
         'ad': "abs:'anomaly\ detection'",
+        'fd': "abs:'fault\ diagnosis'",
     }
 
     for topic, keyword in keywords.items():
