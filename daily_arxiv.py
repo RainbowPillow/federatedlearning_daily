@@ -241,6 +241,7 @@ if __name__ == "__main__":
         'tsc': "abs:time\ series",
         'ad': "abs:'anomaly\ detection'",
         'fd': "abs:'fault\ diagnosis'",
+        'wt': "abs:'wind\ turbine'",
     }
 
     for topic, keyword in keywords.items():
