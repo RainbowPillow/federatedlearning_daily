@@ -8,7 +8,7 @@
 |**2022-01-14**|**[Relationship between Ca and H$α$ chromospheric emission in F-G-K stars: indication of stellar filaments?](http://arxiv.org/abs/2201.05492v1)**|Accepted in Astronomy and Astrophysics. 1 on-line table|~|
 |**2022-01-14**|**[Multi-head Temporal Attention-Augmented Bilinear Network for Financial time series prediction](http://arxiv.org/abs/2201.05459v1)**|~|~|
 |**2022-01-14**|**[IDEA: Interpretable Dynamic Ensemble Architecture for Time Series Prediction](http://arxiv.org/abs/2201.05336v1)**|~|~|
-|**2022-01-14**|**[A Novel Skeleton-Based Human Activity Discovery Technique Using Particle Swarm Optimization with Gaussian Mutation](http://arxiv.org/abs/2201.05314v1)**|~|~|
+|**2022-01-14**|**[A Novel Skeleton-Based Human Activity Discovery Technique Using Particle Swarm Optimization with Gaussian Mutation](http://arxiv.org/abs/2201.05314v1)**|~|[code](https://github.com/parhamhadikhani/human-activity-discovery-hpgmk)|
 |**2022-01-07**|**[Unifying Epidemic Models with Mixtures](http://arxiv.org/abs/2201.04960v1)**|~|~|
 |**2022-01-13**|**[Persistence of temperature and precipitation: from local to global anomalies](http://arxiv.org/abs/2201.04920v1)**|20 pages, 13 figures, 3 tables|~|
 |**2022-01-13**|**[Detection of Gravity Modes in RR Lyrae Stars](http://arxiv.org/abs/2201.04869v1)**|17 pages, 6 figures, accepted for publication in the Astrophysical  Journal ApJ|~|
