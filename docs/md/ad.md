@@ -27,7 +27,7 @@ layout: default
 |**2022-01-06**|**[Distributed Online Anomaly Detection for Virtualized Network Slicing Environment](http://arxiv.org/abs/2201.01900v1)**|~|~|
 |**2022-01-05**|**[Using Machine Learning for Anomaly Detection on a System-on-Chip under Gamma Radiation](http://arxiv.org/abs/2201.01588v1)**|~|~|
 |**2022-01-03**|**[Adaptive Memory Networks with Self-supervised Learning for Unsupervised Anomaly Detection](http://arxiv.org/abs/2201.00464v1)**|Accepted by IEEE Transactions on Knowledge and Data Engineering  (TKDE) 2022; 13 pages|~|
-|**2021-12-31**|**[TransLog: A Unified Transformer-based Framework for Log Anomaly Detection](http://arxiv.org/abs/2201.00016v1)**|6 pages|~|
+|**2021-12-31**|**[TransLog: A Unified Transformer-based Framework for Log Anomaly Detection](http://arxiv.org/abs/2201.00016v2)**|6 pages|~|
 |**2021-12-29**|**[Anomaly Detection in Cyber-Physical Systems: Reconstruction of a Prediction Error Feature Space](http://arxiv.org/abs/2112.14821v1)**|~|~|
 |**2021-12-29**|**[Monte Carlo EM for Deep Time Series Anomaly Detection](http://arxiv.org/abs/2112.14436v1)**|Presented at the ICML 2021 Time Series Workshop|~|
 |**2021-12-27**|**[PORTFILER: Port-Level Network Profiling for Self-Propagating Malware Detection](http://arxiv.org/abs/2112.13798v1)**|An earlier version is accepted to be published in IEEE Conference on  Communications and Network Security (CNS) 2021|~|

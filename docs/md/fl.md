@@ -9,7 +9,7 @@ layout: default
 | Date | Title | Comment | Code |
 |:-----|:------|:--------|:-----|
 |**2022-01-14**|**[Decentralized Robot Learning for Personalization and Privacy](http://arxiv.org/abs/2201.05527v1)**|~|~|
-|**2022-01-14**|**[Demystifying Swarm Learning: A New Paradigm of Blockchain-based Decentralized Federated Learning](http://arxiv.org/abs/2201.05286v1)**|~|~|
+|**2022-01-14**|**[Demystifying Swarm Learning: A New Paradigm of Blockchain-based Decentralized Federated Learning](http://arxiv.org/abs/2201.05286v2)**|~|~|
 |**2022-01-13**|**[Jamming Attacks on Federated Learning in Wireless Networks](http://arxiv.org/abs/2201.05172v1)**|~|~|
 |**2022-01-12**|**[Federated AirNet: Hybrid Digital-Analog Neural Network Transmission for Federated Learning](http://arxiv.org/abs/2201.04557v1)**|~|~|
 |**2022-01-11**|**[Partial Model Averaging in Federated Learning: Performance Guarantees and Benefits](http://arxiv.org/abs/2201.03789v1)**|~|~|
