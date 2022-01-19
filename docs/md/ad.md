@@ -8,6 +8,12 @@ layout: default
 
 | Date | Title | Comment | Code |
 |:-----|:------|:--------|:-----|
+|**2022-01-18**|**[Invariant Representation Driven Neural Classifier for Anti-QCD Jet Tagging](http://arxiv.org/abs/2201.07199v1)**|25 pages, 10 figures|~|
+|**2022-01-18**|**[Online Time Series Anomaly Detection with State Space Gaussian Processes](http://arxiv.org/abs/2201.06763v1)**|~|~|
+|**2022-01-18**|**[Antimodes and Graphical Anomaly Exploration via Depth Quantile Functions](http://arxiv.org/abs/2201.06682v1)**|21 pages, 12 figures|~|
+|**2022-01-18**|**[Evaluation of the Architecture Alternatives for Real-time Intrusion Detection Systems for Connected Vehicles](http://arxiv.org/abs/2201.06680v1)**|~|~|
+|**2022-01-16**|**[Adversarial Machine Learning Threat Analysis in Open Radio Access Networks](http://arxiv.org/abs/2201.06093v1)**|~|~|
+|**2022-01-15**|**[Concise Logarithmic Loss Function for Robust Training of Anomaly Detection Model](http://arxiv.org/abs/2201.05748v1)**|4 pages, 3 figures, 2 tables|~|
 |**2022-01-13**|**[Functional Anomaly Detection: a Benchmark Study](http://arxiv.org/abs/2201.05115v1)**|~|~|
 |**2022-01-13**|**[Forecast-based Multi-aspect Framework for Multivariate Time-series Anomaly Detection](http://arxiv.org/abs/2201.04792v1)**|Published at IEEE BigData 2021|~|
 |**2022-01-12**|**[Local2Global: A distributed approach for scaling representation learning on graphs](http://arxiv.org/abs/2201.04729v1)**|25 pages, 6 figures. arXiv admin note: substantial text overlap with  arXiv:2107.12224|~|
