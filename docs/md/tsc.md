@@ -24,7 +24,7 @@ layout: default
 |**2022-01-16**|**[FNETS: Factor-adjusted network estimation and forecasting for high-dimensional time series](http://arxiv.org/abs/2201.06110v1)**|~|~|
 |**2022-01-16**|**[Fractional SDE-Net: Generation of Time Series Data with Long-term Memory](http://arxiv.org/abs/2201.05974v1)**|~|~|
 |**2022-01-16**|**[Enhancement of Healthcare Data Performance Metrics using Neural Network Machine Learning Algorithms](http://arxiv.org/abs/2201.05962v1)**|8 pages, 18 fingures|~|
-|**2022-01-14**|**[An efficient aggregation method for the symbolic representation of temporal data](http://arxiv.org/abs/2201.05697v1)**|~|~|
+|**2022-01-14**|**[An efficient aggregation method for the symbolic representation of temporal data](http://arxiv.org/abs/2201.05697v1)**|~|[code](https://github.com/nla-group/fabba)|
 |**2022-01-14**|**[Imputing Missing Observations with Time Sliced Synthetic Minority Oversampling Technique](http://arxiv.org/abs/2201.05634v1)**|~|~|
 |**2022-01-13**|**[Global-threshold and backbone high-resolution weather radar networks are significantly complementary in a watershed](http://arxiv.org/abs/2201.05503v1)**|7 pages, 6 figures To be submitted to Computers and Geosciences  (Elsevier)|~|
 |**2022-01-14**|**[Relationship between Ca and H$α$ chromospheric emission in F-G-K stars: indication of stellar filaments?](http://arxiv.org/abs/2201.05492v1)**|Accepted in Astronomy and Astrophysics. 1 on-line table|~|
