@@ -4,7 +4,7 @@
 
 |Date|Title|Comment|Code|
 |----|-----|-------|----|
-|**2022-01-19**|**[Scotch: An Efficient Secure Computation Framework for Secure Aggregation](http://arxiv.org/abs/2201.07730v1)**|Thirty-Sixth AAAI Conference on Artificial Intelligence (AAAI-22),  Third AAAI Privacy-Preserving Artificial Intelligence (PPAI-22) Workshop|~|
+|**2022-01-19**|**[Scotch: An Efficient Secure Computation Framework for Secure Aggregation](http://arxiv.org/abs/2201.07730v1)**|Thirty-Sixth AAAI Conference on Artificial Intelligence (AAAI-22),  Third AAAI Privacy-Preserving Artificial Intelligence (PPAI-22) Workshop|[code](https://github.com/arupmondal-cs/scotch)|
 |**2022-01-19**|**[Flexible Parallel Learning in Edge Scenarios: Communication, Computational and Energy Cost](http://arxiv.org/abs/2201.07402v1)**|~|~|
 |**2022-01-18**|**[Towards Federated Clustering: A Federated Fuzzy $c$-Means Algorithm (FFCM)](http://arxiv.org/abs/2201.07316v1)**|International Workshop on Trustable, Verifiable and Auditable  Federated Learning in Conjunction with AAAI 2022 (FL-AAAI-22)|~|
 |**2022-01-18**|**[Model Transferring Attacks to Backdoor HyperNetwork in Personalized Federated Learning](http://arxiv.org/abs/2201.07063v2)**|~|~|
