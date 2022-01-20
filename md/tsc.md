@@ -6,7 +6,7 @@
 |----|-----|-------|----|
 |**2022-01-18**|**[Fine-grained network traffic prediction from coarse data](http://arxiv.org/abs/2201.07179v1)**|This work has been submitted to The Austrian Journal of Statistics  and is under review process|~|
 |**2022-01-18**|**[WATCH: Wasserstein Change Point Detection for High-Dimensional Time Series Data](http://arxiv.org/abs/2201.07125v1)**|~|~|
-|**2022-01-18**|**[Using Computational Models to Uncover the Parameters of Three Kepler Binaries: KIC 5957123, KIC 8314879, and KIC 10727668](http://arxiv.org/abs/2201.07059v1)**|Accepted for publication in ApJ|~|
+|**2022-01-18**|**[Using Computational Models to Uncover the Parameters of Three Kepler Binaries: KIC 5957123, KIC 8314879, and KIC 10727668](http://arxiv.org/abs/2201.07059v1)**|Accepted for publication in ApJ|[code](https://github.com/podesse/computational-models-of-three-kepler-binaries-repo)|
 |**2022-01-14**|**[Time Series Generation with Masked Autoencoder](http://arxiv.org/abs/2201.07006v1)**|~|~|
 |**2022-01-12**|**[Explainable AI Framework for COVID-19 Prediction in Different Provinces of India](http://arxiv.org/abs/2201.06997v1)**|12 pages|~|
 |**2022-01-18**|**[Label Dependent Attention Model for Disease Risk Prediction Using Multimodal Electronic Health Records](http://arxiv.org/abs/2201.06779v1)**|~|~|
@@ -17,7 +17,7 @@
 |**2022-01-17**|**[Inferential Theory for Granular Instrumental Variables in High Dimensions](http://arxiv.org/abs/2201.06605v1)**|57 pages, 3 figures, 6 tables|~|
 |**2022-01-17**|**[SwinUNet3D -- A Hierarchical Architecture for Deep Traffic Prediction using Shifted Window Transformers](http://arxiv.org/abs/2201.06390v1)**|7 pages, 1 figure|[code](https://github.com/bojesomo/Traffic4Cast2021-SwinUNet3D)|
 |**2022-01-12**|**[Data augmentation through multivariate scenario forecasting in Data Centers using Generative Adversarial Networks](http://arxiv.org/abs/2201.06147v1)**|~|~|
-|**2022-01-16**|**[FNETS: Factor-adjusted network estimation and forecasting for high-dimensional time series](http://arxiv.org/abs/2201.06110v1)**|~|~|
+|**2022-01-16**|**[FNETS: Factor-adjusted network estimation and forecasting for high-dimensional time series](http://arxiv.org/abs/2201.06110v1)**|~|[code](https://github.com/dom-owens-uob/fnets)|
 |**2022-01-16**|**[Fractional SDE-Net: Generation of Time Series Data with Long-term Memory](http://arxiv.org/abs/2201.05974v1)**|~|~|
 |**2022-01-16**|**[Enhancement of Healthcare Data Performance Metrics using Neural Network Machine Learning Algorithms](http://arxiv.org/abs/2201.05962v1)**|8 pages, 18 fingures|~|
 |**2022-01-14**|**[An efficient aggregation method for the symbolic representation of temporal data](http://arxiv.org/abs/2201.05697v1)**|~|[code](https://github.com/nla-group/fabba)|
