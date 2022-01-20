@@ -4,6 +4,8 @@
 
 |Date|Title|Comment|Code|
 |----|-----|-------|----|
+|**2022-01-19**|**[Compressed Smooth Sparse Decomposition](http://arxiv.org/abs/2201.07404v1)**|~|~|
+|**2022-01-18**|**[TranAD: Deep Transformer Networks for Anomaly Detection in Multivariate Time Series Data](http://arxiv.org/abs/2201.07284v1)**|Accepted in VLDB 2022|~|
 |**2022-01-18**|**[Invariant Representation Driven Neural Classifier for Anti-QCD Jet Tagging](http://arxiv.org/abs/2201.07199v1)**|25 pages, 10 figures|~|
 |**2022-01-18**|**[Online Time Series Anomaly Detection with State Space Gaussian Processes](http://arxiv.org/abs/2201.06763v1)**|~|~|
 |**2022-01-18**|**[Antimodes and Graphical Anomaly Exploration via Depth Quantile Functions](http://arxiv.org/abs/2201.06682v1)**|21 pages, 12 figures|[code](https://github.com/gabechandler/anomalydetection)|

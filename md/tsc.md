@@ -4,6 +4,9 @@
 
 |Date|Title|Comment|Code|
 |----|-----|-------|----|
+|**2022-01-19**|**[A sequential Monte Carlo approach to estimate a time varying reproduction number in infectious disease models: the Covid-19 case](http://arxiv.org/abs/2201.07590v1)**|~|~|
+|**2022-01-19**|**[MUPHOTEN : a MUlti-band PHOtometry Tool for TElescope Network](http://arxiv.org/abs/2201.07565v1)**|21 pages, 12 figures|~|
+|**2022-01-18**|**[TranAD: Deep Transformer Networks for Anomaly Detection in Multivariate Time Series Data](http://arxiv.org/abs/2201.07284v1)**|Accepted in VLDB 2022|~|
 |**2022-01-18**|**[Fine-grained network traffic prediction from coarse data](http://arxiv.org/abs/2201.07179v1)**|This work has been submitted to The Austrian Journal of Statistics  and is under review process|~|
 |**2022-01-18**|**[WATCH: Wasserstein Change Point Detection for High-Dimensional Time Series Data](http://arxiv.org/abs/2201.07125v1)**|~|~|
 |**2022-01-18**|**[Using Computational Models to Uncover the Parameters of Three Kepler Binaries: KIC 5957123, KIC 8314879, and KIC 10727668](http://arxiv.org/abs/2201.07059v1)**|Accepted for publication in ApJ|[code](https://github.com/podesse/computational-models-of-three-kepler-binaries-repo)|
