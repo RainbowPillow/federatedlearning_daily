@@ -19,7 +19,7 @@
 |**2022-01-17**|**[Improving the quality control of seismic data through active learning](http://arxiv.org/abs/2201.06616v1)**|10 pages|~|
 |**2022-01-17**|**[Inferential Theory for Granular Instrumental Variables in High Dimensions](http://arxiv.org/abs/2201.06605v1)**|57 pages, 3 figures, 6 tables|~|
 |**2022-01-17**|**[SwinUNet3D -- A Hierarchical Architecture for Deep Traffic Prediction using Shifted Window Transformers](http://arxiv.org/abs/2201.06390v1)**|7 pages, 1 figure|[code](https://github.com/bojesomo/Traffic4Cast2021-SwinUNet3D)|
-|**2022-01-12**|**[Data augmentation through multivariate scenario forecasting in Data Centers using Generative Adversarial Networks](http://arxiv.org/abs/2201.06147v1)**|~|~|
+|**2022-01-12**|**[Data augmentation through multivariate scenario forecasting in Data Centers using Generative Adversarial Networks](http://arxiv.org/abs/2201.06147v1)**|~|[code](https://github.com/jaimeperezsanchez/gan_scenario_forecasting)|
 |**2022-01-16**|**[FNETS: Factor-adjusted network estimation and forecasting for high-dimensional time series](http://arxiv.org/abs/2201.06110v1)**|~|[code](https://github.com/dom-owens-uob/fnets)|
 |**2022-01-16**|**[Fractional SDE-Net: Generation of Time Series Data with Long-term Memory](http://arxiv.org/abs/2201.05974v1)**|~|~|
 |**2022-01-16**|**[Enhancement of Healthcare Data Performance Metrics using Neural Network Machine Learning Algorithms](http://arxiv.org/abs/2201.05962v1)**|8 pages, 18 fingures|~|
