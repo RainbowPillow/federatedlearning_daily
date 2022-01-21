@@ -10,7 +10,7 @@ layout: default
 |:-----|:------|:--------|:-----|
 |**2022-01-20**|**[Lead-lag detection and network clustering for multivariate time series with an application to the US equity market](http://arxiv.org/abs/2201.08283v1)**|29 pages, 28 figures; preliminary version appeared at KDD 2021 - 7th  SIGKKDD Workshop on Mining and Learning from Time Series (MiLeTS)|~|
 |**2022-01-20**|**[Long Short-Term Memory Neural Network for Financial Time Series](http://arxiv.org/abs/2201.08218v1)**|~|~|
-|**2022-01-19**|**[Generative Models for Periodicity Detection in Noisy Signals](http://arxiv.org/abs/2201.07896v1)**|~|~|
+|**2022-01-19**|**[Generative Models for Periodicity Detection in Noisy Signals](http://arxiv.org/abs/2201.07896v1)**|~|[code](https://github.com/nnaisense/gmpda)|
 |**2022-01-19**|**[Nebular-Phase Spectra of Type Ia Supernovae from the Las Cumbres Observatory Global Supernova Project](http://arxiv.org/abs/2201.07864v1)**|26 pages, 14 figures, 8 tables, accepted to MNRAS|~|
 |**2022-01-19**|**[First Solar Radio Burst Observations by the Mexican Array Radio Telescope (MEXART) at 140 MHz](http://arxiv.org/abs/2201.07828v1)**|~|~|
 |**2022-01-19**|**[A sequential Monte Carlo approach to estimate a time varying reproduction number in infectious disease models: the Covid-19 case](http://arxiv.org/abs/2201.07590v1)**|~|[code](https://github.com/geirstorvik/smc.covid)|
