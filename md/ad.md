@@ -4,6 +4,8 @@
 
 |Date|Title|Comment|Code|
 |----|-----|-------|----|
+|**2022-01-20**|**[Effective Anomaly Detection in Smart Home by Integrating Event Time Intervals](http://arxiv.org/abs/2201.07954v1)**|~|~|
+|**2022-01-17**|**[Machine Learning Enhances Algorithms for Quantifying Non-Equilibrium Dynamics in Correlation Spectroscopy Experiments to Reach Frame-Rate-Limited Time Resolution](http://arxiv.org/abs/2201.07889v1)**|~|~|
 |**2022-01-19**|**[Compressed Smooth Sparse Decomposition](http://arxiv.org/abs/2201.07404v1)**|~|~|
 |**2022-01-18**|**[TranAD: Deep Transformer Networks for Anomaly Detection in Multivariate Time Series Data](http://arxiv.org/abs/2201.07284v1)**|Accepted in VLDB 2022|[code](https://github.com/imperial-qore/tranad)|
 |**2022-01-18**|**[Invariant Representation Driven Neural Classifier for Anti-QCD Jet Tagging](http://arxiv.org/abs/2201.07199v1)**|25 pages, 10 figures|~|
