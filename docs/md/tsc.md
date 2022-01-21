@@ -13,7 +13,7 @@ layout: default
 |**2022-01-19**|**[Generative Models for Periodicity Detection in Noisy Signals](http://arxiv.org/abs/2201.07896v1)**|~|~|
 |**2022-01-19**|**[Nebular-Phase Spectra of Type Ia Supernovae from the Las Cumbres Observatory Global Supernova Project](http://arxiv.org/abs/2201.07864v1)**|26 pages, 14 figures, 8 tables, accepted to MNRAS|~|
 |**2022-01-19**|**[First Solar Radio Burst Observations by the Mexican Array Radio Telescope (MEXART) at 140 MHz](http://arxiv.org/abs/2201.07828v1)**|~|~|
-|**2022-01-19**|**[A sequential Monte Carlo approach to estimate a time varying reproduction number in infectious disease models: the Covid-19 case](http://arxiv.org/abs/2201.07590v1)**|~|~|
+|**2022-01-19**|**[A sequential Monte Carlo approach to estimate a time varying reproduction number in infectious disease models: the Covid-19 case](http://arxiv.org/abs/2201.07590v1)**|~|[code](https://github.com/geirstorvik/smc.covid)|
 |**2022-01-19**|**[MUPHOTEN : a MUlti-band PHOtometry Tool for TElescope Network](http://arxiv.org/abs/2201.07565v1)**|21 pages, 12 figures|~|
 |**2022-01-18**|**[TranAD: Deep Transformer Networks for Anomaly Detection in Multivariate Time Series Data](http://arxiv.org/abs/2201.07284v1)**|Accepted in VLDB 2022|[code](https://github.com/imperial-qore/tranad)|
 |**2022-01-18**|**[Fine-grained network traffic prediction from coarse data](http://arxiv.org/abs/2201.07179v1)**|This work has been submitted to The Austrian Journal of Statistics  and is under review process|~|
