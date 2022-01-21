@@ -20,7 +20,7 @@ layout: default
 |**2022-01-18**|**[Online Time Series Anomaly Detection with State Space Gaussian Processes](http://arxiv.org/abs/2201.06763v1)**|~|~|
 |**2022-01-18**|**[GTrans: Spatiotemporal Autoregressive Transformer with Graph Embeddings for Nowcasting Extreme Events](http://arxiv.org/abs/2201.06717v1)**|~|~|
 |**2022-01-17**|**[Learning Wave Propagation with Attention-Based Convolutional Recurrent Autoencoder Net](http://arxiv.org/abs/2201.06628v1)**|28 pages|~|
-|**2022-01-17**|**[Improving the quality control of seismic data through active learning](http://arxiv.org/abs/2201.06616v1)**|10 pages|~|
+|**2022-01-17**|**[Improving the quality control of seismic data through active learning](http://arxiv.org/abs/2201.06616v2)**|10 pages|~|
 |**2022-01-17**|**[Inferential Theory for Granular Instrumental Variables in High Dimensions](http://arxiv.org/abs/2201.06605v1)**|57 pages, 3 figures, 6 tables|~|
 |**2022-01-17**|**[SwinUNet3D -- A Hierarchical Architecture for Deep Traffic Prediction using Shifted Window Transformers](http://arxiv.org/abs/2201.06390v1)**|7 pages, 1 figure|[code](https://github.com/bojesomo/Traffic4Cast2021-SwinUNet3D)|
 |**2022-01-12**|**[Data augmentation through multivariate scenario forecasting in Data Centers using Generative Adversarial Networks](http://arxiv.org/abs/2201.06147v1)**|~|[code](https://github.com/jaimeperezsanchez/gan_scenario_forecasting)|
