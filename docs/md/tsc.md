@@ -8,6 +8,9 @@ layout: default
 
 | Date | Title | Comment | Code |
 |:-----|:------|:--------|:-----|
+|**2022-01-21**|**[SciGRID_gas -- Data Model of the European Gas Transport Network](http://arxiv.org/abs/2201.08827v1)**|~|~|
+|**2022-01-21**|**[Dynamic Deep Convolutional Candlestick Learner](http://arxiv.org/abs/2201.08669v1)**|11 pages, 9 figures, 2 tables|~|
+|**2022-01-21**|**[Spatiotemporal Analysis Using Riemannian Composition of Diffusion Operators](http://arxiv.org/abs/2201.08530v1)**|48 pages, 13 figures|~|
 |**2022-01-20**|**[Lead-lag detection and network clustering for multivariate time series with an application to the US equity market](http://arxiv.org/abs/2201.08283v1)**|29 pages, 28 figures; preliminary version appeared at KDD 2021 - 7th  SIGKKDD Workshop on Mining and Learning from Time Series (MiLeTS)|~|
 |**2022-01-20**|**[Long Short-Term Memory Neural Network for Financial Time Series](http://arxiv.org/abs/2201.08218v1)**|~|~|
 |**2022-01-19**|**[Generative Models for Periodicity Detection in Noisy Signals](http://arxiv.org/abs/2201.07896v1)**|~|[code](https://github.com/nnaisense/gmpda)|
