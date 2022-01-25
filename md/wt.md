@@ -20,7 +20,7 @@
 |**2021-11-22**|**[Data-driven unsteady aeroelastic modeling for control](http://arxiv.org/abs/2111.11299v2)**|~|~|
 |**2021-11-04**|**[Monetarization of the Feasible Operation Region based on a Cost-Optimal Flexibility Disaggregation](http://arxiv.org/abs/2111.02810v1)**|13 pages, 17 figures|~|
 |**2021-11-04**|**[Pseudo-2D RANS: A LiDAR-driven mid-fidelity model for simulations of wind farm flows](http://arxiv.org/abs/2111.02661v1)**|46 pages, 26 figures|~|
-|**2021-11-01**|**[Greenberg's force prediction for vertical-axis wind turbine blades](http://arxiv.org/abs/2111.00871v2)**|~|~|
+|**2021-11-01**|**[Greenberg's force prediction for vertical-axis wind turbine blades](http://arxiv.org/abs/2111.00871v3)**|~|~|
 |**2021-10-16**|**[A New Theory for Estimating Maximum Power from Wind Turbines: A Fundamental Newtonian Approach](http://arxiv.org/abs/2110.15117v1)**|21 pages, 7 figures, 6 tables|~|
 |**2021-10-27**|**[Control of a Floating Wind Turbine on a Novel Actuated Platform](http://arxiv.org/abs/2110.14169v1)**|9 pages (incl. leading disclaimer), 9 figures. This work has been  submitted to the IEEE for possible publication in the American Control  Conference, Atlanta, GA, 2022|~|
 |**2021-10-25**|**[Could mass eccentricity explain the formation of orbits in wind turbines?](http://arxiv.org/abs/2110.12802v1)**|~|[code](https://github.com/k323r/2021_preprint_eccentric-mass)|
