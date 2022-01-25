@@ -8,6 +8,11 @@ layout: default
 
 | Date | Title | Comment | Code |
 |:-----|:------|:--------|:-----|
+|**2022-01-24**|**[Communication-Efficient Stochastic Zeroth-Order Optimization for Federated Learning](http://arxiv.org/abs/2201.09531v1)**|13 pages, 4 figures|~|
+|**2022-01-24**|**[Federated Unlearning with Knowledge Distillation](http://arxiv.org/abs/2201.09441v1)**|~|~|
+|**2022-01-23**|**[A Comprehensive Survey on Federated Learning: Concept and Applications](http://arxiv.org/abs/2201.09384v1)**|~|~|
+|**2022-01-22**|**[Online Auction-Based Incentive Mechanism Design for Horizontal Federated Learning with Budget Constraint](http://arxiv.org/abs/2201.09047v1)**|~|~|
+|**2022-01-22**|**[FedMed-GAN: Federated Multi-Modal Unsupervised Brain Image Synthesis](http://arxiv.org/abs/2201.08953v1)**|~|~|
 |**2022-01-21**|**[FedComm: Federated Learning as a Medium for Covert Communication](http://arxiv.org/abs/2201.08786v1)**|19 pages|~|
 |**2022-01-21**|**[Blockchain-based Collaborated Federated Learning for Improved Security, Privacy and Reliability](http://arxiv.org/abs/2201.08551v1)**|Preliminary work|~|
 |**2022-01-21**|**[TOFU: Towards Obfuscated Federated Updates by Encoding Weight Updates into Gradients from Proxy Data](http://arxiv.org/abs/2201.08494v1)**|First two authors contributed equally to the paper|~|

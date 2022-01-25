@@ -8,6 +8,9 @@ layout: default
 
 | Date | Title | Comment | Code |
 |:-----|:------|:--------|:-----|
+|**2022-01-24**|**[Linear Laws of Markov Chains with an Application for Anomaly Detection in Bitcoin Prices](http://arxiv.org/abs/2201.09790v1)**|~|~|
+|**2022-01-24**|**[Adversarial Classification under Gaussian Mechanism: Calibrating the Attack to Sensitivity](http://arxiv.org/abs/2201.09751v1)**|~|~|
+|**2022-01-23**|**[An Attention-based ConvLSTM Autoencoder with Dynamic Thresholding for Unsupervised Anomaly Detection in Multivariate Time Series](http://arxiv.org/abs/2201.09172v1)**|12 pages, 9 figures, thesis: https://ir.lib.uwo.ca/etd/7961/|~|
 |**2022-01-21**|**[A machine learning algorithm for minute-long Burst searches](http://arxiv.org/abs/2201.08727v1)**|14 pages, 15 figures|~|
 |**2022-01-20**|**[Effective Anomaly Detection in Smart Home by Integrating Event Time Intervals](http://arxiv.org/abs/2201.07954v1)**|~|~|
 |**2022-01-17**|**[Machine Learning Enhances Algorithms for Quantifying Non-Equilibrium Dynamics in Correlation Spectroscopy Experiments to Reach Frame-Rate-Limited Time Resolution](http://arxiv.org/abs/2201.07889v1)**|~|~|

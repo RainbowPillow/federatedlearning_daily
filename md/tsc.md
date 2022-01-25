@@ -4,6 +4,18 @@
 
 |Date|Title|Comment|Code|
 |----|-----|-------|----|
+|**2022-01-24**|**[Neural Architecture Searching for Facial Attributes-based Depression Recognition](http://arxiv.org/abs/2201.09799v1)**|~|~|
+|**2022-01-24**|**[Improved tracking of particles with highly correlated motion](http://arxiv.org/abs/2201.09752v1)**|6 pages, 5 figures|~|
+|**2022-01-24**|**[Learning Sparse and Continuous Graph Structures for Multivariate Time Series Forecasting](http://arxiv.org/abs/2201.09686v1)**|8 pages, in submission to IJCAI 2022|~|
+|**2022-01-24**|**[Multiscale Generative Models: Improving Performance of a Generative Model Using Feedback from Other Dependent Generative Models](http://arxiv.org/abs/2201.09644v1)**|~|~|
+|**2022-01-24**|**[SEN12MS-CR-TS: A Remote Sensing Data Set for Multi-modal Multi-temporal Cloud Removal](http://arxiv.org/abs/2201.09613v1)**|~|~|
+|**2022-01-24**|**[Forgery Attack Detection in Surveillance Video Streams Using Wi-Fi Channel State Information](http://arxiv.org/abs/2201.09487v1)**|To appear in IEEE Transactions on Wireless Communications. arXiv  admin note: text overlap with arXiv:2101.00848|~|
+|**2022-01-23**|**[Imposing Connectome-Derived Topology on an Echo State Network](http://arxiv.org/abs/2201.09359v1)**|6 pages, 9 figures|~|
+|**2022-01-23**|**[Fast Transient Stability Prediction Using Grid-informed Temporal and Topological Embedding Deep Neural Network](http://arxiv.org/abs/2201.09245v1)**|~|~|
+|**2022-01-23**|**[An Attention-based ConvLSTM Autoencoder with Dynamic Thresholding for Unsupervised Anomaly Detection in Multivariate Time Series](http://arxiv.org/abs/2201.09172v1)**|12 pages, 9 figures, thesis: https://ir.lib.uwo.ca/etd/7961/|~|
+|**2022-01-22**|**[Seasonality and spatial dependence of meso- and submesoscale ocean currents from along-track satellite altimetry](http://arxiv.org/abs/2201.09136v1)**|Submitted to the Journal of Physical Oceanography. The code used for  analyzing and displaying data can be found at  https://github.com/albionlawrence/sm-seasonality|~|
+|**2022-01-22**|**[MIDAS: Deep learning human action intention prediction from natural eye movement patterns](http://arxiv.org/abs/2201.09135v1)**|~|~|
+|**2022-01-22**|**[HiSTGNN: Hierarchical Spatio-temporal Graph Neural Networks for Weather Forecasting](http://arxiv.org/abs/2201.09101v1)**|~|~|
 |**2022-01-21**|**[SciGRID_gas -- Data Model of the European Gas Transport Network](http://arxiv.org/abs/2201.08827v1)**|~|~|
 |**2022-01-21**|**[Dynamic Deep Convolutional Candlestick Learner](http://arxiv.org/abs/2201.08669v1)**|11 pages, 9 figures, 2 tables|~|
 |**2022-01-21**|**[Spatiotemporal Analysis Using Riemannian Composition of Diffusion Operators](http://arxiv.org/abs/2201.08530v1)**|48 pages, 13 figures|~|
