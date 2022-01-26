@@ -8,6 +8,15 @@ layout: default
 
 | Date | Title | Comment | Code |
 |:-----|:------|:--------|:-----|
+|**2022-01-25**|**[Multiscaling and rough volatility: an empirical investigation](http://arxiv.org/abs/2201.10466v1)**|~|~|
+|**2022-01-25**|**[Estimating and backtesting risk under heavy tails](http://arxiv.org/abs/2201.10454v1)**|arXiv admin note: text overlap with arXiv:2010.09937|~|
+|**2022-01-24**|**[COVID-19 Status Forecasting Using New Viral variants and Vaccination Effectiveness Models](http://arxiv.org/abs/2201.10356v1)**|~|~|
+|**2022-01-25**|**[Little Help Makes a Big Difference: Leveraging Active Learning to Improve Unsupervised Time Series Anomaly Detection](http://arxiv.org/abs/2201.10323v1)**|Paper accepted at the AIOPS 2021 workshop from the 19th International  Conference on Service-Oriented Computing (ICSOC).  (https://aiops2021.github.io/accepted_papers/index.html)|~|
+|**2022-01-25**|**[Regime recovery using implied volatility in Markov modulated market model](http://arxiv.org/abs/2201.10304v1)**|18 pages, 9 images|~|
+|**2022-01-25**|**[Neural Information Squeezer for Causal Emergence](http://arxiv.org/abs/2201.10154v1)**|33 pages, 9 figures|~|
+|**2022-01-24**|**[Random Field Optimization](http://arxiv.org/abs/2201.09951v1)**|~|~|
+|**2022-01-24**|**[Ordinal-Quadruplet: Retrieval of Missing Classes in Ordinal Time Series](http://arxiv.org/abs/2201.09907v1)**|~|~|
+|**2022-01-20**|**[Has EU accession boosted patents performance in the EU-13? -- A critical evaluation using causal impact analysis with Bayesian structural time-series models](http://arxiv.org/abs/2201.09878v1)**|This work has been submitted to the Central European Journal of  Economic Modelling and Econometrics and is under review process|~|
 |**2022-01-24**|**[Neural Architecture Searching for Facial Attributes-based Depression Recognition](http://arxiv.org/abs/2201.09799v1)**|~|~|
 |**2022-01-24**|**[Improved tracking of particles with highly correlated motion](http://arxiv.org/abs/2201.09752v1)**|6 pages, 5 figures|~|
 |**2022-01-24**|**[Learning Sparse and Continuous Graph Structures for Multivariate Time Series Forecasting](http://arxiv.org/abs/2201.09686v1)**|8 pages, in submission to IJCAI 2022|~|

@@ -8,6 +8,7 @@ layout: default
 
 | Date | Title | Comment | Code |
 |:-----|:------|:--------|:-----|
+|**2022-01-25**|**[Accounting for the Fraction of Carcasses outside the Searched Area and the Estimation of Bird and Bat Fatalities at Wind Energy Facilities](http://arxiv.org/abs/2201.10064v1)**|118 pages; 58 figures|~|
 |**2022-01-23**|**[Evaluating the accuracy of the actuator line model against blade element momentum theory in uniform inflow](http://arxiv.org/abs/2201.09368v1)**|13 pages, 8 figures|~|
 |**2022-01-21**|**[A Grid Fault Tolerant Doubly Fed Induction Generator Wind Turbine via Series Connected Grid Side Converter](http://arxiv.org/abs/2201.08879v1)**|~|~|
 |**2022-01-19**|**[Damping Identification of an Operational Offshore Wind Turbine using Enhanced Kalman filter-based Subspace Identification](http://arxiv.org/abs/2201.07531v1)**|submitted to Mechanical Systems and Signal Processing|~|
