@@ -13,7 +13,7 @@
 |**2022-01-21**|**[Blockchain-based Collaborated Federated Learning for Improved Security, Privacy and Reliability](http://arxiv.org/abs/2201.08551v1)**|Preliminary work|~|
 |**2022-01-21**|**[TOFU: Towards Obfuscated Federated Updates by Encoding Weight Updates into Gradients from Proxy Data](http://arxiv.org/abs/2201.08494v1)**|First two authors contributed equally to the paper|~|
 |**2022-01-20**|**[Federated Learning with Heterogeneous Architectures using Graph HyperNetworks](http://arxiv.org/abs/2201.08459v1)**|~|~|
-|**2022-01-20**|**[Minimax Demographic Group Fairness in Federated Learning](http://arxiv.org/abs/2201.08304v1)**|arXiv admin note: substantial text overlap with arXiv:2110.01999|~|
+|**2022-01-20**|**[Minimax Demographic Group Fairness in Federated Learning](http://arxiv.org/abs/2201.08304v2)**|arXiv admin note: substantial text overlap with arXiv:2110.01999|~|
 |**2022-01-19**|**[Towards Energy Efficient Distributed Federated Learning for 6G Networks](http://arxiv.org/abs/2201.08270v1)**|8 pages, 4 figures, 1 table, Magazine Article|~|
 |**2022-01-20**|**[Survey on Federated Learning Threats: concepts, taxonomy on attacks and defences, experimental study and challenges](http://arxiv.org/abs/2201.08135v1)**|~|~|
 |**2022-01-20**|**[Caring Without Sharing: A Federated Learning Crowdsensing Framework for Diversifying Representation of Cities](http://arxiv.org/abs/2201.07980v1)**|17 pages, 6 figures, submitted to EAI MobiQuitous 2021|~|
