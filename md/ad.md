@@ -6,7 +6,7 @@
 |----|-----|-------|----|
 |**2022-01-25**|**[Little Help Makes a Big Difference: Leveraging Active Learning to Improve Unsupervised Time Series Anomaly Detection](http://arxiv.org/abs/2201.10323v1)**|Paper accepted at the AIOPS 2021 workshop from the 19th International  Conference on Service-Oriented Computing (ICSOC).  (https://aiops2021.github.io/accepted_papers/index.html)|~|
 |**2022-01-25**|**[Quantum anomaly detection of audio samples with a spin processor in diamond](http://arxiv.org/abs/2201.10263v1)**|8 pages, 7 figures|~|
-|**2022-01-25**|**[A Hitchhiker's Guide to Anomaly Detection with Astronomaly](http://arxiv.org/abs/2201.10189v1)**|10 pages, 3 figures, to be published in Proc. ADASS XXXI (2021),  coincides with v1.2 release of Astronomaly  (https://github.com/MichelleLochner/astronomaly)|~|
+|**2022-01-25**|**[A Hitchhiker's Guide to Anomaly Detection with Astronomaly](http://arxiv.org/abs/2201.10189v1)**|10 pages, 3 figures, to be published in Proc. ADASS XXXI (2021),  coincides with v1.2 release of Astronomaly  (https://github.com/MichelleLochner/astronomaly)|[code](https://github.com/MichelleLochner/astronomaly)|
 |**2022-01-24**|**[Computing expectation values of density matrices for quantum anomaly detection](http://arxiv.org/abs/2201.10006v1)**|13 pages, 4 figures|~|
 |**2022-01-24**|**[Community-based anomaly detection using spectral graph filtering](http://arxiv.org/abs/2201.09936v1)**|~|~|
 |**2022-01-24**|**[Linear Laws of Markov Chains with an Application for Anomaly Detection in Bitcoin Prices](http://arxiv.org/abs/2201.09790v1)**|~|~|
