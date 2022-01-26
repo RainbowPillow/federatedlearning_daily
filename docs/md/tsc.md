@@ -26,7 +26,7 @@ layout: default
 |**2022-01-23**|**[Imposing Connectome-Derived Topology on an Echo State Network](http://arxiv.org/abs/2201.09359v1)**|6 pages, 9 figures|~|
 |**2022-01-23**|**[Fast Transient Stability Prediction Using Grid-informed Temporal and Topological Embedding Deep Neural Network](http://arxiv.org/abs/2201.09245v1)**|~|~|
 |**2022-01-23**|**[An Attention-based ConvLSTM Autoencoder with Dynamic Thresholding for Unsupervised Anomaly Detection in Multivariate Time Series](http://arxiv.org/abs/2201.09172v1)**|12 pages, 9 figures, thesis: https://ir.lib.uwo.ca/etd/7961/|~|
-|**2022-01-22**|**[Seasonality and spatial dependence of meso- and submesoscale ocean currents from along-track satellite altimetry](http://arxiv.org/abs/2201.09136v1)**|Submitted to the Journal of Physical Oceanography. The code used for  analyzing and displaying data can be found at  https://github.com/albionlawrence/sm-seasonality|~|
+|**2022-01-22**|**[Seasonality and spatial dependence of meso- and submesoscale ocean currents from along-track satellite altimetry](http://arxiv.org/abs/2201.09136v1)**|Submitted to the Journal of Physical Oceanography. The code used for  analyzing and displaying data can be found at  https://github.com/albionlawrence/sm-seasonality|[code](https://github.com/albionlawrence/sm-seasonality)|
 |**2022-01-22**|**[MIDAS: Deep learning human action intention prediction from natural eye movement patterns](http://arxiv.org/abs/2201.09135v1)**|~|~|
 |**2022-01-22**|**[HiSTGNN: Hierarchical Spatio-temporal Graph Neural Networks for Weather Forecasting](http://arxiv.org/abs/2201.09101v1)**|~|~|
 |**2022-01-21**|**[SciGRID_gas -- Data Model of the European Gas Transport Network](http://arxiv.org/abs/2201.08827v1)**|~|~|
