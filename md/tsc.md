@@ -4,6 +4,9 @@
 
 |Date|Title|Comment|Code|
 |----|-----|-------|----|
+|**2022-01-26**|**[S$^2$NN: Time Step Reduction of Spiking Surrogate Gradients for Training Energy Efficient Single-Step Neural Networks](http://arxiv.org/abs/2201.10879v1)**|19 pages, 5 figures|~|
+|**2022-01-26**|**[No evidence for an association between gender equality and pathogen prevalence -- a comment on Varnum and Grossmann 2017](http://arxiv.org/abs/2201.10799v1)**|~|~|
+|**2022-01-25**|**[Differentially-Private Heat and Electricity Markets Coordination](http://arxiv.org/abs/2201.10634v1)**|~|~|
 |**2022-01-25**|**[Multiscaling and rough volatility: an empirical investigation](http://arxiv.org/abs/2201.10466v1)**|~|~|
 |**2022-01-25**|**[Estimating and backtesting risk under heavy tails](http://arxiv.org/abs/2201.10454v1)**|arXiv admin note: text overlap with arXiv:2010.09937|~|
 |**2022-01-24**|**[COVID-19 Status Forecasting Using New Viral variants and Vaccination Effectiveness Models](http://arxiv.org/abs/2201.10356v1)**|~|~|

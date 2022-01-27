@@ -8,6 +8,8 @@ layout: default
 
 | Date | Title | Comment | Code |
 |:-----|:------|:--------|:-----|
+|**2022-01-26**|**[Learnable Wavelet Packet Transform for Data-Adapted Spectrograms](http://arxiv.org/abs/2201.11069v1)**|4 pages, 3 figures, accepted to ICASSP 2022 conference|~|
+|**2022-01-26**|**[Anomaly Detection via Reverse Distillation from One-Class Embedding](http://arxiv.org/abs/2201.10703v1)**|10 pages, 7 figures|~|
 |**2022-01-25**|**[Little Help Makes a Big Difference: Leveraging Active Learning to Improve Unsupervised Time Series Anomaly Detection](http://arxiv.org/abs/2201.10323v1)**|Paper accepted at the AIOPS 2021 workshop from the 19th International  Conference on Service-Oriented Computing (ICSOC).  (https://aiops2021.github.io/accepted_papers/index.html)|~|
 |**2022-01-25**|**[Quantum anomaly detection of audio samples with a spin processor in diamond](http://arxiv.org/abs/2201.10263v1)**|8 pages, 7 figures|~|
 |**2022-01-25**|**[A Hitchhiker's Guide to Anomaly Detection with Astronomaly](http://arxiv.org/abs/2201.10189v1)**|10 pages, 3 figures, to be published in Proc. ADASS XXXI (2021),  coincides with v1.2 release of Astronomaly  (https://github.com/MichelleLochner/astronomaly)|[code](https://github.com/MichelleLochner/astronomaly)|

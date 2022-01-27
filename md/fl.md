@@ -4,6 +4,10 @@
 
 |Date|Title|Comment|Code|
 |----|-----|-------|----|
+|**2022-01-26**|**[Server-Side Stepsizes and Sampling Without Replacement Provably Help in Federated Optimization](http://arxiv.org/abs/2201.11066v1)**|26 pages, 3 tables, 2 figures, 1 algorithm, conference paper|~|
+|**2022-01-26**|**[Fast Server Learning Rate Tuning for Coded Federated Dropout](http://arxiv.org/abs/2201.11036v1)**|6 pages plus references and appendix, 5 figures. Submitted to IJCAI22|~|
+|**2022-01-26**|**[Speeding up Heterogeneous Federated Learning with Sequentially Trained Superclients](http://arxiv.org/abs/2201.10899v1)**|Submitted to ICPR 2022|~|
+|**2022-01-26**|**[An Efficient and Robust System for Vertically Federated Random Forest](http://arxiv.org/abs/2201.10761v1)**|~|~|
 |**2022-01-25**|**[Stochastic Coded Federated Learning with Convergence and Privacy Guarantees](http://arxiv.org/abs/2201.10092v2)**|~|~|
 |**2022-01-24**|**[Decentralized EM to Learn Gaussian Mixtures from Datasets Distributed by Features](http://arxiv.org/abs/2201.09965v1)**|~|~|
 |**2022-01-24**|**[Towards Multi-Objective Statistically Fair Federated Learning](http://arxiv.org/abs/2201.09917v1)**|~|~|
