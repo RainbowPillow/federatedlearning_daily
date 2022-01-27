@@ -8,7 +8,7 @@ layout: default
 
 | Date | Title | Comment | Code |
 |:-----|:------|:--------|:-----|
-|**2022-01-25**|**[Stochastic Coded Federated Learning with Convergence and Privacy Guarantees](http://arxiv.org/abs/2201.10092v1)**|~|~|
+|**2022-01-25**|**[Stochastic Coded Federated Learning with Convergence and Privacy Guarantees](http://arxiv.org/abs/2201.10092v2)**|~|~|
 |**2022-01-24**|**[Decentralized EM to Learn Gaussian Mixtures from Datasets Distributed by Features](http://arxiv.org/abs/2201.09965v1)**|~|~|
 |**2022-01-24**|**[Towards Multi-Objective Statistically Fair Federated Learning](http://arxiv.org/abs/2201.09917v1)**|~|~|
 |**2022-01-24**|**[Communication-Efficient Stochastic Zeroth-Order Optimization for Federated Learning](http://arxiv.org/abs/2201.09531v1)**|13 pages, 4 figures|~|
