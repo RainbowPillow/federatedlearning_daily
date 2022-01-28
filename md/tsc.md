@@ -9,7 +9,7 @@
 |**2022-01-27**|**[Edge effects in radial porosity profiles from CT measurements and melt pool signal intensities for laser powder bed fusion](http://arxiv.org/abs/2201.11483v1)**|10 pages, 5 figures|~|
 |**2022-01-27**|**[Widening process and seasonal dynamics of the large-scale rift and its mélange in the 2nd largest ice shelf in Antarctica](http://arxiv.org/abs/2201.11480v1)**|31 pages, 12 figures|~|
 |**2022-01-26**|**[Stochastic Identification-based Active Sensing Acousto-Ultrasound SHM Using Stationary Time Series Models](http://arxiv.org/abs/2201.11233v1)**|~|~|
-|**2022-01-26**|**[Online Change Point Detection for Weighted and Directed Random Dot Product Graphs](http://arxiv.org/abs/2201.11222v1)**|Accepted in IEEE Transactions on Signal and Information Processing  over Networks|~|
+|**2022-01-26**|**[Online Change Point Detection for Weighted and Directed Random Dot Product Graphs](http://arxiv.org/abs/2201.11222v1)**|Accepted in IEEE Transactions on Signal and Information Processing  over Networks|[code](https://github.com/git-artes/cpd_rdpg)|
 |**2022-01-26**|**[Learning Mixtures of Linear Dynamical Systems](http://arxiv.org/abs/2201.11211v1)**|~|~|
 |**2022-01-26**|**[S$^2$NN: Time Step Reduction of Spiking Surrogate Gradients for Training Energy Efficient Single-Step Neural Networks](http://arxiv.org/abs/2201.10879v1)**|19 pages, 5 figures|~|
 |**2022-01-26**|**[No evidence for an association between gender equality and pathogen prevalence -- a comment on Varnum and Grossmann 2017](http://arxiv.org/abs/2201.10799v1)**|~|~|
