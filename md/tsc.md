@@ -8,7 +8,7 @@
 |**2022-01-26**|**[No evidence for an association between gender equality and pathogen prevalence -- a comment on Varnum and Grossmann 2017](http://arxiv.org/abs/2201.10799v1)**|~|~|
 |**2022-01-25**|**[Differentially-Private Heat and Electricity Markets Coordination](http://arxiv.org/abs/2201.10634v1)**|~|~|
 |**2022-01-25**|**[Multiscaling and rough volatility: an empirical investigation](http://arxiv.org/abs/2201.10466v1)**|~|~|
-|**2022-01-25**|**[Estimating and backtesting risk under heavy tails](http://arxiv.org/abs/2201.10454v1)**|arXiv admin note: text overlap with arXiv:2010.09937|~|
+|**2022-01-25**|**[Estimating and backtesting risk under heavy tails](http://arxiv.org/abs/2201.10454v2)**|Double submission. Please see arXiv:2010.09937|~|
 |**2022-01-24**|**[COVID-19 Status Forecasting Using New Viral variants and Vaccination Effectiveness Models](http://arxiv.org/abs/2201.10356v1)**|~|~|
 |**2022-01-25**|**[Little Help Makes a Big Difference: Leveraging Active Learning to Improve Unsupervised Time Series Anomaly Detection](http://arxiv.org/abs/2201.10323v1)**|Paper accepted at the AIOPS 2021 workshop from the 19th International  Conference on Service-Oriented Computing (ICSOC).  (https://aiops2021.github.io/accepted_papers/index.html)|~|
 |**2022-01-25**|**[Regime recovery using implied volatility in Markov modulated market model](http://arxiv.org/abs/2201.10304v1)**|18 pages, 9 images|[code](https://github.com/agiiser/regime-recovery)|
