@@ -4,6 +4,11 @@
 
 |Date|Title|Comment|Code|
 |----|-----|-------|----|
+|**2022-01-27**|**[Achieving Personalized Federated Learning with Sparse Local Models](http://arxiv.org/abs/2201.11380v1)**|~|~|
+|**2022-01-27**|**[Towards a Secure and Reliable Federated Learning using Blockchain](http://arxiv.org/abs/2201.11311v1)**|This paper has been accepted for publication by IEEE Global  Communications Conference (GLOBECOM). The final version will be published by  the IEEE|~|
+|**2022-01-27**|**[Clustered Vehicular Federated Learning: Process and Optimization](http://arxiv.org/abs/2201.11271v1)**|~|~|
+|**2022-01-27**|**[Electrical Load Forecasting Using Edge Computing and Federated Learning](http://arxiv.org/abs/2201.11248v1)**|ICC 2020-2020 IEEE International Conference on Communications (ICC)|~|
+|**2022-01-26**|**[Challenges and Opportunities for Machine Learning Classification of Behavior and Mental State from Images](http://arxiv.org/abs/2201.11197v1)**|30 pages, 1 figure, 1 table|~|
 |**2022-01-26**|**[Server-Side Stepsizes and Sampling Without Replacement Provably Help in Federated Optimization](http://arxiv.org/abs/2201.11066v1)**|26 pages, 3 tables, 2 figures, 1 algorithm, conference paper|~|
 |**2022-01-26**|**[Fast Server Learning Rate Tuning for Coded Federated Dropout](http://arxiv.org/abs/2201.11036v1)**|6 pages plus references and appendix, 5 figures. Submitted to IJCAI22|~|
 |**2022-01-26**|**[Speeding up Heterogeneous Federated Learning with Sequentially Trained Superclients](http://arxiv.org/abs/2201.10899v1)**|Submitted to ICPR 2022|~|
