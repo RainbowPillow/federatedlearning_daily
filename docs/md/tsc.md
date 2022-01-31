@@ -8,6 +8,14 @@ layout: default
 
 | Date | Title | Comment | Code |
 |:-----|:------|:--------|:-----|
+|**2022-01-23**|**[Simulating Using Deep Learning The World Trade Forecasting of Export-Import Exchange Rate Convergence Factor During COVID-19](http://arxiv.org/abs/2201.12291v1)**|Accepted in ICDLAIR 2021|~|
+|**2022-01-28**|**[Cause-Effect Preservation and Classification using Neurochaos Learning](http://arxiv.org/abs/2201.12181v1)**|13 pages, 16 figures, 2 tables|~|
+|**2022-01-28**|**[The FreshPRINCE: A Simple Transformation Based Pipeline Time Series Classifier](http://arxiv.org/abs/2201.12048v1)**|~|~|
+|**2022-01-28**|**[Dynamic Temporal Reconciliation by Reinforcement learning](http://arxiv.org/abs/2201.11964v1)**|~|~|
+|**2022-01-28**|**[Non-Stationary Time Series Model for Station Based Subway Ridership During Covid-19 Pandemic (Case Study: New York City)](http://arxiv.org/abs/2201.11951v1)**|28 pages, 6 figures, 4 tables|~|
+|**2022-01-28**|**[Time-Series Anomaly Detection with Implicit Neural Representation](http://arxiv.org/abs/2201.11950v1)**|~|[code](https://github.com/kyeongjoong/inrad)|
+|**2022-01-28**|**[Unifying Pairwise Interactions in Complex Dynamics](http://arxiv.org/abs/2201.11941v1)**|~|~|
+|**2022-01-27**|**[An application of Saddlepoint Approximation for period detection of stellar light observations](http://arxiv.org/abs/2201.11762v1)**|~|~|
 |**2022-01-27**|**[Robust Augmentation for Multivariate Time Series Classification](http://arxiv.org/abs/2201.11739v1)**|~|~|
 |**2022-01-27**|**[Unsupervised Change Detection using DRE-CUSUM](http://arxiv.org/abs/2201.11678v1)**|~|~|
 |**2022-01-27**|**[Edge effects in radial porosity profiles from CT measurements and melt pool signal intensities for laser powder bed fusion](http://arxiv.org/abs/2201.11483v1)**|10 pages, 5 figures|~|

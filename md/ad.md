@@ -4,6 +4,8 @@
 
 |Date|Title|Comment|Code|
 |----|-----|-------|----|
+|**2022-01-28**|**[Bioinspired Cortex-based Fast Codebook Generation](http://arxiv.org/abs/2201.12322v1)**|17 pages, 6 Figures in Main Text, 5 Figures in Methods plus Appendix,  and 54 references cited|~|
+|**2022-01-28**|**[Time-Series Anomaly Detection with Implicit Neural Representation](http://arxiv.org/abs/2201.11950v1)**|~|[code](https://github.com/kyeongjoong/inrad)|
 |**2022-01-06**|**[BFS based distributed algorithm for parallel local directed sub-graph enumeration](http://arxiv.org/abs/2201.11655v1)**|~|[code](https://github.com/louzounlab/graph-measures)|
 |**2022-01-26**|**[Learnable Wavelet Packet Transform for Data-Adapted Spectrograms](http://arxiv.org/abs/2201.11069v1)**|4 pages, 3 figures, accepted to ICASSP 2022 conference|~|
 |**2022-01-26**|**[Anomaly Detection via Reverse Distillation from One-Class Embedding](http://arxiv.org/abs/2201.10703v1)**|10 pages, 7 figures|~|
