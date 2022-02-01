@@ -8,7 +8,7 @@ layout: default
 
 | Date | Title | Comment | Code |
 |:-----|:------|:--------|:-----|
-|**2022-01-31**|**[Deep Learning Macroeconomics](http://arxiv.org/abs/2201.13380v1)**|Doctoral thesis|~|
+|**2022-01-31**|**[Deep Learning Macroeconomics](http://arxiv.org/abs/2201.13380v1)**|Doctoral thesis|[code](https://github.com/rrsguim/phd_economics)|
 |**2022-01-31**|**[Magnitude-squared coherence: A powerful tool for disentangling Doppler planet discoveries from stellar activity](http://arxiv.org/abs/2201.13342v1)**|Submitted to AJ, responded to input from referee. 35 pages (29 in  main body of article) include 21 figures|~|
 |**2022-01-31**|**[Some asymptotic results for time series model selection](http://arxiv.org/abs/2201.13273v1)**|~|~|
 |**2022-01-31**|**[A skew logistic distribution with application to modelling COVID-19 epidemic waves](http://arxiv.org/abs/2201.13257v1)**|14 pages, 2 figures|~|
