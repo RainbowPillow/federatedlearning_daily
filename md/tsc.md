@@ -10,7 +10,7 @@
 |**2022-01-31**|**[A skew logistic distribution with application to modelling COVID-19 epidemic waves](http://arxiv.org/abs/2201.13257v1)**|14 pages, 2 figures|~|
 |**2022-01-31**|**[A General Description of Growth Trends](http://arxiv.org/abs/2201.13000v1)**|17 pages, 4 figures. To be published in Special Issue "Modern Time  Series Analysis" of the journal Stats|~|
 |**2022-01-30**|**[FEDformer: Frequency Enhanced Decomposed Transformer for Long-term Series Forecasting](http://arxiv.org/abs/2201.12740v1)**|~|~|
-|**2022-01-29**|**[Spherical Convolution empowered FoV Prediction in 360-degree Video Multicast with Limited FoV Feedback](http://arxiv.org/abs/2201.12525v1)**|~|~|
+|**2022-01-29**|**[Spherical Convolution empowered FoV Prediction in 360-degree Video Multicast with Limited FoV Feedback](http://arxiv.org/abs/2201.12525v1)**|~|[code](https://github.com/hankebo/spvp360)|
 |**2022-01-23**|**[Simulating Using Deep Learning The World Trade Forecasting of Export-Import Exchange Rate Convergence Factor During COVID-19](http://arxiv.org/abs/2201.12291v1)**|Accepted in ICDLAIR 2021|~|
 |**2022-01-28**|**[Cause-Effect Preservation and Classification using Neurochaos Learning](http://arxiv.org/abs/2201.12181v1)**|13 pages, 16 figures, 2 tables|~|
 |**2022-01-28**|**[The FreshPRINCE: A Simple Transformation Based Pipeline Time Series Classifier](http://arxiv.org/abs/2201.12048v1)**|~|~|

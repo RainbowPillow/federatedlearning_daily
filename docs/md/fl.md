@@ -18,7 +18,7 @@ layout: default
 |**2022-01-29**|**[Towards Fast and Accurate Federated Learning with non-IID Data for Cloud-Based IoT Applications](http://arxiv.org/abs/2201.12515v1)**|FL|~|
 |**2022-01-29**|**[Random Orthogonalization for Federated Learning in Massive MIMO Systems](http://arxiv.org/abs/2201.12490v1)**|6 pages, 1 table, 4 figures, accepted to International Conference on  Communications (ICC) 2022|~|
 |**2022-01-29**|**[Improving Federated Learning Face Recognition via Privacy-Agnostic Clusters](http://arxiv.org/abs/2201.12467v1)**|ICLR2022, Spotlight|~|
-|**2022-01-28**|**[FedGCN: Convergence and Communication Tradeoffs in Federated Training of Graph Convolutional Networks](http://arxiv.org/abs/2201.12433v1)**|~|~|
+|**2022-01-28**|**[FedGCN: Convergence and Communication Tradeoffs in Federated Training of Graph Convolutional Networks](http://arxiv.org/abs/2201.12433v1)**|~|[code](https://github.com/yh-yao/federated-gcn)|
 |**2022-01-28**|**[Gradient Masked Averaging for Federated Learning](http://arxiv.org/abs/2201.11986v1)**|~|~|
 |**2022-01-28**|**[A Secure and Efficient Federated Learning Framework for NLP](http://arxiv.org/abs/2201.11934v1)**|Accepted by EMNLP 2021|~|
 |**2022-01-28**|**[FedLite: A Scalable Approach for Federated Learning on Resource-constrained Clients](http://arxiv.org/abs/2201.11865v1)**|~|~|
