@@ -4,6 +4,7 @@
 
 |Date|Title|Comment|Code|
 |----|-----|-------|----|
+|**2022-01-31**|**[Vibration Fault Diagnosis in Wind Turbines based on Automated Feature Learning](http://arxiv.org/abs/2201.13403v1)**|~|~|
 |**2022-01-26**|**[Implementation of Advanced Wind Turbine Controllers for Scaled Turbine Testing in a Wind Tunnel](http://arxiv.org/abs/2201.11198v1)**|Proceedings of the EAWE PhD Seminar on Wind Energy|~|
 |**2022-01-25**|**[Accounting for the Fraction of Carcasses outside the Searched Area and the Estimation of Bird and Bat Fatalities at Wind Energy Facilities](http://arxiv.org/abs/2201.10064v1)**|118 pages; 58 figures|~|
 |**2022-01-23**|**[Evaluating the accuracy of the actuator line model against blade element momentum theory in uniform inflow](http://arxiv.org/abs/2201.09368v1)**|13 pages, 8 figures|~|

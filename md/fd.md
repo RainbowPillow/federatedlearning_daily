@@ -4,6 +4,7 @@
 
 |Date|Title|Comment|Code|
 |----|-----|-------|----|
+|**2022-01-31**|**[Vibration Fault Diagnosis in Wind Turbines based on Automated Feature Learning](http://arxiv.org/abs/2201.13403v1)**|~|~|
 |**2022-01-20**|**[Transfer Learning for Fault Diagnosis of Transmission Lines](http://arxiv.org/abs/2201.08018v1)**|~|~|
 |**2021-12-17**|**[Feature extraction and classification algorithm, which one is more essential? An experimental study on a specific task of vibration signal diagnosis](http://arxiv.org/abs/2112.09389v1)**|~|~|
 |**2021-12-11**|**[Technical Language Supervision for Intelligent Fault Diagnosis in Process Industry](http://arxiv.org/abs/2112.07356v1)**|~|~|

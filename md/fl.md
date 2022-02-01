@@ -4,6 +4,17 @@
 
 |Date|Title|Comment|Code|
 |----|-----|-------|----|
+|**2022-01-31**|**[Sample Optimality and All-for-all Strategies in Personalized Federated and Collaborative Learning](http://arxiv.org/abs/2201.13097v1)**|~|~|
+|**2022-01-31**|**[Securing Federated Sensitive Topic Classification against Poisoning Attacks](http://arxiv.org/abs/2201.13086v1)**|~|~|
+|**2022-01-31**|**[Federated Learning with Erroneous Communication Links](http://arxiv.org/abs/2201.12991v1)**|The paper is submitted to IEEE Communications Letters|~|
+|**2022-01-31**|**[Heterogeneous Federated Learning via Grouped Sequential-to-Parallel Training](http://arxiv.org/abs/2201.12976v1)**|Accepted by the 27th International Conference on Database Systems for  Advanced Applications (DASFAA-2022), Hyderabad, India|~|
+|**2022-01-30**|**[Communication-Efficient Consensus Mechanism for Federated Reinforcement Learning](http://arxiv.org/abs/2201.12718v1)**|arXiv admin note: substantial text overlap with arXiv:2103.13026|~|
+|**2022-01-30**|**[DearFSAC: An Approach to Optimizing Unreliable Federated Learning via Deep Reinforcement Learning](http://arxiv.org/abs/2201.12701v1)**|~|~|
+|**2022-01-29**|**[Decepticons: Corrupted Transformers Breach Privacy in Federated Learning for Language Models](http://arxiv.org/abs/2201.12675v1)**|First two authors contributed equally. Order chosen by coin flip|~|
+|**2022-01-29**|**[Towards Fast and Accurate Federated Learning with non-IID Data for Cloud-Based IoT Applications](http://arxiv.org/abs/2201.12515v1)**|FL|~|
+|**2022-01-29**|**[Random Orthogonalization for Federated Learning in Massive MIMO Systems](http://arxiv.org/abs/2201.12490v1)**|6 pages, 1 table, 4 figures, accepted to International Conference on  Communications (ICC) 2022|~|
+|**2022-01-29**|**[Improving Federated Learning Face Recognition via Privacy-Agnostic Clusters](http://arxiv.org/abs/2201.12467v1)**|ICLR2022, Spotlight|~|
+|**2022-01-28**|**[FedGCN: Convergence and Communication Tradeoffs in Federated Training of Graph Convolutional Networks](http://arxiv.org/abs/2201.12433v1)**|~|~|
 |**2022-01-28**|**[Gradient Masked Averaging for Federated Learning](http://arxiv.org/abs/2201.11986v1)**|~|~|
 |**2022-01-28**|**[A Secure and Efficient Federated Learning Framework for NLP](http://arxiv.org/abs/2201.11934v1)**|Accepted by EMNLP 2021|~|
 |**2022-01-28**|**[FedLite: A Scalable Approach for Federated Learning on Resource-constrained Clients](http://arxiv.org/abs/2201.11865v1)**|~|~|

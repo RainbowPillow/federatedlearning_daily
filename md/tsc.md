@@ -4,13 +4,20 @@
 
 |Date|Title|Comment|Code|
 |----|-----|-------|----|
+|**2022-01-31**|**[Deep Learning Macroeconomics](http://arxiv.org/abs/2201.13380v1)**|Doctoral thesis|~|
+|**2022-01-31**|**[Magnitude-squared coherence: A powerful tool for disentangling Doppler planet discoveries from stellar activity](http://arxiv.org/abs/2201.13342v1)**|Submitted to AJ, responded to input from referee. 35 pages (29 in  main body of article) include 21 figures|~|
+|**2022-01-31**|**[Some asymptotic results for time series model selection](http://arxiv.org/abs/2201.13273v1)**|~|~|
+|**2022-01-31**|**[A skew logistic distribution with application to modelling COVID-19 epidemic waves](http://arxiv.org/abs/2201.13257v1)**|14 pages, 2 figures|~|
+|**2022-01-31**|**[A General Description of Growth Trends](http://arxiv.org/abs/2201.13000v1)**|17 pages, 4 figures. To be published in Special Issue "Modern Time  Series Analysis" of the journal Stats|~|
+|**2022-01-30**|**[FEDformer: Frequency Enhanced Decomposed Transformer for Long-term Series Forecasting](http://arxiv.org/abs/2201.12740v1)**|~|~|
+|**2022-01-29**|**[Spherical Convolution empowered FoV Prediction in 360-degree Video Multicast with Limited FoV Feedback](http://arxiv.org/abs/2201.12525v1)**|~|~|
 |**2022-01-23**|**[Simulating Using Deep Learning The World Trade Forecasting of Export-Import Exchange Rate Convergence Factor During COVID-19](http://arxiv.org/abs/2201.12291v1)**|Accepted in ICDLAIR 2021|~|
 |**2022-01-28**|**[Cause-Effect Preservation and Classification using Neurochaos Learning](http://arxiv.org/abs/2201.12181v1)**|13 pages, 16 figures, 2 tables|~|
 |**2022-01-28**|**[The FreshPRINCE: A Simple Transformation Based Pipeline Time Series Classifier](http://arxiv.org/abs/2201.12048v1)**|~|~|
 |**2022-01-28**|**[Dynamic Temporal Reconciliation by Reinforcement learning](http://arxiv.org/abs/2201.11964v1)**|~|~|
 |**2022-01-28**|**[Non-Stationary Time Series Model for Station Based Subway Ridership During Covid-19 Pandemic (Case Study: New York City)](http://arxiv.org/abs/2201.11951v1)**|28 pages, 6 figures, 4 tables|~|
 |**2022-01-28**|**[Time-Series Anomaly Detection with Implicit Neural Representation](http://arxiv.org/abs/2201.11950v1)**|~|[code](https://github.com/kyeongjoong/inrad)|
-|**2022-01-28**|**[Unifying Pairwise Interactions in Complex Dynamics](http://arxiv.org/abs/2201.11941v1)**|~|~|
+|**2022-01-28**|**[Unifying Pairwise Interactions in Complex Dynamics](http://arxiv.org/abs/2201.11941v1)**|~|[code](https://github.com/olivercliff/pyspi)|
 |**2022-01-27**|**[An application of Saddlepoint Approximation for period detection of stellar light observations](http://arxiv.org/abs/2201.11762v1)**|~|~|
 |**2022-01-27**|**[Robust Augmentation for Multivariate Time Series Classification](http://arxiv.org/abs/2201.11739v1)**|~|~|
 |**2022-01-27**|**[Unsupervised Change Detection using DRE-CUSUM](http://arxiv.org/abs/2201.11678v1)**|~|~|
