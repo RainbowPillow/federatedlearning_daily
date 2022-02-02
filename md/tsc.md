@@ -4,6 +4,14 @@
 
 |Date|Title|Comment|Code|
 |----|-----|-------|----|
+|**2022-02-01**|**[Parameter estimation for the FOU(p) process with the same lambda](http://arxiv.org/abs/2202.00642v1)**|18 pages, 2 figures|~|
+|**2022-02-01**|**[Black-box Bayesian inference for economic agent-based models](http://arxiv.org/abs/2202.00625v1)**|~|~|
+|**2022-01-31**|**[Similarity Learning based Few Shot Learning for ECG Time Series Classification](http://arxiv.org/abs/2202.00612v1)**|7 pages, 4 figures. Published as part of the DICTA 2021 conference  proceedings|~|
+|**2022-02-01**|**[Semantic of Cloud Computing services for Time Series workflows](http://arxiv.org/abs/2202.00609v1)**|11 pages, 12 figures|~|
+|**2022-02-01**|**[Quantum Machine Learning in Finance: Time Series Forecasting](http://arxiv.org/abs/2202.00599v1)**|20 pages, 8 figures, 3 tables|~|
+|**2022-02-01**|**[Eruptions from coronal bright points: A spectroscopic view by IRIS of a mini-filament eruption, QSL reconnection, and reconnection-driven outflows](http://arxiv.org/abs/2202.00370v1)**|accepted for publication in A&A, the abstract is reduced in size, for  the movies contact MM|~|
+|**2022-01-31**|**[Partial Sum Processes of Residual-Based and Wald-type Break-Point Statistics in Time Series Regression Models](http://arxiv.org/abs/2202.00141v1)**|~|~|
+|**2022-01-31**|**[Imbedding Deep Neural Networks](http://arxiv.org/abs/2202.00113v1)**|Accepted as a spotlight paper at the 10th International Conference on  Learning Representations (ICLR), 2022|~|
 |**2022-01-31**|**[Deep Learning Macroeconomics](http://arxiv.org/abs/2201.13380v1)**|Doctoral thesis|[code](https://github.com/rrsguim/phd_economics)|
 |**2022-01-31**|**[Magnitude-squared coherence: A powerful tool for disentangling Doppler planet discoveries from stellar activity](http://arxiv.org/abs/2201.13342v1)**|Submitted to AJ, responded to input from referee. 35 pages (29 in  main body of article) include 21 figures|~|
 |**2022-01-31**|**[Some asymptotic results for time series model selection](http://arxiv.org/abs/2201.13273v1)**|~|~|

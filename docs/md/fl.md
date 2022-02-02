@@ -8,6 +8,11 @@ layout: default
 
 | Date | Title | Comment | Code |
 |:-----|:------|:--------|:-----|
+|**2022-02-01**|**[Fishing for User Data in Large-Batch Federated Learning via Gradient Magnification](http://arxiv.org/abs/2202.00580v1)**|First three authors contributed equally, order chosen randomly. 21  pages, 9 figures|~|
+|**2022-02-01**|**[Recycling Model Updates in Federated Learning: Are Gradient Subspaces Low-Rank?](http://arxiv.org/abs/2202.00280v1)**|In Proceedings of the 10th International Conference on Learning  Representations (ICLR) 2022|~|
+|**2022-02-01**|**[Factorized-FL: Agnostic Personalized Federated Learning with Kernel Factorization & Similarity Matching](http://arxiv.org/abs/2202.00270v1)**|~|~|
+|**2022-02-01**|**[Federated Active Learning (F-AL): an Efficient Annotation Strategy for Federated Learning](http://arxiv.org/abs/2202.00195v1)**|13 pages, 9 figures, submitted for conference publication|~|
+|**2022-01-31**|**[Studying the Robustness of Anti-adversarial Federated Learning Models Detecting Cyberattacks in IoT Spectrum Sensors](http://arxiv.org/abs/2202.00137v1)**|~|~|
 |**2022-01-31**|**[Sample Optimality and All-for-all Strategies in Personalized Federated and Collaborative Learning](http://arxiv.org/abs/2201.13097v2)**|~|~|
 |**2022-01-31**|**[Securing Federated Sensitive Topic Classification against Poisoning Attacks](http://arxiv.org/abs/2201.13086v1)**|~|~|
 |**2022-01-31**|**[Federated Learning with Erroneous Communication Links](http://arxiv.org/abs/2201.12991v1)**|The paper is submitted to IEEE Communications Letters|~|
