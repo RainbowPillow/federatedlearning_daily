@@ -8,7 +8,7 @@ layout: default
 
 | Date | Title | Comment | Code |
 |:-----|:------|:--------|:-----|
-|**2022-01-31**|**[Sample Optimality and All-for-all Strategies in Personalized Federated and Collaborative Learning](http://arxiv.org/abs/2201.13097v1)**|~|~|
+|**2022-01-31**|**[Sample Optimality and All-for-all Strategies in Personalized Federated and Collaborative Learning](http://arxiv.org/abs/2201.13097v2)**|~|~|
 |**2022-01-31**|**[Securing Federated Sensitive Topic Classification against Poisoning Attacks](http://arxiv.org/abs/2201.13086v1)**|~|~|
 |**2022-01-31**|**[Federated Learning with Erroneous Communication Links](http://arxiv.org/abs/2201.12991v1)**|The paper is submitted to IEEE Communications Letters|~|
 |**2022-01-31**|**[Heterogeneous Federated Learning via Grouped Sequential-to-Parallel Training](http://arxiv.org/abs/2201.12976v1)**|Accepted by the 27th International Conference on Database Systems for  Advanced Applications (DASFAA-2022), Hyderabad, India|~|

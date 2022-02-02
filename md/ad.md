@@ -17,13 +17,13 @@
 |**2022-01-24**|**[Computing expectation values of density matrices for quantum anomaly detection](http://arxiv.org/abs/2201.10006v1)**|13 pages, 4 figures|~|
 |**2022-01-24**|**[Community-based anomaly detection using spectral graph filtering](http://arxiv.org/abs/2201.09936v1)**|~|~|
 |**2022-01-24**|**[Linear Laws of Markov Chains with an Application for Anomaly Detection in Bitcoin Prices](http://arxiv.org/abs/2201.09790v1)**|~|~|
-|**2022-01-24**|**[Adversarial Classification under Gaussian Mechanism: Calibrating the Attack to Sensitivity](http://arxiv.org/abs/2201.09751v1)**|~|~|
+|**2022-01-24**|**[Adversarial Classification under Gaussian Mechanism: Calibrating the Attack to Sensitivity](http://arxiv.org/abs/2201.09751v2)**|~|~|
 |**2022-01-23**|**[An Attention-based ConvLSTM Autoencoder with Dynamic Thresholding for Unsupervised Anomaly Detection in Multivariate Time Series](http://arxiv.org/abs/2201.09172v1)**|12 pages, 9 figures, thesis: https://ir.lib.uwo.ca/etd/7961/|~|
 |**2022-01-21**|**[A machine learning algorithm for minute-long Burst searches](http://arxiv.org/abs/2201.08727v1)**|14 pages, 15 figures|~|
 |**2022-01-20**|**[Effective Anomaly Detection in Smart Home by Integrating Event Time Intervals](http://arxiv.org/abs/2201.07954v1)**|~|~|
 |**2022-01-17**|**[Machine Learning Enhances Algorithms for Quantifying Non-Equilibrium Dynamics in Correlation Spectroscopy Experiments to Reach Frame-Rate-Limited Time Resolution](http://arxiv.org/abs/2201.07889v1)**|~|~|
 |**2022-01-19**|**[Compressed Smooth Sparse Decomposition](http://arxiv.org/abs/2201.07404v1)**|~|~|
-|**2022-01-18**|**[TranAD: Deep Transformer Networks for Anomaly Detection in Multivariate Time Series Data](http://arxiv.org/abs/2201.07284v1)**|Accepted in VLDB 2022|[code](https://github.com/imperial-qore/tranad)|
+|**2022-01-18**|**[TranAD: Deep Transformer Networks for Anomaly Detection in Multivariate Time Series Data](http://arxiv.org/abs/2201.07284v2)**|Accepted in VLDB 2022|[code](https://github.com/imperial-qore/tranad)|
 |**2022-01-18**|**[Invariant Representation Driven Neural Classifier for Anti-QCD Jet Tagging](http://arxiv.org/abs/2201.07199v1)**|25 pages, 10 figures|~|
 |**2022-01-18**|**[Online Time Series Anomaly Detection with State Space Gaussian Processes](http://arxiv.org/abs/2201.06763v1)**|~|~|
 |**2022-01-18**|**[Antimodes and Graphical Anomaly Exploration via Depth Quantile Functions](http://arxiv.org/abs/2201.06682v1)**|21 pages, 12 figures|[code](https://github.com/gabechandler/anomalydetection)|
