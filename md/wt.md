@@ -4,6 +4,7 @@
 
 |Date|Title|Comment|Code|
 |----|-----|-------|----|
+|**2022-02-02**|**[Getting more with less? Why repowering onshore wind farms does not always lead to more wind power generation -- a German case study](http://arxiv.org/abs/2202.00945v1)**|~|~|
 |**2022-01-31**|**[Vibration Fault Diagnosis in Wind Turbines based on Automated Feature Learning](http://arxiv.org/abs/2201.13403v1)**|~|~|
 |**2022-01-26**|**[Implementation of Advanced Wind Turbine Controllers for Scaled Turbine Testing in a Wind Tunnel](http://arxiv.org/abs/2201.11198v1)**|Proceedings of the EAWE PhD Seminar on Wind Energy|~|
 |**2022-01-25**|**[Accounting for the Fraction of Carcasses outside the Searched Area and the Estimation of Bird and Bat Fatalities at Wind Energy Facilities](http://arxiv.org/abs/2201.10064v1)**|118 pages; 58 figures|~|

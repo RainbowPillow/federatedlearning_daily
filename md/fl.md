@@ -4,6 +4,10 @@
 
 |Date|Title|Comment|Code|
 |----|-----|-------|----|
+|**2022-02-02**|**[Federated Reinforcement Learning for Collective Navigation of Robotic Swarms](http://arxiv.org/abs/2202.01141v1)**|9 pages, 5 figures, submitted to IEEE Transactions on Cognitive and  Developmental Systems Journal|~|
+|**2022-02-02**|**[Communication Efficient Federated Learning for Generalized Linear Bandits](http://arxiv.org/abs/2202.01087v1)**|36 pages, 3 figures|~|
+|**2022-02-01**|**[Federated Learning Challenges and Opportunities: An Outlook](http://arxiv.org/abs/2202.00807v1)**|This paper provides an outlook on FL development as part of the  ICASSP 2022 special session entitled "Frontiers of Federated Learning:  Applications, Challenges, and Opportunities"|~|
+|**2022-02-01**|**[Personalized Federated Learning via Convex Clustering](http://arxiv.org/abs/2202.00718v1)**|~|~|
 |**2022-02-01**|**[Fishing for User Data in Large-Batch Federated Learning via Gradient Magnification](http://arxiv.org/abs/2202.00580v1)**|First three authors contributed equally, order chosen randomly. 21  pages, 9 figures|~|
 |**2022-02-01**|**[Recycling Model Updates in Federated Learning: Are Gradient Subspaces Low-Rank?](http://arxiv.org/abs/2202.00280v1)**|In Proceedings of the 10th International Conference on Learning  Representations (ICLR) 2022|[code](https://github.com/shams-sam/fedoptim)|
 |**2022-02-01**|**[Factorized-FL: Agnostic Personalized Federated Learning with Kernel Factorization & Similarity Matching](http://arxiv.org/abs/2202.00270v1)**|~|~|
