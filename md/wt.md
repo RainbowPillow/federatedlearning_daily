@@ -10,7 +10,7 @@
 |**2022-01-23**|**[Evaluating the accuracy of the actuator line model against blade element momentum theory in uniform inflow](http://arxiv.org/abs/2201.09368v1)**|13 pages, 8 figures|~|
 |**2022-01-21**|**[A Grid Fault Tolerant Doubly Fed Induction Generator Wind Turbine via Series Connected Grid Side Converter](http://arxiv.org/abs/2201.08879v1)**|~|~|
 |**2022-01-19**|**[Damping Identification of an Operational Offshore Wind Turbine using Enhanced Kalman filter-based Subspace Identification](http://arxiv.org/abs/2201.07531v1)**|submitted to Mechanical Systems and Signal Processing|~|
-|**2022-01-13**|**[Upward lightning at tall structures: Atmospheric drivers for trigger mechanisms and flash type](http://arxiv.org/abs/2201.05663v1)**|~|~|
+|**2022-01-13**|**[Upward lightning at tall structures: Atmospheric drivers for trigger mechanisms and flash type](http://arxiv.org/abs/2201.05663v2)**|~|~|
 |**2021-12-19**|**[On-line Estimation of the Parameters of the Windmill Power Coefficient](http://arxiv.org/abs/2112.10233v1)**|9 figures, 23 pages|~|
 |**2021-12-13**|**[A Review: Challenges and Opportunities for Artificial Intelligence and Robotics in the Offshore Wind Sector](http://arxiv.org/abs/2112.06620v1)**|36 figures, 49 pages|~|
 |**2021-12-09**|**[Measuring Wind Turbine Health Using Drifting Concepts](http://arxiv.org/abs/2112.04933v1)**|~|~|
