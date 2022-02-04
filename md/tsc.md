@@ -4,11 +4,17 @@
 
 |Date|Title|Comment|Code|
 |----|-----|-------|----|
+|**2022-02-03**|**[Skeleton-Based Action Segmentation with Multi-Stage Spatial-Temporal Graph Convolutional Neural Networks](http://arxiv.org/abs/2202.01727v1)**|~|[code](https://github.com/benjaminfiltjens/ms-gcn)|
+|**2022-02-03**|**[Review of automated time series forecasting pipelines](http://arxiv.org/abs/2202.01712v1)**|~|~|
+|**2022-02-03**|**[CoST: Contrastive Learning of Disentangled Seasonal-Trend Representations for Time Series Forecasting](http://arxiv.org/abs/2202.01575v1)**|~|~|
+|**2022-02-03**|**[Statistical inference in factor analysis for diffusion processes from discrete observations](http://arxiv.org/abs/2202.01481v1)**|49 pages, 234 figures|~|
+|**2022-02-03**|**[ETSformer: Exponential Smoothing Transformers for Time-series Forecasting](http://arxiv.org/abs/2202.01381v1)**|~|~|
+|**2022-02-02**|**[TOI-1759 b: a transiting sub-Neptune around a low mass star characterized with SPIRou and TESS](http://arxiv.org/abs/2202.01259v1)**|Accepted for publication in the 10. Planets and planetary systems  section of Astronomy & Astrophysics|~|
 |**2022-02-02**|**[Ergodic descriptors of nonergodic stochastic processes](http://arxiv.org/abs/2202.01091v1)**|26 pages, 10 figures|~|
 |**2022-02-02**|**[2T-POT Hawkes model for dynamic left- and right-tail quantile forecasts of financial returns: out-of-sample validation of self-exciting extremes versus conditional volatility](http://arxiv.org/abs/2202.01043v1)**|Main paper: 21 pages, 7 figures, 5 tables. Supplementary material: 12  pages, 14 figures|~|
 |**2022-02-02**|**[Inverse covariance operators of multivariate nonstationary time series](http://arxiv.org/abs/2202.00933v2)**|~|~|
 |**2022-02-02**|**[Methodology for forecasting and optimization in IEEE-CIS 3rd Technical Challenge](http://arxiv.org/abs/2202.00894v1)**|4 pages, 3 figures|[code](https://github.com/RichardBean/IEEE-Predict-Optimize-Challenge)|
-|**2022-02-02**|**[Bayesian Imputation with Optimal Look-Ahead-Bias and Variance Tradeoff](http://arxiv.org/abs/2202.00871v1)**|arXiv admin note: text overlap with arXiv:2102.12736|~|
+|**2022-02-02**|**[Bayesian Imputation with Optimal Look-Ahead-Bias and Variance Tradeoff](http://arxiv.org/abs/2202.00871v1)**|arXiv admin note: text overlap with arXiv:2102.12736|[code](https://github.com/xuhuiustc/time-series-imputation)|
 |**2022-02-01**|**[Parameter estimation for the FOU(p) process with the same lambda](http://arxiv.org/abs/2202.00642v1)**|18 pages, 2 figures|~|
 |**2022-02-01**|**[Black-box Bayesian inference for economic agent-based models](http://arxiv.org/abs/2202.00625v1)**|~|~|
 |**2022-01-31**|**[Similarity Learning based Few Shot Learning for ECG Time Series Classification](http://arxiv.org/abs/2202.00612v1)**|7 pages, 4 figures. Published as part of the DICTA 2021 conference  proceedings|~|

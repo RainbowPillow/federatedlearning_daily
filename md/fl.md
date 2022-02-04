@@ -4,6 +4,12 @@
 
 |Date|Title|Comment|Code|
 |----|-----|-------|----|
+|**2022-02-03**|**[Equality Is Not Equity: Proportional Fairness in Federated Learning](http://arxiv.org/abs/2202.01666v1)**|34 pages|~|
+|**2022-02-03**|**[Byzantine-Robust Decentralized Learning via Self-Centered Clipping](http://arxiv.org/abs/2202.01545v1)**|~|[code](https://github.com/epfml/byzantine-robust-decentralized-optimizer)|
+|**2022-02-03**|**[Comparative assessment of federated and centralized machine learning](http://arxiv.org/abs/2202.01529v1)**|15 pages, 7 figures, 1 table|~|
+|**2022-02-03**|**[Data Heterogeneity-Robust Federated Learning via Group Client Selection in Industrial IoT](http://arxiv.org/abs/2202.01512v1)**|~|[code](https://github.com/lizonghang/fedgs)|
+|**2022-02-02**|**[DASHA: Distributed Nonconvex Optimization with Communication Compression, Optimal Oracle Complexity, and No Client Synchronization](http://arxiv.org/abs/2202.01268v1)**|~|~|
+|**2022-02-02**|**[FedSpace: An Efficient Federated Learning Framework at Satellites and Ground Stations](http://arxiv.org/abs/2202.01267v1)**|~|~|
 |**2022-02-02**|**[Federated Reinforcement Learning for Collective Navigation of Robotic Swarms](http://arxiv.org/abs/2202.01141v1)**|9 pages, 5 figures, submitted to IEEE Transactions on Cognitive and  Developmental Systems Journal|~|
 |**2022-02-02**|**[Communication Efficient Federated Learning for Generalized Linear Bandits](http://arxiv.org/abs/2202.01087v1)**|36 pages, 3 figures|~|
 |**2022-02-01**|**[Federated Learning Challenges and Opportunities: An Outlook](http://arxiv.org/abs/2202.00807v1)**|This paper provides an outlook on FL development as part of the  ICASSP 2022 special session entitled "Frontiers of Federated Learning:  Applications, Challenges, and Opportunities"|~|
