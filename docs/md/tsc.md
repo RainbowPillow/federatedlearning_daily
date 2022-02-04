@@ -10,7 +10,7 @@ layout: default
 |:-----|:------|:--------|:-----|
 |**2022-02-02**|**[Ergodic descriptors of nonergodic stochastic processes](http://arxiv.org/abs/2202.01091v1)**|26 pages, 10 figures|~|
 |**2022-02-02**|**[2T-POT Hawkes model for dynamic left- and right-tail quantile forecasts of financial returns: out-of-sample validation of self-exciting extremes versus conditional volatility](http://arxiv.org/abs/2202.01043v1)**|Main paper: 21 pages, 7 figures, 5 tables. Supplementary material: 12  pages, 14 figures|~|
-|**2022-02-02**|**[Inverse covariance operators of multivariate nonstationary time series](http://arxiv.org/abs/2202.00933v1)**|~|~|
+|**2022-02-02**|**[Inverse covariance operators of multivariate nonstationary time series](http://arxiv.org/abs/2202.00933v2)**|~|~|
 |**2022-02-02**|**[Methodology for forecasting and optimization in IEEE-CIS 3rd Technical Challenge](http://arxiv.org/abs/2202.00894v1)**|4 pages, 3 figures|[code](https://github.com/RichardBean/IEEE-Predict-Optimize-Challenge)|
 |**2022-02-02**|**[Bayesian Imputation with Optimal Look-Ahead-Bias and Variance Tradeoff](http://arxiv.org/abs/2202.00871v1)**|arXiv admin note: text overlap with arXiv:2102.12736|~|
 |**2022-02-01**|**[Parameter estimation for the FOU(p) process with the same lambda](http://arxiv.org/abs/2202.00642v1)**|18 pages, 2 figures|~|
