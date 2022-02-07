@@ -4,6 +4,17 @@
 
 |Date|Title|Comment|Code|
 |----|-----|-------|----|
+|**2022-02-04**|**[Decoupling Local and Global Representations of Time Series](http://arxiv.org/abs/2202.02262v1)**|~|~|
+|**2022-02-04**|**[Detecting Distributional Differences in Labeled Sequence Data with Application to Tropical Cyclone Satellite Imagery](http://arxiv.org/abs/2202.02253v1)**|35 pages, 11 figures|~|
+|**2022-02-04**|**[Functional Mixtures-of-Experts](http://arxiv.org/abs/2202.02249v1)**|~|~|
+|**2022-02-04**|**[Posterior Representations for Bayesian Context Trees: Sampling, Estimation and Convergence](http://arxiv.org/abs/2202.02239v1)**|~|~|
+|**2022-02-04**|**[Evaluating conditional covariance estimates via a new targeting approach and a networks-based analysis](http://arxiv.org/abs/2202.02197v1)**|23 pages, 18 figures|~|
+|**2022-02-04**|**[Comment on "Inferring broken detailed balance in the absence of observable currents"](http://arxiv.org/abs/2202.02064v1)**|~|~|
+|**2022-02-04**|**[Introducing Block-Toeplitz Covariance Matrices to Remaster Linear Discriminant Analysis for Event-related Potential Brain-computer Interfaces](http://arxiv.org/abs/2202.02001v1)**|~|~|
+|**2022-02-04**|**[Discovery of a Short-Period and Unusually Helium-Deficient Dwarf Nova KSP-OT-201701a by the KMTNet Supernova Program](http://arxiv.org/abs/2202.01937v1)**|11 pages, 5 figures, published in ApJL|~|
+|**2022-02-01**|**[A Machine Learning Smartphone-based Sensing for Driver Behavior Classification](http://arxiv.org/abs/2202.01893v1)**|Accepted for publication in IEEE International Symposium on Circuits  and Systems (ISCAS 2022), Austin, TX, USA, May 2022|~|
+|**2022-02-01**|**[Weighted Random Cut Forest Algorithm for Anomaly Detections](http://arxiv.org/abs/2202.01891v1)**|30 pages|~|
+|**2022-02-03**|**[Robust Audio Anomaly Detection](http://arxiv.org/abs/2202.01784v1)**|Accepted paper at RobustML Workshop@ICLR 2021|~|
 |**2022-02-03**|**[Skeleton-Based Action Segmentation with Multi-Stage Spatial-Temporal Graph Convolutional Neural Networks](http://arxiv.org/abs/2202.01727v1)**|~|[code](https://github.com/benjaminfiltjens/ms-gcn)|
 |**2022-02-03**|**[Review of automated time series forecasting pipelines](http://arxiv.org/abs/2202.01712v1)**|~|~|
 |**2022-02-03**|**[CoST: Contrastive Learning of Disentangled Seasonal-Trend Representations for Time Series Forecasting](http://arxiv.org/abs/2202.01575v1)**|~|~|

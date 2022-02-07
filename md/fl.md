@@ -4,6 +4,7 @@
 
 |Date|Title|Comment|Code|
 |----|-----|-------|----|
+|**2022-02-04**|**[Aggregation Service for Federated Learning: An Efficient, Secure, and More Resilient Realization](http://arxiv.org/abs/2202.01971v1)**|Accepted in IEEE Transactions on Dependable and Secure Computing  (TDSC), 2022|~|
 |**2022-02-03**|**[Equality Is Not Equity: Proportional Fairness in Federated Learning](http://arxiv.org/abs/2202.01666v1)**|34 pages|~|
 |**2022-02-03**|**[Byzantine-Robust Decentralized Learning via Self-Centered Clipping](http://arxiv.org/abs/2202.01545v1)**|~|[code](https://github.com/epfml/byzantine-robust-decentralized-optimizer)|
 |**2022-02-03**|**[Comparative assessment of federated and centralized machine learning](http://arxiv.org/abs/2202.01529v1)**|15 pages, 7 figures, 1 table|~|

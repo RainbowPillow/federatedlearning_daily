@@ -8,6 +8,8 @@ layout: default
 
 | Date | Title | Comment | Code |
 |:-----|:------|:--------|:-----|
+|**2022-02-01**|**[Weighted Random Cut Forest Algorithm for Anomaly Detections](http://arxiv.org/abs/2202.01891v1)**|30 pages|~|
+|**2022-02-03**|**[Robust Audio Anomaly Detection](http://arxiv.org/abs/2202.01784v1)**|Accepted paper at RobustML Workshop@ICLR 2021|~|
 |**2022-02-02**|**[Training a Bidirectional GAN-based One-Class Classifier for Network Intrusion Detection](http://arxiv.org/abs/2202.01332v1)**|15 pages, 8 figures|~|
 |**2022-01-31**|**[Studying the Robustness of Anti-adversarial Federated Learning Models Detecting Cyberattacks in IoT Spectrum Sensors](http://arxiv.org/abs/2202.00137v1)**|~|~|
 |**2022-01-31**|**[AVTPnet: Convolutional Autoencoder for AVTP anomaly detection in Automotive Ethernet Networks](http://arxiv.org/abs/2202.00045v1)**|~|~|
