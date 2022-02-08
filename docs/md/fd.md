@@ -13,7 +13,7 @@ layout: default
 |**2021-12-17**|**[Feature extraction and classification algorithm, which one is more essential? An experimental study on a specific task of vibration signal diagnosis](http://arxiv.org/abs/2112.09389v1)**|~|~|
 |**2021-12-11**|**[Technical Language Supervision for Intelligent Fault Diagnosis in Process Industry](http://arxiv.org/abs/2112.07356v1)**|~|~|
 |**2021-12-11**|**[Spatial Graph Convolutional Neural Network via Structured Subdomain Adaptation and Domain Adversarial Learning for Bearing Fault Diagnosis](http://arxiv.org/abs/2112.06033v1)**|~|~|
-|**2021-12-03**|**[A Novel Deep Parallel Time-series Relation Network for Fault Diagnosis](http://arxiv.org/abs/2112.03405v1)**|~|~|
+|**2021-12-03**|**[A Novel Deep Parallel Time-series Relation Network for Fault Diagnosis](http://arxiv.org/abs/2112.03405v2)**|~|~|
 |**2021-11-16**|**[Graph neural network-based fault diagnosis: a review](http://arxiv.org/abs/2111.08185v1)**|17 pages, 18 figures, 10 tables|~|
 |**2021-11-13**|**[Fault Diagnosis of Nonlinear Systems Using a Hybrid-Degree Dual Cubature-based Estimation Scheme](http://arxiv.org/abs/2111.07004v1)**|~|~|
 |**2021-10-08**|**[An Uncertainty-Informed Framework for Trustworthy Fault Diagnosis in Safety-Critical Applications](http://arxiv.org/abs/2111.00874v1)**|49 pages|~|
