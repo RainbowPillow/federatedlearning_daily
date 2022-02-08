@@ -15,7 +15,7 @@
 |**2022-02-06**|**[TTS-GAN: A Transformer-based Time-Series Generative Adversarial Network](http://arxiv.org/abs/2202.02691v1)**|submitted to 20th International Conference on Artificial Intelligence  in Medicine (AIME 2022)|[code](https://github.com/imics-lab/tts-gan)|
 |**2022-02-05**|**[$\it COD:$ An Algorithm for Shape Reconstruction of Transiting Celestial Bodies through Topological Optimization](http://arxiv.org/abs/2202.02604v1)**|13 pages, 11 figures, 5 tables. Submitted to MNRAS|~|
 |**2022-02-05**|**[Spectroscopic Studies of Type Ia Supernovae Using LSTM Neural Networks](http://arxiv.org/abs/2202.02498v1)**|37 pages, 27 figures, 1 table, accepted for publication in ApJ|[code](https://github.com/thomasvrussell/snail)|
-|**2022-02-04**|**[On Neural Differential Equations](http://arxiv.org/abs/2202.02435v1)**|Doctoral thesis, Mathematical Institute, University of Oxford. 231  pages|~|
+|**2022-02-04**|**[On Neural Differential Equations](http://arxiv.org/abs/2202.02435v1)**|Doctoral thesis, Mathematical Institute, University of Oxford. 231  pages|[code](https://github.com/DiffEqML/torchdyn)|
 |**2022-02-04**|**[Self-Adaptive Forecasting for Improved Deep Learning on Non-Stationary Time-Series](http://arxiv.org/abs/2202.02403v1)**|~|~|
 |**2022-02-04**|**[Deep Dynamic Effective Connectivity Estimation from Multivariate Time Series](http://arxiv.org/abs/2202.02393v1)**|In review at IJCNN 2022|~|
 |**2022-02-04**|**[Decoupling Local and Global Representations of Time Series](http://arxiv.org/abs/2202.02262v1)**|~|[code](https://github.com/googleinterns/local_global_ts_representation)|
