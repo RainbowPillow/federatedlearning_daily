@@ -4,6 +4,17 @@
 
 |Date|Title|Comment|Code|
 |----|-----|-------|----|
+|**2022-02-07**|**[Preserving Privacy and Security in Federated Learning](http://arxiv.org/abs/2202.03402v1)**|~|~|
+|**2022-02-07**|**[More is Better (Mostly): On the Backdoor Attacks in Federated Graph Neural Networks](http://arxiv.org/abs/2202.03195v1)**|18 pages, 11 figures|~|
+|**2022-02-07**|**[FL_PyTorch: optimization research simulator for federated learning](http://arxiv.org/abs/2202.03099v1)**|DistributedML '21: Proceedings of the 2nd ACM International Workshop  on Distributed Machine Learning|~|
+|**2022-02-07**|**[Addressing modern and practical challenges in machine learning: A survey of online federated and transfer learning](http://arxiv.org/abs/2202.03070v1)**|~|~|
+|**2022-02-07**|**[Parallel Successive Learning for Dynamic Distributed Model Training over Heterogeneous Wireless Networks](http://arxiv.org/abs/2202.02947v1)**|~|~|
+|**2022-02-07**|**[ABG: A Multi-Party Mixed Protocol Framework for Privacy-Preserving Cooperative Learning](http://arxiv.org/abs/2202.02928v1)**|~|~|
+|**2022-02-06**|**[BEAS: Blockchain Enabled Asynchronous & Secure Federated Machine Learning](http://arxiv.org/abs/2202.02817v1)**|The Third AAAI Workshop on Privacy-Preserving Artificial Intelligence  (PPAI-22) at the Thirty-Sixth AAAI Conference on Artificial Intelligence  (AAAI-22)|~|
+|**2022-02-06**|**[Lossy Gradient Compression: How Much Accuracy Can One Bit Buy?](http://arxiv.org/abs/2202.02812v1)**|~|~|
+|**2022-02-06**|**[Energy-Aware Edge Association for Cluster-based Personalized Federated Learning](http://arxiv.org/abs/2202.02727v1)**|~|~|
+|**2022-02-05**|**[Privacy-preserving Speech Emotion Recognition through Semi-Supervised Federated Learning](http://arxiv.org/abs/2202.02611v1)**|arXiv admin note: text overlap with arXiv:2107.06877|~|
+|**2022-02-05**|**[A Coalition Formation Game Approach for Personalized Federated Learning](http://arxiv.org/abs/2202.02502v1)**|6 pages exclude the reference, 6 figures|~|
 |**2022-02-04**|**[Aggregation Service for Federated Learning: An Efficient, Secure, and More Resilient Realization](http://arxiv.org/abs/2202.01971v1)**|Accepted in IEEE Transactions on Dependable and Secure Computing  (TDSC), 2022|~|
 |**2022-02-03**|**[Equality Is Not Equity: Proportional Fairness in Federated Learning](http://arxiv.org/abs/2202.01666v1)**|34 pages|~|
 |**2022-02-03**|**[Byzantine-Robust Decentralized Learning via Self-Centered Clipping](http://arxiv.org/abs/2202.01545v1)**|~|[code](https://github.com/epfml/byzantine-robust-decentralized-optimizer)|

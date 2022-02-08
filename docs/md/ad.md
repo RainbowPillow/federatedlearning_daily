@@ -8,6 +8,8 @@ layout: default
 
 | Date | Title | Comment | Code |
 |:-----|:------|:--------|:-----|
+|**2022-02-06**|**[BEAS: Blockchain Enabled Asynchronous & Secure Federated Machine Learning](http://arxiv.org/abs/2202.02817v1)**|The Third AAAI Workshop on Privacy-Preserving Artificial Intelligence  (PPAI-22) at the Thirty-Sixth AAAI Conference on Artificial Intelligence  (AAAI-22)|~|
+|**2022-02-06**|**[Robust Anomaly Detection for Time-series Data](http://arxiv.org/abs/2202.02721v1)**|18 pages, 12 figures, 6 tables|~|
 |**2022-02-01**|**[Weighted Random Cut Forest Algorithm for Anomaly Detections](http://arxiv.org/abs/2202.01891v1)**|30 pages|~|
 |**2022-02-03**|**[Robust Audio Anomaly Detection](http://arxiv.org/abs/2202.01784v1)**|Accepted paper at RobustML Workshop@ICLR 2021|~|
 |**2022-02-02**|**[Training a Bidirectional GAN-based One-Class Classifier for Network Intrusion Detection](http://arxiv.org/abs/2202.01332v1)**|15 pages, 8 figures|~|

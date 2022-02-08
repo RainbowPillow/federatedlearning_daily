@@ -8,6 +8,7 @@ layout: default
 
 | Date | Title | Comment | Code |
 |:-----|:------|:--------|:-----|
+|**2022-02-07**|**[Deep learning of inverse water waves problems using multi-fidelity data: Application to Serre-Green-Naghdi equations](http://arxiv.org/abs/2202.02899v1)**|~|~|
 |**2022-02-02**|**[Getting more with less? Why repowering onshore wind farms does not always lead to more wind power generation -- a German case study](http://arxiv.org/abs/2202.00945v1)**|~|~|
 |**2022-01-31**|**[Vibration Fault Diagnosis in Wind Turbines based on Automated Feature Learning](http://arxiv.org/abs/2201.13403v1)**|~|~|
 |**2022-01-26**|**[Implementation of Advanced Wind Turbine Controllers for Scaled Turbine Testing in a Wind Tunnel](http://arxiv.org/abs/2201.11198v1)**|Proceedings of the EAWE PhD Seminar on Wind Energy|~|

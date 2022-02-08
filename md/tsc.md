@@ -4,6 +4,20 @@
 
 |Date|Title|Comment|Code|
 |----|-----|-------|----|
+|**2022-02-07**|**[Threshold Asymmetric Conational Autoregressive Range (TACARR) Model](http://arxiv.org/abs/2202.03351v1)**|~|~|
+|**2022-02-07**|**[Forecasting Environmental Data: An example to ground-level ozone concentration surfaces](http://arxiv.org/abs/2202.03332v1)**|~|~|
+|**2022-02-07**|**[The Near-Infrared Spectrograph (NIRSpec) on the James Webb Space Telescope IV. Capabilities and predicted performance for exoplanet characterization](http://arxiv.org/abs/2202.03309v1)**|Accepted for publication in A&A. 15 pages, 15 figures|~|
+|**2022-02-01**|**[Short-term Multi-horizon Residential Electric Load Forecasting using Deep Learning and Signal Decomposition Methods](http://arxiv.org/abs/2202.03264v1)**|~|~|
+|**2022-02-07**|**[HERMES: Hybrid Error-corrector Model with inclusion of External Signals for nonstationary fashion time series](http://arxiv.org/abs/2202.03224v1)**|~|~|
+|**2022-01-31**|**[Comparative Study of Machine Learning Models for Stock Price Prediction](http://arxiv.org/abs/2202.03156v1)**|~|~|
+|**2022-02-07**|**[Detecting Structural Breaks in Foreign Exchange Markets by using the group LASSO technique](http://arxiv.org/abs/2202.02988v1)**|10 pages, 4 figures. The author reported the previous version in the  96th meeting of Western Economic Association International in 2021|~|
+|**2022-02-06**|**[Robust Anomaly Detection for Time-series Data](http://arxiv.org/abs/2202.02721v1)**|18 pages, 12 figures, 6 tables|~|
+|**2022-02-06**|**[TTS-GAN: A Transformer-based Time-Series Generative Adversarial Network](http://arxiv.org/abs/2202.02691v1)**|submitted to 20th International Conference on Artificial Intelligence  in Medicine (AIME 2022)|[code](https://github.com/imics-lab/tts-gan)|
+|**2022-02-05**|**[$\it COD:$ An Algorithm for Shape Reconstruction of Transiting Celestial Bodies through Topological Optimization](http://arxiv.org/abs/2202.02604v1)**|13 pages, 11 figures, 5 tables. Submitted to MNRAS|~|
+|**2022-02-05**|**[Spectroscopic Studies of Type Ia Supernovae Using LSTM Neural Networks](http://arxiv.org/abs/2202.02498v1)**|37 pages, 27 figures, 1 table, accepted for publication in ApJ|[code](https://github.com/thomasvrussell/snail)|
+|**2022-02-04**|**[On Neural Differential Equations](http://arxiv.org/abs/2202.02435v1)**|Doctoral thesis, Mathematical Institute, University of Oxford. 231  pages|~|
+|**2022-02-04**|**[Self-Adaptive Forecasting for Improved Deep Learning on Non-Stationary Time-Series](http://arxiv.org/abs/2202.02403v1)**|~|~|
+|**2022-02-04**|**[Deep Dynamic Effective Connectivity Estimation from Multivariate Time Series](http://arxiv.org/abs/2202.02393v1)**|In review at IJCNN 2022|~|
 |**2022-02-04**|**[Decoupling Local and Global Representations of Time Series](http://arxiv.org/abs/2202.02262v1)**|~|[code](https://github.com/googleinterns/local_global_ts_representation)|
 |**2022-02-04**|**[Detecting Distributional Differences in Labeled Sequence Data with Application to Tropical Cyclone Satellite Imagery](http://arxiv.org/abs/2202.02253v1)**|35 pages, 11 figures|~|
 |**2022-02-04**|**[Functional Mixtures-of-Experts](http://arxiv.org/abs/2202.02249v1)**|~|~|
