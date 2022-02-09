@@ -4,8 +4,8 @@
 
 |Date|Title|Comment|Code|
 |----|-----|-------|----|
-|**2022-02-08**|**[Time Series Anomaly Detection by Cumulative Radon Features](http://arxiv.org/abs/2202.04067v1)**|~|~|
-|**2022-02-08**|**[Detecting Anomalies within Time Series using Local Neural Transformations](http://arxiv.org/abs/2202.03944v1)**|~|~|
+|**2022-02-08**|**[Time Series Anomaly Detection by Cumulative Radon Features](http://arxiv.org/abs/2202.04067v1)**|~|[code](https://github.com/yedidh/radonomaly)|
+|**2022-02-08**|**[Detecting Anomalies within Time Series using Local Neural Transformations](http://arxiv.org/abs/2202.03944v1)**|~|[code](https://github.com/boschresearch/local_neural_transformations)|
 |**2022-02-08**|**[KENN: Enhancing Deep Neural Networks by Leveraging Knowledge for Time Series Forecasting](http://arxiv.org/abs/2202.03903v1)**|~|~|
 |**2022-02-03**|**[COVID-19 Hospitalizations Forecasts Using Internet Search Data](http://arxiv.org/abs/2202.03869v1)**|arXiv admin note: text overlap with arXiv:2202.02621|~|
 |**2022-02-08**|**[A multivariate pseudo-likelihood approach to estimating directional ocean wave models](http://arxiv.org/abs/2202.03773v1)**|~|~|
