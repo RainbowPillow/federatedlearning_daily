@@ -8,6 +8,17 @@ layout: default
 
 | Date | Title | Comment | Code |
 |:-----|:------|:--------|:-----|
+|**2022-02-08**|**[Time Series Anomaly Detection by Cumulative Radon Features](http://arxiv.org/abs/2202.04067v1)**|~|~|
+|**2022-02-08**|**[Detecting Anomalies within Time Series using Local Neural Transformations](http://arxiv.org/abs/2202.03944v1)**|~|~|
+|**2022-02-08**|**[KENN: Enhancing Deep Neural Networks by Leveraging Knowledge for Time Series Forecasting](http://arxiv.org/abs/2202.03903v1)**|~|~|
+|**2022-02-03**|**[COVID-19 Hospitalizations Forecasts Using Internet Search Data](http://arxiv.org/abs/2202.03869v1)**|arXiv admin note: text overlap with arXiv:2202.02621|~|
+|**2022-02-08**|**[A multivariate pseudo-likelihood approach to estimating directional ocean wave models](http://arxiv.org/abs/2202.03773v1)**|~|~|
+|**2022-02-08**|**[Time to Focus: A Comprehensive Benchmark Using Time Series Attribution Methods](http://arxiv.org/abs/2202.03759v1)**|12 pages, 6 figures, 8 tables, Presented at ICAART 2022|~|
+|**2022-02-08**|**[Assessing Planetary Complexity and Potential Agnostic Biosignatures using Epsilon Machines](http://arxiv.org/abs/2202.03699v1)**|~|~|
+|**2022-02-08**|**[Contrastive predictive coding for Anomaly Detection in Multi-variate Time Series Data](http://arxiv.org/abs/2202.03639v1)**|~|~|
+|**2022-02-03**|**[Deep Reinforcement Learning Assisted Federated Learning Algorithm for Data Management of IIoT](http://arxiv.org/abs/2202.03575v1)**|~|~|
+|**2022-02-07**|**[Structured Time Series Prediction without Structural Prior](http://arxiv.org/abs/2202.03539v1)**|13 pages, 6 figures|~|
+|**2022-02-07**|**[TACTiS: Transformer-Attentional Copulas for Time Series](http://arxiv.org/abs/2202.03528v1)**|27 pages, 15 figures|~|
 |**2022-02-07**|**[Threshold Asymmetric Conational Autoregressive Range (TACARR) Model](http://arxiv.org/abs/2202.03351v1)**|~|~|
 |**2022-02-07**|**[Forecasting Environmental Data: An example to ground-level ozone concentration surfaces](http://arxiv.org/abs/2202.03332v1)**|~|~|
 |**2022-02-07**|**[The Near-Infrared Spectrograph (NIRSpec) on the James Webb Space Telescope IV. Capabilities and predicted performance for exoplanet characterization](http://arxiv.org/abs/2202.03309v1)**|Accepted for publication in A&A. 15 pages, 15 figures|~|
@@ -19,7 +30,7 @@ layout: default
 |**2022-02-06**|**[TTS-GAN: A Transformer-based Time-Series Generative Adversarial Network](http://arxiv.org/abs/2202.02691v1)**|submitted to 20th International Conference on Artificial Intelligence  in Medicine (AIME 2022)|[code](https://github.com/imics-lab/tts-gan)|
 |**2022-02-05**|**[$\it COD:$ An Algorithm for Shape Reconstruction of Transiting Celestial Bodies through Topological Optimization](http://arxiv.org/abs/2202.02604v1)**|13 pages, 11 figures, 5 tables. Submitted to MNRAS|~|
 |**2022-02-05**|**[Spectroscopic Studies of Type Ia Supernovae Using LSTM Neural Networks](http://arxiv.org/abs/2202.02498v1)**|37 pages, 27 figures, 1 table, accepted for publication in ApJ|[code](https://github.com/thomasvrussell/snail)|
-|**2022-02-04**|**[On Neural Differential Equations](http://arxiv.org/abs/2202.02435v1)**|Doctoral thesis, Mathematical Institute, University of Oxford. 231  pages|[code](https://github.com/DiffEqML/torchdyn)|
+|**2022-02-04**|**[On Neural Differential Equations](http://arxiv.org/abs/2202.02435v1)**|Doctoral thesis, Mathematical Institute, University of Oxford. 231  pages|[code](https://github.com/patrick-kidger/diffrax)|
 |**2022-02-04**|**[Self-Adaptive Forecasting for Improved Deep Learning on Non-Stationary Time-Series](http://arxiv.org/abs/2202.02403v1)**|~|~|
 |**2022-02-04**|**[Deep Dynamic Effective Connectivity Estimation from Multivariate Time Series](http://arxiv.org/abs/2202.02393v1)**|In review at IJCNN 2022|~|
 |**2022-02-04**|**[Decoupling Local and Global Representations of Time Series](http://arxiv.org/abs/2202.02262v1)**|~|[code](https://github.com/googleinterns/local_global_ts_representation)|
