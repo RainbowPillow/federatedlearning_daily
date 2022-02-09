@@ -14,7 +14,7 @@
 |**2022-02-06**|**[Lossy Gradient Compression: How Much Accuracy Can One Bit Buy?](http://arxiv.org/abs/2202.02812v1)**|~|[code](https://github.com/sadafsk/fl_rd)|
 |**2022-02-06**|**[Energy-Aware Edge Association for Cluster-based Personalized Federated Learning](http://arxiv.org/abs/2202.02727v1)**|~|~|
 |**2022-02-05**|**[Privacy-preserving Speech Emotion Recognition through Semi-Supervised Federated Learning](http://arxiv.org/abs/2202.02611v1)**|arXiv admin note: text overlap with arXiv:2107.06877|~|
-|**2022-02-05**|**[A Coalition Formation Game Approach for Personalized Federated Learning](http://arxiv.org/abs/2202.02502v1)**|6 pages exclude the reference, 6 figures|~|
+|**2022-02-05**|**[A Coalition Formation Game Approach for Personalized Federated Learning](http://arxiv.org/abs/2202.02502v2)**|6 pages exclude the reference, 6 figures|~|
 |**2022-02-04**|**[Aggregation Service for Federated Learning: An Efficient, Secure, and More Resilient Realization](http://arxiv.org/abs/2202.01971v1)**|Accepted in IEEE Transactions on Dependable and Secure Computing  (TDSC), 2022|~|
 |**2022-02-03**|**[Equality Is Not Equity: Proportional Fairness in Federated Learning](http://arxiv.org/abs/2202.01666v1)**|34 pages|~|
 |**2022-02-03**|**[Byzantine-Robust Decentralized Learning via Self-Centered Clipping](http://arxiv.org/abs/2202.01545v1)**|~|[code](https://github.com/epfml/byzantine-robust-decentralized-optimizer)|
@@ -29,7 +29,7 @@
 |**2022-02-01**|**[Fishing for User Data in Large-Batch Federated Learning via Gradient Magnification](http://arxiv.org/abs/2202.00580v1)**|First three authors contributed equally, order chosen randomly. 21  pages, 9 figures|~|
 |**2022-02-01**|**[Recycling Model Updates in Federated Learning: Are Gradient Subspaces Low-Rank?](http://arxiv.org/abs/2202.00280v1)**|In Proceedings of the 10th International Conference on Learning  Representations (ICLR) 2022|[code](https://github.com/shams-sam/fedoptim)|
 |**2022-02-01**|**[Factorized-FL: Agnostic Personalized Federated Learning with Kernel Factorization & Similarity Matching](http://arxiv.org/abs/2202.00270v1)**|~|~|
-|**2022-02-01**|**[Federated Active Learning (F-AL): an Efficient Annotation Strategy for Federated Learning](http://arxiv.org/abs/2202.00195v1)**|13 pages, 9 figures, submitted for conference publication|~|
+|**2022-02-01**|**[Federated Active Learning (F-AL): an Efficient Annotation Strategy for Federated Learning](http://arxiv.org/abs/2202.00195v2)**|13 pages, 9 figures, submitted for conference publication|~|
 |**2022-01-31**|**[Studying the Robustness of Anti-adversarial Federated Learning Models Detecting Cyberattacks in IoT Spectrum Sensors](http://arxiv.org/abs/2202.00137v1)**|~|~|
 |**2022-01-31**|**[Sample Optimality and All-for-all Strategies in Personalized Federated and Collaborative Learning](http://arxiv.org/abs/2201.13097v2)**|~|~|
 |**2022-01-31**|**[Securing Federated Sensitive Topic Classification against Poisoning Attacks](http://arxiv.org/abs/2201.13086v1)**|~|~|

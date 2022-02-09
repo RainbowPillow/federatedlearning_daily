@@ -30,7 +30,7 @@
 |**2022-01-20**|**[Effective Anomaly Detection in Smart Home by Integrating Event Time Intervals](http://arxiv.org/abs/2201.07954v1)**|~|~|
 |**2022-01-17**|**[Machine Learning Enhances Algorithms for Quantifying Non-Equilibrium Dynamics in Correlation Spectroscopy Experiments to Reach Frame-Rate-Limited Time Resolution](http://arxiv.org/abs/2201.07889v1)**|~|~|
 |**2022-01-19**|**[Compressed Smooth Sparse Decomposition](http://arxiv.org/abs/2201.07404v1)**|~|~|
-|**2022-01-18**|**[TranAD: Deep Transformer Networks for Anomaly Detection in Multivariate Time Series Data](http://arxiv.org/abs/2201.07284v2)**|Accepted in VLDB 2022|[code](https://github.com/imperial-qore/tranad)|
+|**2022-01-18**|**[TranAD: Deep Transformer Networks for Anomaly Detection in Multivariate Time Series Data](http://arxiv.org/abs/2201.07284v3)**|Accepted in VLDB 2022|[code](https://github.com/imperial-qore/tranad)|
 |**2022-01-18**|**[Invariant Representation Driven Neural Classifier for Anti-QCD Jet Tagging](http://arxiv.org/abs/2201.07199v1)**|25 pages, 10 figures|~|
 |**2022-01-18**|**[Online Time Series Anomaly Detection with State Space Gaussian Processes](http://arxiv.org/abs/2201.06763v1)**|~|~|
 |**2022-01-18**|**[Antimodes and Graphical Anomaly Exploration via Depth Quantile Functions](http://arxiv.org/abs/2201.06682v1)**|21 pages, 12 figures|[code](https://github.com/gabechandler/anomalydetection)|
@@ -48,7 +48,7 @@
 |**2022-01-08**|**[AnomMAN: Detect Anomaly on Multi-view Attributed Networks](http://arxiv.org/abs/2201.02822v1)**|preprint, 5 figures, 9pages|~|
 |**2022-01-07**|**[Detecting Anomaly in Chemical Sensors via L1-Kernels based Principal Component Analysis](http://arxiv.org/abs/2201.02709v1)**|~|~|
 |**2022-01-07**|**[Unsupervised Machine Learning for Exploratory Data Analysis of Exoplanet Transmission Spectra](http://arxiv.org/abs/2201.02696v1)**|10 pages, 11 figures, submitted to MNRAS|~|
-|**2022-01-07**|**[Applications of Signature Methods to Market Anomaly Detection](http://arxiv.org/abs/2201.02441v1)**|~|~|
+|**2022-01-07**|**[Applications of Signature Methods to Market Anomaly Detection](http://arxiv.org/abs/2201.02441v2)**|~|~|
 |**2022-01-07**|**[iDECODe: In-distribution Equivariance for Conformal Out-of-distribution Detection](http://arxiv.org/abs/2201.02331v1)**|Association for the Advancement of Artificial Intelligence (AAAI),  2022|~|
 |**2022-01-06**|**[An Input-to-State Safety Approach to Anomaly-Resilient Parabolic PDEs: Application to Cyber-Physical Battery Modules](http://arxiv.org/abs/2201.02239v1)**|~|~|
 |**2022-01-06**|**[Detecting Anomalies using Overlapping Electrical Measurements in Smart Power Grids](http://arxiv.org/abs/2201.02236v1)**|~|~|
