@@ -5,7 +5,7 @@
 |Date|Title|Comment|Code|
 |----|-----|-------|----|
 |**2022-02-08**|**[Detecting Anomalies within Time Series using Local Neural Transformations](http://arxiv.org/abs/2202.03944v1)**|~|[code](https://github.com/boschresearch/local_neural_transformations)|
-|**2022-02-08**|**[KENN: Enhancing Deep Neural Networks by Leveraging Knowledge for Time Series Forecasting](http://arxiv.org/abs/2202.03903v1)**|~|~|
+|**2022-02-08**|**[KENN: Enhancing Deep Neural Networks by Leveraging Knowledge for Time Series Forecasting](http://arxiv.org/abs/2202.03903v2)**|~|~|
 |**2022-02-08**|**[Comparative Study Between Distance Measures On Supervised Optimum-Path Forest Classification](http://arxiv.org/abs/2202.03854v1)**|16 pages, 2 figures|[code](https://github.com/gugarosa/opf_distance)|
 |**2022-02-08**|**[Contrastive predictive coding for Anomaly Detection in Multi-variate Time Series Data](http://arxiv.org/abs/2202.03639v1)**|~|~|
 |**2022-02-06**|**[BEAS: Blockchain Enabled Asynchronous & Secure Federated Machine Learning](http://arxiv.org/abs/2202.02817v1)**|The Third AAAI Workshop on Privacy-Preserving Artificial Intelligence  (PPAI-22) at the Thirty-Sixth AAAI Conference on Artificial Intelligence  (AAAI-22)|[code](https://github.com/harpreetvirkk/beas)|

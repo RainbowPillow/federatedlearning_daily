@@ -53,7 +53,7 @@ layout: default
 |**2022-01-28**|**[Gradient Masked Averaging for Federated Learning](http://arxiv.org/abs/2201.11986v1)**|~|~|
 |**2022-01-28**|**[A Secure and Efficient Federated Learning Framework for NLP](http://arxiv.org/abs/2201.11934v1)**|Accepted by EMNLP 2021|~|
 |**2022-01-28**|**[FedLite: A Scalable Approach for Federated Learning on Resource-constrained Clients](http://arxiv.org/abs/2201.11865v1)**|~|~|
-|**2022-01-27**|**[On the Convergence of Heterogeneous Federated Learning with Arbitrary Adaptive Online Model Pruning](http://arxiv.org/abs/2201.11803v1)**|pre-print|[code](https://github.com/hanhananderson/fl_converge)|
+|**2022-01-27**|**[On the Convergence of Heterogeneous Federated Learning with Arbitrary Adaptive Online Model Pruning](http://arxiv.org/abs/2201.11803v2)**|~|[code](https://github.com/hanhananderson/fl_converge)|
 |**2022-01-27**|**[Achieving Personalized Federated Learning with Sparse Local Models](http://arxiv.org/abs/2201.11380v1)**|~|~|
 |**2022-01-27**|**[Towards a Secure and Reliable Federated Learning using Blockchain](http://arxiv.org/abs/2201.11311v1)**|This paper has been accepted for publication by IEEE Global  Communications Conference (GLOBECOM). The final version will be published by  the IEEE|~|
 |**2022-01-27**|**[Clustered Vehicular Federated Learning: Process and Optimization](http://arxiv.org/abs/2201.11271v1)**|~|~|
