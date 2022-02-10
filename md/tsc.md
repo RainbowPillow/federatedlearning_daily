@@ -4,6 +4,12 @@
 
 |Date|Title|Comment|Code|
 |----|-----|-------|----|
+|**2022-02-09**|**[Flexible Bayesian Nowcasting -- Application to COVID-19 fatalities in Sweden](http://arxiv.org/abs/2202.04569v1)**|~|~|
+|**2022-02-09**|**[A Measurement-Based Robust Non-Gaussian Process Emulator Applied to Data-Driven Stochastic Power Flow](http://arxiv.org/abs/2202.04378v1)**|IEEE PES GM 2022|~|
+|**2022-02-09**|**[Ketamine-Medetomidine General Anesthesia Occurs With Alternation of Cortical Electrophysiological Activity Among High and Low Complex States](http://arxiv.org/abs/2202.04320v1)**|22 pages, 11 figures|~|
+|**2022-02-09**|**[GenAD: General Representations of Multivariate Time Seriesfor Anomaly Detection](http://arxiv.org/abs/2202.04250v1)**|~|~|
+|**2022-02-08**|**[A Framework for the Time- and Frequency-Domain Assessment of High-Order Interactions in Brain and Physiological Networks](http://arxiv.org/abs/2202.04179v1)**|~|~|
+|**2022-02-08**|**[The Lifecycle of a Statistical Model: Model Failure Detection, Identification, and Refitting](http://arxiv.org/abs/2202.04166v1)**|~|~|
 |**2022-02-08**|**[Time Series Anomaly Detection by Cumulative Radon Features](http://arxiv.org/abs/2202.04067v1)**|~|[code](https://github.com/yedidh/radonomaly)|
 |**2022-02-08**|**[Detecting Anomalies within Time Series using Local Neural Transformations](http://arxiv.org/abs/2202.03944v1)**|~|[code](https://github.com/boschresearch/local_neural_transformations)|
 |**2022-02-08**|**[KENN: Enhancing Deep Neural Networks by Leveraging Knowledge for Time Series Forecasting](http://arxiv.org/abs/2202.03903v2)**|~|~|

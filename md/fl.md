@@ -4,6 +4,10 @@
 
 |Date|Title|Comment|Code|
 |----|-----|-------|----|
+|**2022-02-09**|**[ARIBA: Towards Accurate and Robust Identification of Backdoor Attacks in Federated Learning](http://arxiv.org/abs/2202.04311v1)**|17 pages, 11 figures|~|
+|**2022-02-09**|**[Vertical Federated Learning: Challenges, Methodologies and Experiments](http://arxiv.org/abs/2202.04309v1)**|~|~|
+|**2022-02-08**|**[Federated Learning of Generative Image Priors for MRI Reconstruction](http://arxiv.org/abs/2202.04175v1)**|To be submitted to IEEE TMI Special Issue on Federated Learning for  Medical Imaging|~|
+|**2022-02-08**|**[SwiftAgg: Communication-Efficient and Dropout-Resistant Secure Aggregation for Federated Learning with Worst-Case Security Guarantees](http://arxiv.org/abs/2202.04169v1)**|~|~|
 |**2022-02-08**|**[Learnings from Federated Learning in the Real world](http://arxiv.org/abs/2202.03925v1)**|~|~|
 |**2022-02-08**|**[Practical Challenges in Differentially-Private Federated Survival Analysis of Medical Data](http://arxiv.org/abs/2202.03758v1)**|~|~|
 |**2022-02-08**|**[APPFL: Open-Source Software Framework for Privacy-Preserving Federated Learning](http://arxiv.org/abs/2202.03672v1)**|9 pages, 4 figures, 1 table|[code](https://github.com/appfl/appfl)|
