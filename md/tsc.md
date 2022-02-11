@@ -4,7 +4,7 @@
 
 |Date|Title|Comment|Code|
 |----|-----|-------|----|
-|**2022-02-09**|**[Flexible Bayesian Nowcasting -- Application to COVID-19 fatalities in Sweden](http://arxiv.org/abs/2202.04569v1)**|~|~|
+|**2022-02-09**|**[Flexible Bayesian Nowcasting with application to COVID-19 fatalities in Sweden](http://arxiv.org/abs/2202.04569v2)**|~|~|
 |**2022-02-09**|**[A Measurement-Based Robust Non-Gaussian Process Emulator Applied to Data-Driven Stochastic Power Flow](http://arxiv.org/abs/2202.04378v1)**|IEEE PES GM 2022|~|
 |**2022-02-09**|**[Ketamine-Medetomidine General Anesthesia Occurs With Alternation of Cortical Electrophysiological Activity Among High and Low Complex States](http://arxiv.org/abs/2202.04320v1)**|22 pages, 11 figures|~|
 |**2022-02-09**|**[GenAD: General Representations of Multivariate Time Seriesfor Anomaly Detection](http://arxiv.org/abs/2202.04250v1)**|~|~|

@@ -22,7 +22,7 @@
 |**2021-10-05**|**[An Efficient Anomaly Detection Approach using Cube Sampling with Streaming Data](http://arxiv.org/abs/2110.01813v1)**|8 pages, 2 figures|~|
 |**2021-09-30**|**[Early Bearing Fault Diagnosis of Rotating Machinery by 1D Self-Organized Operational Neural Networks](http://arxiv.org/abs/2109.14873v1)**|~|~|
 |**2021-09-28**|**[A multi-stage semi-supervised improved deep embedded clustering method for bearing fault diagnosis under the situation of insufficient labeled samples](http://arxiv.org/abs/2109.13521v2)**|24 pages, 15 figures and 59 references|~|
-|**2021-09-28**|**[Transfer Learning based Evolutionary Deep Neural Network for Intelligent Fault Diagnosis](http://arxiv.org/abs/2109.13479v1)**|~|~|
+|**2021-09-28**|**[Knowledge Transfer based Evolutionary Deep Neural Network for Intelligent Fault Diagnosis](http://arxiv.org/abs/2109.13479v2)**|~|~|
 |**2021-09-19**|**[Probabilistic Bearing Fault Diagnosis Using Gaussian Process with Tailored Feature Extraction](http://arxiv.org/abs/2109.09189v1)**|~|~|
 |**2021-09-02**|**[Fault detection and diagnosis of batch process using dynamic ARMA-based control charts](http://arxiv.org/abs/2109.00952v1)**|~|~|
 |**2021-08-28**|**[A new rotating machinery fault diagnosis method based on the Time Series Transformer](http://arxiv.org/abs/2108.12562v1)**|17 pages, 10 figures|~|
