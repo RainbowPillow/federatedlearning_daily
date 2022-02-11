@@ -8,6 +8,8 @@ layout: default
 
 | Date | Title | Comment | Code |
 |:-----|:------|:--------|:-----|
+|**2022-02-10**|**[Two-Stage Deep Anomaly Detection with Heterogeneous Time Series Data](http://arxiv.org/abs/2202.05093v1)**|10 pages, 4 figures, 4 tables; published in the IEEE Access (Please  cite our journal version.)|~|
+|**2022-02-08**|**[Unsupervised Time-Series Representation Learning with Iterative Bilinear Temporal-Spectral Fusion](http://arxiv.org/abs/2202.04770v1)**|~|~|
 |**2022-02-09**|**[ARIBA: Towards Accurate and Robust Identification of Backdoor Attacks in Federated Learning](http://arxiv.org/abs/2202.04311v1)**|17 pages, 11 figures|~|
 |**2022-02-09**|**[Log-based Anomaly Detection with Deep Learning: How Far Are We?](http://arxiv.org/abs/2202.04301v1)**|Accepted by The 44th International Conference on Software Engineering  (ICSE 2022)|[code](https://github.com/logintelligence/logadempirical)|
 |**2022-02-09**|**[GenAD: General Representations of Multivariate Time Seriesfor Anomaly Detection](http://arxiv.org/abs/2202.04250v1)**|~|~|

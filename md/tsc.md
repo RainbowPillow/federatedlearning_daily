@@ -4,6 +4,12 @@
 
 |Date|Title|Comment|Code|
 |----|-----|-------|----|
+|**2022-02-10**|**[Two-Stage Deep Anomaly Detection with Heterogeneous Time Series Data](http://arxiv.org/abs/2202.05093v1)**|10 pages, 4 figures, 4 tables; published in the IEEE Access (Please  cite our journal version.)|~|
+|**2022-02-10**|**[Case-based reasoning for rare events prediction on strategic sites](http://arxiv.org/abs/2202.04891v1)**|~|~|
+|**2022-02-10**|**[Learning Latent Causal Dynamics](http://arxiv.org/abs/2202.04828v1)**|~|~|
+|**2022-02-10**|**[Discovery, Timing, and Multiwavelength Observations of the Black Widow Millisecond Pulsar PSR J1555-2908](http://arxiv.org/abs/2202.04783v1)**|15 pages, 6 figures, accepted by ApJ|~|
+|**2022-02-08**|**[Unsupervised Time-Series Representation Learning with Iterative Bilinear Temporal-Spectral Fusion](http://arxiv.org/abs/2202.04770v1)**|~|~|
+|**2022-02-08**|**[Spectral Propagation Graph Network for Few-shot Time Series Classification](http://arxiv.org/abs/2202.04769v1)**|~|~|
 |**2022-02-09**|**[Flexible Bayesian Nowcasting with application to COVID-19 fatalities in Sweden](http://arxiv.org/abs/2202.04569v2)**|~|~|
 |**2022-02-09**|**[A Measurement-Based Robust Non-Gaussian Process Emulator Applied to Data-Driven Stochastic Power Flow](http://arxiv.org/abs/2202.04378v1)**|IEEE PES GM 2022|~|
 |**2022-02-09**|**[Ketamine-Medetomidine General Anesthesia Occurs With Alternation of Cortical Electrophysiological Activity Among High and Low Complex States](http://arxiv.org/abs/2202.04320v1)**|22 pages, 11 figures|~|
@@ -25,7 +31,7 @@
 |**2022-02-07**|**[Forecasting Environmental Data: An example to ground-level ozone concentration surfaces](http://arxiv.org/abs/2202.03332v1)**|~|~|
 |**2022-02-07**|**[The Near-Infrared Spectrograph (NIRSpec) on the James Webb Space Telescope IV. Capabilities and predicted performance for exoplanet characterization](http://arxiv.org/abs/2202.03309v1)**|Accepted for publication in A&A. 15 pages, 15 figures|~|
 |**2022-02-01**|**[Short-term Multi-horizon Residential Electric Load Forecasting using Deep Learning and Signal Decomposition Methods](http://arxiv.org/abs/2202.03264v1)**|~|~|
-|**2022-02-07**|**[HERMES: Hybrid Error-corrector Model with inclusion of External Signals for nonstationary fashion time series](http://arxiv.org/abs/2202.03224v1)**|~|~|
+|**2022-02-07**|**[HERMES: Hybrid Error-corrector Model with inclusion of External Signals for nonstationary fashion time series](http://arxiv.org/abs/2202.03224v1)**|~|[code](https://github.com/etidav/f1fashiondataset)|
 |**2022-01-31**|**[Comparative Study of Machine Learning Models for Stock Price Prediction](http://arxiv.org/abs/2202.03156v1)**|~|~|
 |**2022-02-07**|**[Detecting Structural Breaks in Foreign Exchange Markets by using the group LASSO technique](http://arxiv.org/abs/2202.02988v1)**|10 pages, 4 figures. The author reported the previous version in the  96th meeting of Western Economic Association International in 2021|~|
 |**2022-02-06**|**[Robust Anomaly Detection for Time-series Data](http://arxiv.org/abs/2202.02721v1)**|18 pages, 12 figures, 6 tables|~|

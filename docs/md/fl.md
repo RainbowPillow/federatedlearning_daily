@@ -8,6 +8,10 @@ layout: default
 
 | Date | Title | Comment | Code |
 |:-----|:------|:--------|:-----|
+|**2022-02-10**|**[Game of Privacy: Towards Better Federated Platform Collaboration under Privacy Restriction](http://arxiv.org/abs/2202.05139v1)**|Submitted to KDD 2022|~|
+|**2022-02-10**|**[FedAttack: Effective and Covert Poisoning Attack on Federated Recommendation via Hard Sampling](http://arxiv.org/abs/2202.04975v1)**|Submitted to KDD 2022|~|
+|**2022-02-10**|**[PPA: Preference Profiling Attack Against Federated Learning](http://arxiv.org/abs/2202.04856v1)**|~|~|
+|**2022-02-09**|**[FedQAS: Privacy-aware machine reading comprehension with federated learning](http://arxiv.org/abs/2202.04742v1)**|~|[code](https://github.com/aitmlouk/fedn-client-fedqas-tf)|
 |**2022-02-09**|**[ARIBA: Towards Accurate and Robust Identification of Backdoor Attacks in Federated Learning](http://arxiv.org/abs/2202.04311v1)**|17 pages, 11 figures|~|
 |**2022-02-09**|**[Vertical Federated Learning: Challenges, Methodologies and Experiments](http://arxiv.org/abs/2202.04309v1)**|~|~|
 |**2022-02-08**|**[Federated Learning of Generative Image Priors for MRI Reconstruction](http://arxiv.org/abs/2202.04175v1)**|To be submitted to IEEE TMI Special Issue on Federated Learning for  Medical Imaging|~|
