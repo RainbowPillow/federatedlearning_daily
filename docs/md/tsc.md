@@ -10,7 +10,7 @@ layout: default
 |:-----|:------|:--------|:-----|
 |**2022-02-10**|**[Two-Stage Deep Anomaly Detection with Heterogeneous Time Series Data](http://arxiv.org/abs/2202.05093v1)**|10 pages, 4 figures, 4 tables; published in the IEEE Access (Please  cite our journal version.)|~|
 |**2022-02-10**|**[Case-based reasoning for rare events prediction on strategic sites](http://arxiv.org/abs/2202.04891v1)**|~|~|
-|**2022-02-10**|**[Learning Latent Causal Dynamics](http://arxiv.org/abs/2202.04828v1)**|~|~|
+|**2022-02-10**|**[Learning Latent Causal Dynamics](http://arxiv.org/abs/2202.04828v2)**|~|~|
 |**2022-02-10**|**[Discovery, Timing, and Multiwavelength Observations of the Black Widow Millisecond Pulsar PSR J1555-2908](http://arxiv.org/abs/2202.04783v1)**|15 pages, 6 figures, accepted by ApJ|~|
 |**2022-02-08**|**[Unsupervised Time-Series Representation Learning with Iterative Bilinear Temporal-Spectral Fusion](http://arxiv.org/abs/2202.04770v1)**|~|~|
 |**2022-02-08**|**[Spectral Propagation Graph Network for Few-shot Time Series Classification](http://arxiv.org/abs/2202.04769v1)**|~|~|
@@ -45,7 +45,7 @@ layout: default
 |**2022-02-04**|**[On Neural Differential Equations](http://arxiv.org/abs/2202.02435v1)**|Doctoral thesis, Mathematical Institute, University of Oxford. 231  pages|[code](https://github.com/patrick-kidger/diffrax)|
 |**2022-02-04**|**[Self-Adaptive Forecasting for Improved Deep Learning on Non-Stationary Time-Series](http://arxiv.org/abs/2202.02403v1)**|~|~|
 |**2022-02-04**|**[Deep Dynamic Effective Connectivity Estimation from Multivariate Time Series](http://arxiv.org/abs/2202.02393v1)**|In review at IJCNN 2022|~|
-|**2022-02-04**|**[Decoupling Local and Global Representations of Time Series](http://arxiv.org/abs/2202.02262v1)**|~|[code](https://github.com/googleinterns/local_global_ts_representation)|
+|**2022-02-04**|**[Decoupling Local and Global Representations of Time Series](http://arxiv.org/abs/2202.02262v2)**|~|[code](https://github.com/googleinterns/local_global_ts_representation)|
 |**2022-02-04**|**[Detecting Distributional Differences in Labeled Sequence Data with Application to Tropical Cyclone Satellite Imagery](http://arxiv.org/abs/2202.02253v1)**|35 pages, 11 figures|~|
 |**2022-02-04**|**[Functional Mixtures-of-Experts](http://arxiv.org/abs/2202.02249v1)**|~|~|
 |**2022-02-04**|**[Posterior Representations for Bayesian Context Trees: Sampling, Estimation and Convergence](http://arxiv.org/abs/2202.02239v1)**|~|~|
