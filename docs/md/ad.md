@@ -8,6 +8,9 @@ layout: default
 
 | Date | Title | Comment | Code |
 |:-----|:------|:--------|:-----|
+|**2022-02-11**|**[Meta-learning with GANs for anomaly detection, with deployment in high-speed rail inspection system](http://arxiv.org/abs/2202.05795v1)**|~|~|
+|**2022-02-11**|**[Hybridization of Capsule and LSTM Networks for unsupervised anomaly detection on multivariate data](http://arxiv.org/abs/2202.05538v1)**|This work has been submitted to the IEEE for possible publication.  Copyright may be transferred without notice, after which this version may no  longer be accessible|~|
+|**2022-02-11**|**[From Unsupervised to Few-shot Graph Anomaly Detection: A Multi-scale Contrastive Learning Approach](http://arxiv.org/abs/2202.05525v1)**|13 pages, 5 figures, 5 tables|~|
 |**2022-02-10**|**[Two-Stage Deep Anomaly Detection with Heterogeneous Time Series Data](http://arxiv.org/abs/2202.05093v1)**|10 pages, 4 figures, 4 tables; published in the IEEE Access (Please  cite our journal version.)|~|
 |**2022-02-08**|**[Unsupervised Time-Series Representation Learning with Iterative Bilinear Temporal-Spectral Fusion](http://arxiv.org/abs/2202.04770v1)**|~|~|
 |**2022-02-09**|**[ARIBA: Towards Accurate and Robust Identification of Backdoor Attacks in Federated Learning](http://arxiv.org/abs/2202.04311v1)**|17 pages, 11 figures|~|

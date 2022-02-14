@@ -4,6 +4,8 @@
 
 |Date|Title|Comment|Code|
 |----|-----|-------|----|
+|**2022-02-11**|**[A Newton-type algorithm for federated learning based on incremental Hessian eigenvector sharing](http://arxiv.org/abs/2202.05800v1)**|~|~|
+|**2022-02-10**|**[Personalization Improves Privacy-Accuracy Tradeoffs in Federated Optimization](http://arxiv.org/abs/2202.05318v1)**|~|~|
 |**2022-02-10**|**[Game of Privacy: Towards Better Federated Platform Collaboration under Privacy Restriction](http://arxiv.org/abs/2202.05139v1)**|Submitted to KDD 2022|~|
 |**2022-02-10**|**[FedAttack: Effective and Covert Poisoning Attack on Federated Recommendation via Hard Sampling](http://arxiv.org/abs/2202.04975v1)**|Submitted to KDD 2022|~|
 |**2022-02-10**|**[PPA: Preference Profiling Attack Against Federated Learning](http://arxiv.org/abs/2202.04856v1)**|~|~|

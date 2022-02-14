@@ -4,6 +4,13 @@
 
 |Date|Title|Comment|Code|
 |----|-----|-------|----|
+|**2022-02-11**|**[Active Privacy-Utility Trade-off Against Inference in Time-Series Data Sharing](http://arxiv.org/abs/2202.05833v1)**|12 pages, 12 figures|~|
+|**2022-02-11**|**[SleepPPG-Net: a deep learning algorithm for robust sleep staging from continuous photoplethysmography](http://arxiv.org/abs/2202.05735v1)**|23 pages, 10 figures|~|
+|**2022-02-11**|**[An assessment of implicit-explicit time integrators for the pseudo-spectral approximation of Boussinesq thermal convection in an annulus](http://arxiv.org/abs/2202.05734v1)**|39 pages, 15 figures, 5 tables, accepted for publication in JCP|~|
+|**2022-02-11**|**[InterpretTime: a new approach for the systematic evaluation of neural-network interpretability in time series classification](http://arxiv.org/abs/2202.05656v1)**|~|~|
+|**2022-02-11**|**[Hybridization of Capsule and LSTM Networks for unsupervised anomaly detection on multivariate data](http://arxiv.org/abs/2202.05538v1)**|This work has been submitted to the IEEE for possible publication.  Copyright may be transferred without notice, after which this version may no  longer be accessible|~|
+|**2022-02-11**|**[Wind power ramp prediction algorithm based on wavelet deep belief network](http://arxiv.org/abs/2202.05430v1)**|in Chinese language|~|
+|**2022-02-10**|**[Robust Parameter Estimation for the Lee-Carter Model: A Probabilistic Principal Component Approach](http://arxiv.org/abs/2202.05349v1)**|~|~|
 |**2022-02-10**|**[Two-Stage Deep Anomaly Detection with Heterogeneous Time Series Data](http://arxiv.org/abs/2202.05093v1)**|10 pages, 4 figures, 4 tables; published in the IEEE Access (Please  cite our journal version.)|~|
 |**2022-02-10**|**[Case-based reasoning for rare events prediction on strategic sites](http://arxiv.org/abs/2202.04891v1)**|~|~|
 |**2022-02-10**|**[Learning Latent Causal Dynamics](http://arxiv.org/abs/2202.04828v2)**|~|~|
