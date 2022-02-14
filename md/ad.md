@@ -23,7 +23,7 @@
 |**2022-02-02**|**[Training a Bidirectional GAN-based One-Class Classifier for Network Intrusion Detection](http://arxiv.org/abs/2202.01332v1)**|15 pages, 8 figures|~|
 |**2022-01-31**|**[Studying the Robustness of Anti-adversarial Federated Learning Models Detecting Cyberattacks in IoT Spectrum Sensors](http://arxiv.org/abs/2202.00137v1)**|~|~|
 |**2022-01-31**|**[AVTPnet: Convolutional Autoencoder for AVTP anomaly detection in Automotive Ethernet Networks](http://arxiv.org/abs/2202.00045v1)**|~|~|
-|**2022-01-31**|**[StRegA: Unsupervised Anomaly Detection in Brain MRIs using a Compact Context-encoding Variational Autoencoder](http://arxiv.org/abs/2201.13271v1)**|~|~|
+|**2022-01-31**|**[StRegA: Unsupervised Anomaly Detection in Brain MRIs using a Compact Context-encoding Variational Autoencoder](http://arxiv.org/abs/2201.13271v1)**|~|[code](https://github.com/soumickmj/strega)|
 |**2022-01-31**|**[Unsupervised Anomaly Detection in 3D Brain MRI using Deep Learning with Multi-Task Brain Age Prediction](http://arxiv.org/abs/2201.13081v1)**|Accepted at SPIE Medical Imaging 2022|~|
 |**2022-01-28**|**[Bioinspired Cortex-based Fast Codebook Generation](http://arxiv.org/abs/2201.12322v1)**|17 pages, 6 Figures in Main Text, 5 Figures in Methods plus Appendix,  and 54 references cited|~|
 |**2022-01-28**|**[Time-Series Anomaly Detection with Implicit Neural Representation](http://arxiv.org/abs/2201.11950v1)**|~|[code](https://github.com/kyeongjoong/inrad)|
