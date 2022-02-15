@@ -8,6 +8,7 @@ layout: default
 
 | Date | Title | Comment | Code |
 |:-----|:------|:--------|:-----|
+|**2022-01-26**|**[Collective wind farm operation based on a predictive model increases utility-scale energy production](http://arxiv.org/abs/2202.06683v1)**|14 pages, 5 figures, 1 table|~|
 |**2022-02-10**|**[Optimised operation of low-emission offshore oil and gas platform integrated energy systems](http://arxiv.org/abs/2202.05072v1)**|~|[code](https://github.com/oogeso/oogeso)|
 |**2022-02-07**|**[Deep learning of inverse water waves problems using multi-fidelity data: Application to Serre-Green-Naghdi equations](http://arxiv.org/abs/2202.02899v1)**|~|~|
 |**2022-02-02**|**[Getting more with less? Why repowering onshore wind farms does not always lead to more wind power generation -- a German case study](http://arxiv.org/abs/2202.00945v1)**|~|~|

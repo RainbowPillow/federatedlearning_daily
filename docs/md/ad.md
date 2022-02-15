@@ -8,6 +8,11 @@ layout: default
 
 | Date | Title | Comment | Code |
 |:-----|:------|:--------|:-----|
+|**2022-02-14**|**[DeCorus: Hierarchical Multivariate Anomaly Detection at Cloud-Scale](http://arxiv.org/abs/2202.06892v1)**|11 pages, 4 figures, draft|~|
+|**2022-02-14**|**[AnoMili: Spoofing Prevention and Explainable Anomaly Detection for the 1553 Military Avionic Bus](http://arxiv.org/abs/2202.06870v1)**|~|~|
+|**2022-02-14**|**[UniParser: A Unified Log Parser for Heterogeneous Log Data](http://arxiv.org/abs/2202.06569v1)**|Accepted by WWW 2022, 8 pages|~|
+|**2022-02-14**|**[Adaptive graph convolutional networks for weakly supervised anomaly detection in videos](http://arxiv.org/abs/2202.06503v1)**|~|~|
+|**2022-02-13**|**[RandomSEMO: Normality Learning Of Moving Objects For Video Anomaly Detection](http://arxiv.org/abs/2202.06256v1)**|4 pages, ICIP 2022 under review|~|
 |**2022-02-11**|**[Meta-learning with GANs for anomaly detection, with deployment in high-speed rail inspection system](http://arxiv.org/abs/2202.05795v1)**|~|~|
 |**2022-02-11**|**[Hybridization of Capsule and LSTM Networks for unsupervised anomaly detection on multivariate data](http://arxiv.org/abs/2202.05538v1)**|This work has been submitted to the IEEE for possible publication.  Copyright may be transferred without notice, after which this version may no  longer be accessible|~|
 |**2022-02-11**|**[From Unsupervised to Few-shot Graph Anomaly Detection: A Multi-scale Contrastive Learning Approach](http://arxiv.org/abs/2202.05525v1)**|13 pages, 5 figures, 5 tables|~|

@@ -8,6 +8,15 @@ layout: default
 
 | Date | Title | Comment | Code |
 |:-----|:------|:--------|:-----|
+|**2022-02-14**|**[Do Gradient Inversion Attacks Make Federated Learning Unsafe?](http://arxiv.org/abs/2202.06924v1)**|Improved and reformatted version of  https://www.researchsquare.com/article/rs-1147182/v2|~|
+|**2022-02-14**|**[UA-FedRec: Untargeted Attack on Federated News Recommendation](http://arxiv.org/abs/2202.06701v1)**|10 pages|~|
+|**2022-02-14**|**[FLHub: a Federated Learning model sharing service](http://arxiv.org/abs/2202.06493v1)**|~|~|
+|**2022-02-13**|**[Defense Strategies Toward Model Poisoning Attacks in Federated Learning: A Survey](http://arxiv.org/abs/2202.06414v1)**|~|~|
+|**2022-02-13**|**[On the Convergence of Clustered Federated Learning](http://arxiv.org/abs/2202.06187v1)**|draft|~|
+|**2022-02-12**|**[On Federated Learning with Energy Harvesting Clients](http://arxiv.org/abs/2202.06105v1)**|Full version of accepted ICASSP 2022 paper|~|
+|**2022-02-12**|**[Escaping Saddle Points with Bias-Variance Reduced Local Perturbed SGD for Communication Efficient Nonconvex Distributed Learning](http://arxiv.org/abs/2202.06083v1)**|42 pages|~|
+|**2022-02-12**|**[Local Differential Privacy for Federated Learning in Industrial Settings](http://arxiv.org/abs/2202.06053v1)**|14 pages|~|
+|**2022-02-07**|**[Blind leads Blind: A Zero-Knowledge Attack on Federated Learning](http://arxiv.org/abs/2202.05877v1)**|~|~|
 |**2022-02-11**|**[A Newton-type algorithm for federated learning based on incremental Hessian eigenvector sharing](http://arxiv.org/abs/2202.05800v1)**|~|~|
 |**2022-02-10**|**[Personalization Improves Privacy-Accuracy Tradeoffs in Federated Optimization](http://arxiv.org/abs/2202.05318v1)**|~|~|
 |**2022-02-10**|**[Game of Privacy: Towards Better Federated Platform Collaboration under Privacy Restriction](http://arxiv.org/abs/2202.05139v1)**|Submitted to KDD 2022|~|
