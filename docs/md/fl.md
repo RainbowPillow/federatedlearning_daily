@@ -9,7 +9,7 @@ layout: default
 | Date | Title | Comment | Code |
 |:-----|:------|:--------|:-----|
 |**2022-02-14**|**[Do Gradient Inversion Attacks Make Federated Learning Unsafe?](http://arxiv.org/abs/2202.06924v1)**|Improved and reformatted version of  https://www.researchsquare.com/article/rs-1147182/v2|~|
-|**2022-02-14**|**[UA-FedRec: Untargeted Attack on Federated News Recommendation](http://arxiv.org/abs/2202.06701v1)**|10 pages|~|
+|**2022-02-14**|**[UA-FedRec: Untargeted Attack on Federated News Recommendation](http://arxiv.org/abs/2202.06701v1)**|10 pages|[code](https://github.com/yjw1029/ua-fedrec)|
 |**2022-02-14**|**[FLHub: a Federated Learning model sharing service](http://arxiv.org/abs/2202.06493v1)**|~|~|
 |**2022-02-13**|**[Defense Strategies Toward Model Poisoning Attacks in Federated Learning: A Survey](http://arxiv.org/abs/2202.06414v1)**|~|~|
 |**2022-02-13**|**[On the Convergence of Clustered Federated Learning](http://arxiv.org/abs/2202.06187v1)**|draft|~|
