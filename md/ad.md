@@ -4,6 +4,12 @@
 
 |Date|Title|Comment|Code|
 |----|-----|-------|----|
+|**2022-02-15**|**[Deep Generative model with Hierarchical Latent Factors for Time Series Anomaly Detection](http://arxiv.org/abs/2202.07586v1)**|accepted at AISTATS 2022|[code](https://github.com/cchallu/dghl)|
+|**2022-02-14**|**[vue4logs -- Automatic Structuring of Heterogeneous Computer System Logs](http://arxiv.org/abs/2202.07504v1)**|~|~|
+|**2022-02-12**|**[An Automated Analysis Framework for Trajectory Datasets](http://arxiv.org/abs/2202.07438v1)**|13 pages, 13 figures|~|
+|**2022-02-15**|**[Deep Learning-based Anomaly Detection on X-ray Images of Fuel Cell Electrodes](http://arxiv.org/abs/2202.07361v1)**|10 pages, 9 figures, VISAPP2022|~|
+|**2022-02-15**|**[Transformers in Time Series: A Survey](http://arxiv.org/abs/2202.07125v1)**|8 pages, 1 figure, 4 tables, 65 referred papers|~|
+|**2022-02-14**|**[A Survey of Visual Sensory Anomaly Detection](http://arxiv.org/abs/2202.07006v1)**|~|~|
 |**2022-02-14**|**[DeCorus: Hierarchical Multivariate Anomaly Detection at Cloud-Scale](http://arxiv.org/abs/2202.06892v1)**|11 pages, 4 figures, draft|~|
 |**2022-02-14**|**[AnoMili: Spoofing Prevention and Explainable Anomaly Detection for the 1553 Military Avionic Bus](http://arxiv.org/abs/2202.06870v1)**|~|~|
 |**2022-02-14**|**[UniParser: A Unified Log Parser for Heterogeneous Log Data](http://arxiv.org/abs/2202.06569v1)**|Accepted by WWW 2022, 8 pages|~|

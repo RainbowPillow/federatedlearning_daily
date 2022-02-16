@@ -4,6 +4,7 @@
 
 |Date|Title|Comment|Code|
 |----|-----|-------|----|
+|**2022-02-15**|**[Time Domain Simulation of DFIG-Based Wind Power System using Differential Transform Method](http://arxiv.org/abs/2202.07208v1)**|10 pages, 11 figures|~|
 |**2022-01-26**|**[Collective wind farm operation based on a predictive model increases utility-scale energy production](http://arxiv.org/abs/2202.06683v1)**|14 pages, 5 figures, 1 table|~|
 |**2022-02-10**|**[Optimised operation of low-emission offshore oil and gas platform integrated energy systems](http://arxiv.org/abs/2202.05072v1)**|~|[code](https://github.com/oogeso/oogeso)|
 |**2022-02-07**|**[Deep learning of inverse water waves problems using multi-fidelity data: Application to Serre-Green-Naghdi equations](http://arxiv.org/abs/2202.02899v1)**|~|~|

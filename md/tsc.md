@@ -4,6 +4,14 @@
 
 |Date|Title|Comment|Code|
 |----|-----|-------|----|
+|**2022-02-15**|**[Deep Generative model with Hierarchical Latent Factors for Time Series Anomaly Detection](http://arxiv.org/abs/2202.07586v1)**|accepted at AISTATS 2022|[code](https://github.com/cchallu/dghl)|
+|**2022-02-14**|**[Vau da muntanialas: Energy-efficient multi-die scalable acceleration of RNN inference](http://arxiv.org/abs/2202.07462v1)**|~|~|
+|**2022-02-15**|**[ViNTER: Image Narrative Generation with Emotion-Arc-Aware Transformer](http://arxiv.org/abs/2202.07305v1)**|~|~|
+|**2022-02-15**|**[Adaptive Conformal Predictions for Time Series](http://arxiv.org/abs/2202.07282v1)**|~|[code](https://github.com/mzaffran/adaptiveconformalpredictionstimeseries)|
+|**2022-02-15**|**[Investigating the genomic background of CRISPR-Cas genomes for CRISPR-based antimicrobials](http://arxiv.org/abs/2202.07171v1)**|27 pages, 5 figures|~|
+|**2022-02-15**|**[Transformers in Time Series: A Survey](http://arxiv.org/abs/2202.07125v1)**|8 pages, 1 figure, 4 tables, 65 referred papers|~|
+|**2022-02-14**|**[Sequential Monte Carlo With Model Tempering](http://arxiv.org/abs/2202.07070v1)**|~|~|
+|**2022-02-14**|**[Recurrent Neural Networks for Dynamical Systems: Applications to Ordinary Differential Equations, Collective Motion, and Hydrological Modeling](http://arxiv.org/abs/2202.07022v1)**|15 pages, 9 figures, submitted into "Chaos: An Interdisciplinary  Journal of Nonlinear Science"|~|
 |**2022-02-14**|**[Simple Models and Biased Forecasts](http://arxiv.org/abs/2202.06921v1)**|~|~|
 |**2022-02-14**|**[Exact Statistical Inference for Time Series Similarity using Dynamic Time Warping by Selective Inference](http://arxiv.org/abs/2202.06593v1)**|~|~|
 |**2022-02-13**|**[Local approximation of operators](http://arxiv.org/abs/2202.06392v1)**|~|~|
