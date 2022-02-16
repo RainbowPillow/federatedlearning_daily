@@ -53,7 +53,7 @@ layout: default
 |**2022-02-07**|**[Forecasting Environmental Data: An example to ground-level ozone concentration surfaces](http://arxiv.org/abs/2202.03332v1)**|~|~|
 |**2022-02-07**|**[The Near-Infrared Spectrograph (NIRSpec) on the James Webb Space Telescope IV. Capabilities and predicted performance for exoplanet characterization](http://arxiv.org/abs/2202.03309v1)**|Accepted for publication in A&A. 15 pages, 15 figures|~|
 |**2022-02-01**|**[Short-term Multi-horizon Residential Electric Load Forecasting using Deep Learning and Signal Decomposition Methods](http://arxiv.org/abs/2202.03264v1)**|~|~|
-|**2022-02-07**|**[HERMES: Hybrid Error-corrector Model with inclusion of External Signals for nonstationary fashion time series](http://arxiv.org/abs/2202.03224v1)**|~|[code](https://github.com/etidav/f1fashiondataset)|
+|**2022-02-07**|**[HERMES: Hybrid Error-corrector Model with inclusion of External Signals for nonstationary fashion time series](http://arxiv.org/abs/2202.03224v2)**|~|[code](https://github.com/etidav/f1fashiondataset)|
 |**2022-01-31**|**[Comparative Study of Machine Learning Models for Stock Price Prediction](http://arxiv.org/abs/2202.03156v1)**|~|~|
 |**2022-02-07**|**[Detecting Structural Breaks in Foreign Exchange Markets by using the group LASSO technique](http://arxiv.org/abs/2202.02988v1)**|10 pages, 4 figures. The author reported the previous version in the  96th meeting of Western Economic Association International in 2021|~|
 |**2022-02-06**|**[Robust Anomaly Detection for Time-series Data](http://arxiv.org/abs/2202.02721v1)**|18 pages, 12 figures, 6 tables|~|
