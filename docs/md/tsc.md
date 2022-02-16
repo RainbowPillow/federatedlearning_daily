@@ -22,7 +22,7 @@ layout: default
 |**2022-02-13**|**[A new estimation of astrometric exoplanet detection limits in the habitable zone around nearby stars](http://arxiv.org/abs/2202.06301v1)**|Accepted in Astronomy and Astrophysics|~|
 |**2022-02-13**|**[Flowformer: Linearizing Transformers with Conservation Flows](http://arxiv.org/abs/2202.06258v1)**|~|~|
 |**2022-02-13**|**[Feature Construction and Selection for PV Solar Power Modeling](http://arxiv.org/abs/2202.06226v1)**|6 pages, 8 figures|~|
-|**2022-02-12**|**[Adapting reservoir computing to solve the Schrödinger equation](http://arxiv.org/abs/2202.06130v1)**|~|~|
+|**2022-02-12**|**[Adapting reservoir computing to solve the Schrödinger equation](http://arxiv.org/abs/2202.06130v1)**|~|[code](https://github.com/laiadc/rc_quantum)|
 |**2022-02-12**|**[Modeling Stellar Oscillations and Granulation in Radial Velocity Time Series: A Fourier-based Method](http://arxiv.org/abs/2202.06094v1)**|Submitted to ApJ, comments welcome|~|
 |**2022-02-11**|**[POT-flavored estimator of Pickands dependence function](http://arxiv.org/abs/2202.05935v1)**|~|~|
 |**2022-02-11**|**[Stellar activity correction using PCA decomposition of shells](http://arxiv.org/abs/2202.05902v1)**|~|~|
