@@ -19,12 +19,12 @@
 |**2022-02-11**|**[Hybridization of Capsule and LSTM Networks for unsupervised anomaly detection on multivariate data](http://arxiv.org/abs/2202.05538v1)**|This work has been submitted to the IEEE for possible publication.  Copyright may be transferred without notice, after which this version may no  longer be accessible|~|
 |**2022-02-11**|**[From Unsupervised to Few-shot Graph Anomaly Detection: A Multi-scale Contrastive Learning Approach](http://arxiv.org/abs/2202.05525v1)**|13 pages, 5 figures, 5 tables|~|
 |**2022-02-10**|**[Two-Stage Deep Anomaly Detection with Heterogeneous Time Series Data](http://arxiv.org/abs/2202.05093v1)**|10 pages, 4 figures, 4 tables; published in the IEEE Access (Please  cite our journal version.)|~|
-|**2022-02-08**|**[Unsupervised Time-Series Representation Learning with Iterative Bilinear Temporal-Spectral Fusion](http://arxiv.org/abs/2202.04770v1)**|~|~|
+|**2022-02-08**|**[Iterative Bilinear Temporal-Spectral Fusion for Unsupervised Time-Series Representation Learning](http://arxiv.org/abs/2202.04770v2)**|~|~|
 |**2022-02-09**|**[ARIBA: Towards Accurate and Robust Identification of Backdoor Attacks in Federated Learning](http://arxiv.org/abs/2202.04311v1)**|17 pages, 11 figures|~|
 |**2022-02-09**|**[Log-based Anomaly Detection with Deep Learning: How Far Are We?](http://arxiv.org/abs/2202.04301v2)**|Accepted by The 44th International Conference on Software Engineering  (ICSE 2022)|[code](https://github.com/logintelligence/logadempirical)|
 |**2022-02-09**|**[GenAD: General Representations of Multivariate Time Seriesfor Anomaly Detection](http://arxiv.org/abs/2202.04250v1)**|~|~|
 |**2022-02-08**|**[Detecting Anomalies within Time Series using Local Neural Transformations](http://arxiv.org/abs/2202.03944v1)**|~|[code](https://github.com/boschresearch/local_neural_transformations)|
-|**2022-02-08**|**[KENN: Enhancing Deep Neural Networks by Leveraging Knowledge for Time Series Forecasting](http://arxiv.org/abs/2202.03903v2)**|~|~|
+|**2022-02-08**|**[KENN: Enhancing Deep Neural Networks by Leveraging Knowledge for Time Series Forecasting](http://arxiv.org/abs/2202.03903v3)**|~|~|
 |**2022-02-08**|**[Comparative Study Between Distance Measures On Supervised Optimum-Path Forest Classification](http://arxiv.org/abs/2202.03854v1)**|16 pages, 2 figures|[code](https://github.com/gugarosa/opf_distance)|
 |**2022-02-08**|**[Contrastive predictive coding for Anomaly Detection in Multi-variate Time Series Data](http://arxiv.org/abs/2202.03639v1)**|~|~|
 |**2022-02-06**|**[BEAS: Blockchain Enabled Asynchronous & Secure Federated Machine Learning](http://arxiv.org/abs/2202.02817v1)**|The Third AAAI Workshop on Privacy-Preserving Artificial Intelligence  (PPAI-22) at the Thirty-Sixth AAAI Conference on Artificial Intelligence  (AAAI-22)|[code](https://github.com/harpreetvirkk/beas)|

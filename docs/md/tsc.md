@@ -16,7 +16,7 @@ layout: default
 |**2022-02-15**|**[Transformers in Time Series: A Survey](http://arxiv.org/abs/2202.07125v1)**|8 pages, 1 figure, 4 tables, 65 referred papers|~|
 |**2022-02-14**|**[Sequential Monte Carlo With Model Tempering](http://arxiv.org/abs/2202.07070v1)**|~|~|
 |**2022-02-14**|**[Recurrent Neural Networks for Dynamical Systems: Applications to Ordinary Differential Equations, Collective Motion, and Hydrological Modeling](http://arxiv.org/abs/2202.07022v1)**|15 pages, 9 figures, submitted into "Chaos: An Interdisciplinary  Journal of Nonlinear Science"|~|
-|**2022-02-14**|**[Simple Models and Biased Forecasts](http://arxiv.org/abs/2202.06921v1)**|~|~|
+|**2022-02-14**|**[Simple Models and Biased Forecasts](http://arxiv.org/abs/2202.06921v2)**|~|~|
 |**2022-02-14**|**[Exact Statistical Inference for Time Series Similarity using Dynamic Time Warping by Selective Inference](http://arxiv.org/abs/2202.06593v1)**|~|~|
 |**2022-02-13**|**[Local approximation of operators](http://arxiv.org/abs/2202.06392v1)**|~|~|
 |**2022-02-13**|**[A new estimation of astrometric exoplanet detection limits in the habitable zone around nearby stars](http://arxiv.org/abs/2202.06301v1)**|Accepted in Astronomy and Astrophysics|~|
@@ -36,9 +36,9 @@ layout: default
 |**2022-02-10**|**[Robust Parameter Estimation for the Lee-Carter Model: A Probabilistic Principal Component Approach](http://arxiv.org/abs/2202.05349v1)**|~|~|
 |**2022-02-10**|**[Two-Stage Deep Anomaly Detection with Heterogeneous Time Series Data](http://arxiv.org/abs/2202.05093v1)**|10 pages, 4 figures, 4 tables; published in the IEEE Access (Please  cite our journal version.)|~|
 |**2022-02-10**|**[Case-based reasoning for rare events prediction on strategic sites](http://arxiv.org/abs/2202.04891v1)**|~|~|
-|**2022-02-10**|**[Learning Latent Causal Dynamics](http://arxiv.org/abs/2202.04828v2)**|~|~|
+|**2022-02-10**|**[Learning Latent Causal Dynamics](http://arxiv.org/abs/2202.04828v3)**|~|~|
 |**2022-02-10**|**[Discovery, Timing, and Multiwavelength Observations of the Black Widow Millisecond Pulsar PSR J1555-2908](http://arxiv.org/abs/2202.04783v1)**|15 pages, 6 figures, accepted by ApJ|~|
-|**2022-02-08**|**[Unsupervised Time-Series Representation Learning with Iterative Bilinear Temporal-Spectral Fusion](http://arxiv.org/abs/2202.04770v1)**|~|~|
+|**2022-02-08**|**[Iterative Bilinear Temporal-Spectral Fusion for Unsupervised Time-Series Representation Learning](http://arxiv.org/abs/2202.04770v2)**|~|~|
 |**2022-02-08**|**[Spectral Propagation Graph Network for Few-shot Time Series Classification](http://arxiv.org/abs/2202.04769v1)**|~|~|
 |**2022-02-09**|**[Flexible Bayesian Nowcasting with application to COVID-19 fatalities in Sweden](http://arxiv.org/abs/2202.04569v2)**|~|~|
 |**2022-02-09**|**[A Measurement-Based Robust Non-Gaussian Process Emulator Applied to Data-Driven Stochastic Power Flow](http://arxiv.org/abs/2202.04378v1)**|IEEE PES GM 2022|~|
@@ -48,7 +48,7 @@ layout: default
 |**2022-02-08**|**[The Lifecycle of a Statistical Model: Model Failure Detection, Identification, and Refitting](http://arxiv.org/abs/2202.04166v1)**|~|~|
 |**2022-02-08**|**[Time Series Anomaly Detection by Cumulative Radon Features](http://arxiv.org/abs/2202.04067v1)**|~|[code](https://github.com/yedidh/radonomaly)|
 |**2022-02-08**|**[Detecting Anomalies within Time Series using Local Neural Transformations](http://arxiv.org/abs/2202.03944v1)**|~|[code](https://github.com/boschresearch/local_neural_transformations)|
-|**2022-02-08**|**[KENN: Enhancing Deep Neural Networks by Leveraging Knowledge for Time Series Forecasting](http://arxiv.org/abs/2202.03903v2)**|~|~|
+|**2022-02-08**|**[KENN: Enhancing Deep Neural Networks by Leveraging Knowledge for Time Series Forecasting](http://arxiv.org/abs/2202.03903v3)**|~|~|
 |**2022-02-03**|**[COVID-19 Hospitalizations Forecasts Using Internet Search Data](http://arxiv.org/abs/2202.03869v1)**|arXiv admin note: text overlap with arXiv:2202.02621|~|
 |**2022-02-08**|**[A multivariate pseudo-likelihood approach to estimating directional ocean wave models](http://arxiv.org/abs/2202.03773v1)**|~|~|
 |**2022-02-08**|**[Time to Focus: A Comprehensive Benchmark Using Time Series Attribution Methods](http://arxiv.org/abs/2202.03759v1)**|12 pages, 6 figures, 8 tables, Presented at ICAART 2022|~|

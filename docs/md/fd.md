@@ -9,7 +9,7 @@ layout: default
 | Date | Title | Comment | Code |
 |:-----|:------|:--------|:-----|
 |**2022-02-09**|**[Fault Detection and Diagnosis with Imbalanced and Noisy Data: A Hybrid Framework for Rotating Machinery](http://arxiv.org/abs/2202.04212v1)**|23 pages, 11 figures|~|
-|**2022-01-31**|**[Vibration Fault Diagnosis in Wind Turbines based on Automated Feature Learning](http://arxiv.org/abs/2201.13403v1)**|~|~|
+|**2022-01-31**|**[Vibration Fault Diagnosis in Wind Turbines based on Automated Feature Learning](http://arxiv.org/abs/2201.13403v2)**|~|~|
 |**2022-01-20**|**[Transfer Learning for Fault Diagnosis of Transmission Lines](http://arxiv.org/abs/2201.08018v1)**|~|~|
 |**2021-12-17**|**[Feature extraction and classification algorithm, which one is more essential? An experimental study on a specific task of vibration signal diagnosis](http://arxiv.org/abs/2112.09389v1)**|~|~|
 |**2021-12-11**|**[Technical Language Supervision for Intelligent Fault Diagnosis in Process Industry](http://arxiv.org/abs/2112.07356v1)**|~|~|
