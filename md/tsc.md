@@ -9,7 +9,7 @@
 |**2022-02-16**|**[An RKHS approach for pivotal inference in functional linear regression](http://arxiv.org/abs/2202.08051v1)**|~|~|
 |**2022-02-16**|**[TimeREISE: Time-series Randomized Evolving Input Sample Explanation](http://arxiv.org/abs/2202.07952v1)**|8 pages, 6 figures, 6 tables|~|
 |**2022-02-16**|**[Cross-Modal Common Representation Learning with Triplet Loss Functions](http://arxiv.org/abs/2202.07901v1)**|~|~|
-|**2022-02-16**|**[Graph-Augmented Normalizing Flows for Anomaly Detection of Multiple Time Series](http://arxiv.org/abs/2202.07857v1)**|ICLR 2022. Code is available at https://github.com/EnyanDai/GANF|~|
+|**2022-02-16**|**[Graph-Augmented Normalizing Flows for Anomaly Detection of Multiple Time Series](http://arxiv.org/abs/2202.07857v1)**|ICLR 2022. Code is available at https://github.com/EnyanDai/GANF|[code](https://github.com/enyandai/ganf)|
 |**2022-02-16**|**[Momentum flux fluctuations in wall turbulence: a formula beyond the law of the wall](http://arxiv.org/abs/2202.07805v1)**|8 pages, to appear in Physics of Fluids|~|
 |**2022-02-15**|**[LIMREF: Local Interpretable Model Agnostic Rule-based Explanations for Forecasting, with an Application to Electricity Smart Meter Data](http://arxiv.org/abs/2202.07766v1)**|Accepted as a conference paper to AAAI 2022|~|
 |**2022-02-15**|**[Deep Generative model with Hierarchical Latent Factors for Time Series Anomaly Detection](http://arxiv.org/abs/2202.07586v1)**|accepted at AISTATS 2022|[code](https://github.com/cchallu/dghl)|
