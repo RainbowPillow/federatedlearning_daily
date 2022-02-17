@@ -8,6 +8,14 @@ layout: default
 
 | Date | Title | Comment | Code |
 |:-----|:------|:--------|:-----|
+|**2022-02-16**|**[A Prospective Approach for Human-to-Human Interaction Recognition from Wi-Fi Channel Data using Attention Bidirectional Gated Recurrent Neural Network with GUI Application Implementation](http://arxiv.org/abs/2202.08146v1)**|18 Pages. This is the Pre-print version article submitted for  Peer-Review to a prestigious journal|~|
+|**2022-02-16**|**[HDC-MiniROCKET: Explicit Time Encoding in Time Series Classification with Hyperdimensional Computing](http://arxiv.org/abs/2202.08055v1)**|~|~|
+|**2022-02-16**|**[An RKHS approach for pivotal inference in functional linear regression](http://arxiv.org/abs/2202.08051v1)**|~|~|
+|**2022-02-16**|**[TimeREISE: Time-series Randomized Evolving Input Sample Explanation](http://arxiv.org/abs/2202.07952v1)**|8 pages, 6 figures, 6 tables|~|
+|**2022-02-16**|**[Cross-Modal Common Representation Learning with Triplet Loss Functions](http://arxiv.org/abs/2202.07901v1)**|~|~|
+|**2022-02-16**|**[Graph-Augmented Normalizing Flows for Anomaly Detection of Multiple Time Series](http://arxiv.org/abs/2202.07857v1)**|ICLR 2022. Code is available at https://github.com/EnyanDai/GANF|~|
+|**2022-02-16**|**[Momentum flux fluctuations in wall turbulence: a formula beyond the law of the wall](http://arxiv.org/abs/2202.07805v1)**|8 pages, to appear in Physics of Fluids|~|
+|**2022-02-15**|**[LIMREF: Local Interpretable Model Agnostic Rule-based Explanations for Forecasting, with an Application to Electricity Smart Meter Data](http://arxiv.org/abs/2202.07766v1)**|Accepted as a conference paper to AAAI 2022|~|
 |**2022-02-15**|**[Deep Generative model with Hierarchical Latent Factors for Time Series Anomaly Detection](http://arxiv.org/abs/2202.07586v1)**|accepted at AISTATS 2022|[code](https://github.com/cchallu/dghl)|
 |**2022-02-14**|**[Vau da muntanialas: Energy-efficient multi-die scalable acceleration of RNN inference](http://arxiv.org/abs/2202.07462v1)**|~|~|
 |**2022-02-15**|**[ViNTER: Image Narrative Generation with Emotion-Arc-Aware Transformer](http://arxiv.org/abs/2202.07305v1)**|~|~|
