@@ -8,6 +8,7 @@ layout: default
 
 | Date | Title | Comment | Code |
 |:-----|:------|:--------|:-----|
+|**2022-02-16**|**[Anomalib: A Deep Learning Library for Anomaly Detection](http://arxiv.org/abs/2202.08341v1)**|~|~|
 |**2022-02-16**|**[Latent Outlier Exposure for Anomaly Detection with Contaminated Data](http://arxiv.org/abs/2202.08088v1)**|~|~|
 |**2022-02-16**|**[Graph-Augmented Normalizing Flows for Anomaly Detection of Multiple Time Series](http://arxiv.org/abs/2202.07857v1)**|ICLR 2022. Code is available at https://github.com/EnyanDai/GANF|[code](https://github.com/enyandai/ganf)|
 |**2022-02-15**|**[Trustworthy Anomaly Detection: A Survey](http://arxiv.org/abs/2202.07787v1)**|Paper list, see  https://github.com/yuan-shuhan/trustworthy-anomaly-detection-papers|~|
