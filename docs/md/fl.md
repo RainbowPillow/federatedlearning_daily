@@ -8,6 +8,10 @@ layout: default
 
 | Date | Title | Comment | Code |
 |:-----|:------|:--------|:-----|
+|**2022-02-18**|**[ProxSkip: Yes! Local Gradient Steps Provably Lead to Communication Acceleration! Finally!](http://arxiv.org/abs/2202.09357v1)**|20 pages|~|
+|**2022-02-18**|**[PerFED-GAN: Personalized Federated Learning via Generative Adversarial Networks](http://arxiv.org/abs/2202.09155v1)**|~|~|
+|**2022-02-18**|**[Social Welfare Maximization in cross-silo Federated Learning](http://arxiv.org/abs/2202.09044v1)**|Accepted by ICASSP 2022. arXiv admin note: substantial text overlap  with arXiv:2202.08362|~|
+|**2022-02-17**|**[FLAME: Federated Learning Across Multi-device Environments](http://arxiv.org/abs/2202.08922v1)**|~|~|
 |**2022-02-17**|**[LAMP: Extracting Text from Gradients with Language Model Priors](http://arxiv.org/abs/2202.08827v1)**|~|~|
 |**2022-02-17**|**[CoFED: Cross-silo Heterogeneous Federated Multi-task Learning via Co-training](http://arxiv.org/abs/2202.08603v1)**|~|~|
 |**2022-02-17**|**[An Equivalence Between Data Poisoning and Byzantine Gradient Attacks](http://arxiv.org/abs/2202.08578v1)**|arXiv admin note: text overlap with arXiv:2106.02398|~|

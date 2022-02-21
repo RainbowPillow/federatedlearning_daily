@@ -8,6 +8,8 @@ layout: default
 
 | Date | Title | Comment | Code |
 |:-----|:------|:--------|:-----|
+|**2022-02-18**|**[Pinpointing Anomaly Events in Logs from Stability Testing -- N-Grams vs. Deep-Learning](http://arxiv.org/abs/2202.09214v1)**|Accepted to 5th Workshop on NEXt level of Test Automation (NEXTA),  ICST Workshops 2022|~|
+|**2022-02-17**|**[Exploring X-ray variability with unsupervised machine learning I. Self-organizing maps applied to XMM-Newton data](http://arxiv.org/abs/2202.08868v1)**|Accepted in Astronomy & Astrophysics (A&A). Main part: 12 pages, 12  figures, 1 video (appendix: 5 pages and 4 figures)|~|
 |**2022-02-16**|**[Anomalib: A Deep Learning Library for Anomaly Detection](http://arxiv.org/abs/2202.08341v1)**|~|[code](https://github.com/openvinotoolkit/anomalib)|
 |**2022-02-16**|**[Latent Outlier Exposure for Anomaly Detection with Contaminated Data](http://arxiv.org/abs/2202.08088v1)**|~|~|
 |**2022-02-16**|**[Graph-Augmented Normalizing Flows for Anomaly Detection of Multiple Time Series](http://arxiv.org/abs/2202.07857v1)**|ICLR 2022. Code is available at https://github.com/EnyanDai/GANF|[code](https://github.com/enyandai/ganf)|
