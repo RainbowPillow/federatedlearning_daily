@@ -53,7 +53,7 @@ layout: default
 |**2022-02-11**|**[Stellar activity correction using PCA decomposition of shells](http://arxiv.org/abs/2202.05902v1)**|~|~|
 |**2022-02-11**|**[Motion Correction and Volumetric Reconstruction for Fetal Functional Magnetic Resonance Imaging Data](http://arxiv.org/abs/2202.05863v1)**|Preprint submitted to NeuroImage|[code](https://github.com/gift-surg/niftymic)|
 |**2022-02-11**|**[Active Privacy-Utility Trade-off Against Inference in Time-Series Data Sharing](http://arxiv.org/abs/2202.05833v1)**|12 pages, 12 figures|~|
-|**2022-02-11**|**[SleepPPG-Net: a deep learning algorithm for robust sleep staging from continuous photoplethysmography](http://arxiv.org/abs/2202.05735v1)**|23 pages, 10 figures|~|
+|**2022-02-11**|**[SleepPPG-Net: a deep learning algorithm for robust sleep staging from continuous photoplethysmography](http://arxiv.org/abs/2202.05735v2)**|23 pages, 10 figures|~|
 |**2022-02-11**|**[An assessment of implicit-explicit time integrators for the pseudo-spectral approximation of Boussinesq thermal convection in an annulus](http://arxiv.org/abs/2202.05734v1)**|39 pages, 15 figures, 5 tables, accepted for publication in JCP|~|
 |**2022-02-11**|**[InterpretTime: a new approach for the systematic evaluation of neural-network interpretability in time series classification](http://arxiv.org/abs/2202.05656v1)**|~|~|
 |**2022-02-11**|**[Hybridization of Capsule and LSTM Networks for unsupervised anomaly detection on multivariate data](http://arxiv.org/abs/2202.05538v1)**|This work has been submitted to the IEEE for possible publication.  Copyright may be transferred without notice, after which this version may no  longer be accessible|~|
