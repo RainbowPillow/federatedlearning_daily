@@ -4,13 +4,24 @@
 
 |Date|Title|Comment|Code|
 |----|-----|-------|----|
+|**2022-02-21**|**[Estimation of Evaporator Valve Sizes in Supermarket Refrigeration Cabinets](http://arxiv.org/abs/2202.10348v1)**|Submitted to "Journal of Process Control"|~|
+|**2022-02-21**|**[Characterization of Supernovae Based on the Spectral-Temporal Energy Distribution: Possible two SN Ib Subtypes](http://arxiv.org/abs/2202.10300v1)**|6 pages of text, 7 figures. Submitted to ApJ. Code available in  GitHub under https://github.com/ofek-b/spectra_in_time|~|
+|**2022-02-21**|**[Inferring Network Structure with Unobservable Nodes from Time Series Data](http://arxiv.org/abs/2202.10144v1)**|~|~|
+|**2022-02-21**|**[Recurrent Auto-Encoder With Multi-Resolution Ensemble and Predictive Coding for Multivariate Time-Series Anomaly Detection](http://arxiv.org/abs/2202.10001v1)**|~|~|
+|**2022-02-21**|**[Integrated Fault Diagnosis and Control Design for DER Inverters using Machine Learning Methods](http://arxiv.org/abs/2202.09996v1)**|~|~|
+|**2022-02-21**|**[A Deep Learning Model for Forecasting Global Monthly Mean Sea Surface Temperature Anomalies](http://arxiv.org/abs/2202.09967v1)**|31 pages, 15 Figures|~|
+|**2022-02-19**|**[Nuclear quantum effects on the vibrational dynamics of the water-air interface](http://arxiv.org/abs/2202.09592v1)**|9 pages, 15 figures|~|
+|**2022-02-19**|**[A Link Mixture Model for Spatio-temporal Infection Data, with Applications to the COVID Epidemic](http://arxiv.org/abs/2202.09547v1)**|~|~|
+|**2022-02-19**|**[Bayesian Quantile Trend Filtering on Graphs using Shrinkage Priors](http://arxiv.org/abs/2202.09534v1)**|36 pages, 13 figures|~|
+|**2022-02-18**|**[Long Run Risk in Stationary Structural Vector Autoregressive Models](http://arxiv.org/abs/2202.09473v1)**|58 pages, 10 figures|~|
+|**2022-02-18**|**[A Bayesian Hierarchical Time Series Model for Reconstructing Hydroclimate from Multiple Proxies](http://arxiv.org/abs/2202.09383v1)**|17 pages, 10 figures|~|
 |**2022-02-18**|**[Signal Decomposition Using Masked Proximal Operators](http://arxiv.org/abs/2202.09338v1)**|The manuscript has 57 pages, 22 figures and 2 tables. Also hosted at  https://web.stanford.edu/~boyd/papers/sig_decomp_mprox.html. For code, see  https://github.com/cvxgrp/signal-decomposition|[code](https://github.com/cvxgrp/signal-decomposition)|
 |**2022-02-15**|**[Introduction of the Market-Based Price Autocorrelation](http://arxiv.org/abs/2202.09323v1)**|13 pages|~|
-|**2022-02-18**|**[Stratified Multivariate Multiscale Dispersion Entropy for Physiological Signal Analysis](http://arxiv.org/abs/2202.09298v1)**|~|~|
+|**2022-02-18**|**[Stratified Multivariate Multiscale Dispersion Entropy for Physiological Signal Analysis](http://arxiv.org/abs/2202.09298v1)**|~|[code](https://github.com/evangeloskafantaris/smvmde)|
 |**2022-02-18**|**[A multivariate extension of the Misspecification-Resistant Information Criterion](http://arxiv.org/abs/2202.09225v1)**|~|~|
 |**2022-02-18**|**[PGCN: Progressive Graph Convolutional Networks for Spatial-Temporal Traffic Forecasting](http://arxiv.org/abs/2202.08982v1)**|9 pages, 5 figures, currently under review for KDD22|~|
 |**2022-02-18**|**[Simulating User-Level Twitter Activity with XGBoost and Probabilistic Hybrid Models](http://arxiv.org/abs/2202.08964v1)**|~|~|
-|**2022-02-17**|**["Back to the future" projections for COVID-19 surges](http://arxiv.org/abs/2202.08928v1)**|21 pages, 7 figures|~|
+|**2022-02-17**|**["Back to the future" projections for COVID-19 surges](http://arxiv.org/abs/2202.08928v1)**|21 pages, 7 figures|[code](https://github.com/txl646/btfcovid)|
 |**2022-02-17**|**[GRAPHSHAP: Motif-based Explanations for Black-box Graph Classifiers](http://arxiv.org/abs/2202.08815v1)**|20 pages, 9 figures|[code](https://github.com/notnotalan/graphshap)|
 |**2022-02-17**|**[Ensemble Conformalized Quantile Regression for Probabilistic Time Series Forecasting](http://arxiv.org/abs/2202.08756v1)**|~|[code](https://github.com/filippomb/ensemble-conformalized-quantile-regression)|
 |**2022-02-17**|**[Level set based particle filter driven by optical flow: an application to track the salt boundary from X-ray CT time-series](http://arxiv.org/abs/2202.08717v1)**|~|~|

@@ -4,6 +4,11 @@
 
 |Date|Title|Comment|Code|
 |----|-----|-------|----|
+|**2022-02-21**|**[BERT WEAVER: Using WEight AVERaging to Enable Lifelong Learning for Transformer-based Models](http://arxiv.org/abs/2202.10101v1)**|~|~|
+|**2022-02-20**|**[Collusion Resistant Federated Learning with Oblivious Distributed Differential Privacy](http://arxiv.org/abs/2202.09897v1)**|~|~|
+|**2022-02-20**|**[Personalized Federated Learning with Exact Stochastic Gradient Descent](http://arxiv.org/abs/2202.09848v1)**|~|~|
+|**2022-02-18**|**[FedEmbed: Personalized Private Federated Learning](http://arxiv.org/abs/2202.09472v1)**|15 pages|~|
+|**2022-02-18**|**[Differentially Private Federated Learning via Inexact ADMM with Multiple Local Updates](http://arxiv.org/abs/2202.09409v1)**|arXiv admin note: substantial text overlap with arXiv:2106.06127|~|
 |**2022-02-18**|**[ProxSkip: Yes! Local Gradient Steps Provably Lead to Communication Acceleration! Finally!](http://arxiv.org/abs/2202.09357v1)**|20 pages|~|
 |**2022-02-18**|**[PerFED-GAN: Personalized Federated Learning via Generative Adversarial Networks](http://arxiv.org/abs/2202.09155v1)**|~|~|
 |**2022-02-18**|**[Social Welfare Maximization in cross-silo Federated Learning](http://arxiv.org/abs/2202.09044v1)**|Accepted by ICASSP 2022. arXiv admin note: substantial text overlap  with arXiv:2202.08362|~|
