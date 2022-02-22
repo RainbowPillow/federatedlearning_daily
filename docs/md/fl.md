@@ -8,7 +8,7 @@ layout: default
 
 | Date | Title | Comment | Code |
 |:-----|:------|:--------|:-----|
-|**2022-02-21**|**[BERT WEAVER: Using WEight AVERaging to Enable Lifelong Learning for Transformer-based Models](http://arxiv.org/abs/2202.10101v1)**|~|~|
+|**2022-02-21**|**[BERT WEAVER: Using WEight AVERaging to Enable Lifelong Learning for Transformer-based Models](http://arxiv.org/abs/2202.10101v1)**|~|[code](https://github.com/llangnickel/weaver)|
 |**2022-02-20**|**[Collusion Resistant Federated Learning with Oblivious Distributed Differential Privacy](http://arxiv.org/abs/2202.09897v1)**|~|~|
 |**2022-02-20**|**[Personalized Federated Learning with Exact Stochastic Gradient Descent](http://arxiv.org/abs/2202.09848v1)**|~|~|
 |**2022-02-18**|**[FedEmbed: Personalized Private Federated Learning](http://arxiv.org/abs/2202.09472v1)**|15 pages|~|
