@@ -18,7 +18,7 @@ layout: default
 |**2022-02-19**|**[A Link Mixture Model for Spatio-temporal Infection Data, with Applications to the COVID Epidemic](http://arxiv.org/abs/2202.09547v1)**|~|~|
 |**2022-02-19**|**[Bayesian Quantile Trend Filtering on Graphs using Shrinkage Priors](http://arxiv.org/abs/2202.09534v1)**|36 pages, 13 figures|~|
 |**2022-02-18**|**[Long Run Risk in Stationary Structural Vector Autoregressive Models](http://arxiv.org/abs/2202.09473v1)**|58 pages, 10 figures|~|
-|**2022-02-18**|**[A Bayesian Hierarchical Time Series Model for Reconstructing Hydroclimate from Multiple Proxies](http://arxiv.org/abs/2202.09383v1)**|17 pages, 10 figures|~|
+|**2022-02-18**|**[A Bayesian Hierarchical Time Series Model for Reconstructing Hydroclimate from Multiple Proxies](http://arxiv.org/abs/2202.09383v2)**|17 pages, 10 figures|~|
 |**2022-02-18**|**[Signal Decomposition Using Masked Proximal Operators](http://arxiv.org/abs/2202.09338v1)**|The manuscript has 57 pages, 22 figures and 2 tables. Also hosted at  https://web.stanford.edu/~boyd/papers/sig_decomp_mprox.html. For code, see  https://github.com/cvxgrp/signal-decomposition|[code](https://github.com/cvxgrp/signal-decomposition)|
 |**2022-02-15**|**[Introduction of the Market-Based Price Autocorrelation](http://arxiv.org/abs/2202.09323v1)**|13 pages|~|
 |**2022-02-18**|**[Stratified Multivariate Multiscale Dispersion Entropy for Physiological Signal Analysis](http://arxiv.org/abs/2202.09298v1)**|~|[code](https://github.com/evangeloskafantaris/smvmde)|
