@@ -4,6 +4,7 @@
 
 |Date|Title|Comment|Code|
 |----|-----|-------|----|
+|**2022-02-21**|**[Demand and Price Fluctuations Effect on Risk and Profit of Single and Clustered Microgrids during COVID-19 Pandemic](http://arxiv.org/abs/2202.10494v1)**|24 pages, 11 figures, 5 tables, International Journal of Electrical  Power and Energy Systems|~|
 |**2022-02-16**|**[Relativistic Wind Farm Effect: Possibly Turbulent Flow of a Charged, Massless Relativistic Fluid in Graphene](http://arxiv.org/abs/2202.07839v1)**|7 pages, 9 figures|~|
 |**2022-02-15**|**[Time Domain Simulation of DFIG-Based Wind Power System using Differential Transform Method](http://arxiv.org/abs/2202.07208v1)**|10 pages, 11 figures|~|
 |**2022-01-26**|**[Collective wind farm operation based on a predictive model increases utility-scale energy production](http://arxiv.org/abs/2202.06683v1)**|14 pages, 5 figures, 1 table|~|

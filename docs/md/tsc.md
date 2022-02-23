@@ -8,6 +8,12 @@ layout: default
 
 | Date | Title | Comment | Code |
 |:-----|:------|:--------|:-----|
+|**2022-02-22**|**[Learning Dynamics and Structure of Complex Systems Using Graph Neural Networks](http://arxiv.org/abs/2202.10996v1)**|~|~|
+|**2022-02-22**|**[Macroeconomic Effect of Uncertainty and Financial Shocks: a non-Gaussian VAR approach](http://arxiv.org/abs/2202.10834v1)**|~|~|
+|**2022-02-22**|**[Hyper Attention Recurrent Neural Network: Tackling Temporal Covariate Shift in Time Series Analysis](http://arxiv.org/abs/2202.10808v1)**|6 pages, 4 figures|~|
+|**2022-02-22**|**[PyTorch Geometric Signed Directed: A Survey and Software on Graph Neural Networks for Signed and Directed Graphs](http://arxiv.org/abs/2202.10793v1)**|11 pages, 2 figures|~|
+|**2022-02-18**|**[Dynamic Relation Discovery and Utilization in Multi-Entity Time Series Forecasting](http://arxiv.org/abs/2202.10586v1)**|~|~|
+|**2022-02-19**|**[A Novel Anomaly Detection Method for Multimodal WSN Data Flow via a Dynamic Graph Neural Network](http://arxiv.org/abs/2202.10454v1)**|~|~|
 |**2022-02-21**|**[Estimation of Evaporator Valve Sizes in Supermarket Refrigeration Cabinets](http://arxiv.org/abs/2202.10348v1)**|Submitted to "Journal of Process Control"|~|
 |**2022-02-21**|**[Characterization of Supernovae Based on the Spectral-Temporal Energy Distribution: Possible two SN Ib Subtypes](http://arxiv.org/abs/2202.10300v1)**|6 pages of text, 7 figures. Submitted to ApJ. Code available in  GitHub under https://github.com/ofek-b/spectra_in_time|~|
 |**2022-02-21**|**[Inferring Network Structure with Unobservable Nodes from Time Series Data](http://arxiv.org/abs/2202.10144v1)**|~|~|
