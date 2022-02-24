@@ -8,6 +8,15 @@ layout: default
 
 | Date | Title | Comment | Code |
 |:-----|:------|:--------|:-----|
+|**2022-02-23**|**[Learning Fast and Slow for Online Time Series Forecasting](http://arxiv.org/abs/2202.11672v1)**|~|~|
+|**2022-02-23**|**[SporTran: a code to estimate transport coefficients from the cepstral analysis of (multivariate) current time series](http://arxiv.org/abs/2202.11571v1)**|~|~|
+|**2022-02-23**|**[Mobility and the spatially heterogeneous spread of SARS-CoV-2 in Belgium](http://arxiv.org/abs/2202.11528v1)**|Main text: 18 pages, 12 figures. Appendices: 8 pages, 5 figures.  References: 43|~|
+|**2022-02-23**|**[DL-SLOT: Dynamic Lidar SLAM and Object Tracking Based On Graph Optimization](http://arxiv.org/abs/2202.11431v1)**|~|~|
+|**2022-02-23**|**[A Differential Attention Fusion Model Based on Transformer for Time Series Forecasting](http://arxiv.org/abs/2202.11402v1)**|~|~|
+|**2022-02-23**|**[Preformer: Predictive Transformer with Multi-Scale Segment-wise Correlations for Long-Term Time Series Forecasting](http://arxiv.org/abs/2202.11356v1)**|~|~|
+|**2022-02-23**|**[Deep Recurrent Modelling of Granger Causality with Latent Confounding](http://arxiv.org/abs/2202.11286v1)**|~|~|
+|**2022-02-23**|**[Neural Generalised AutoRegressive Conditional Heteroskedasticity](http://arxiv.org/abs/2202.11285v1)**|~|~|
+|**2022-02-23**|**[NetRCA: An Effective Network Fault Cause Localization Algorithm](http://arxiv.org/abs/2202.11269v1)**|Accepted by IEEE 47th International Conference on Acoustics, Speech,  and Signal Processing (ICASSP 2022)|~|
 |**2022-02-22**|**[Learning Dynamics and Structure of Complex Systems Using Graph Neural Networks](http://arxiv.org/abs/2202.10996v1)**|~|~|
 |**2022-02-22**|**[Macroeconomic Effect of Uncertainty and Financial Shocks: a non-Gaussian VAR approach](http://arxiv.org/abs/2202.10834v1)**|~|~|
 |**2022-02-22**|**[Hyper Attention Recurrent Neural Network: Tackling Temporal Covariate Shift in Time Series Analysis](http://arxiv.org/abs/2202.10808v1)**|6 pages, 4 figures|~|

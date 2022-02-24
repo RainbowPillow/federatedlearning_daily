@@ -4,6 +4,10 @@
 
 |Date|Title|Comment|Code|
 |----|-----|-------|----|
+|**2022-02-23**|**[TEE-based decentralized recommender systems: The raw data sharing redemption](http://arxiv.org/abs/2202.11655v1)**|~|[code](https://github.com/rafaelppires/rex)|
+|**2022-02-23**|**[Towards Tailored Models on Private AIoT Devices: Federated Direct Neural Architecture Search](http://arxiv.org/abs/2202.11490v1)**|arXiv admin note: text overlap with arXiv:2011.03372|~|
+|**2022-02-23**|**[Bitwidth Heterogeneous Federated Learning with Progressive Weight Dequantization](http://arxiv.org/abs/2202.11453v1)**|Preprint, 13 pages, 8 figures|~|
+|**2022-02-21**|**[Backdoor Defense in Federated Learning Using Differential Testing and Outlier Detection](http://arxiv.org/abs/2202.11196v1)**|~|~|
 |**2022-02-18**|**[Incentive Mechanism Design for Joint Resource Allocation in Blockchain-based Federated Learning](http://arxiv.org/abs/2202.10938v1)**|~|~|
 |**2022-02-22**|**[Differential Secrecy for Distributed Data and Applications to Robust Differentially Secure Vector Summation](http://arxiv.org/abs/2202.10618v1)**|17 pages|~|
 |**2022-02-21**|**[Privacy Leakage of Adversarial Training Models in Federated Learning Systems](http://arxiv.org/abs/2202.10546v1)**|6 pages, 6 figures. Submitted to CVPR'22 workshop "The Art of  Robustness"|[code](https://github.com/zjysteven/privayattack_at_fl)|

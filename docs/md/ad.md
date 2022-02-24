@@ -8,6 +8,8 @@ layout: default
 
 | Date | Title | Comment | Code |
 |:-----|:------|:--------|:-----|
+|**2022-02-23**|**[Anomaly Detection in 3D Point Clouds using Deep Geometric Descriptors](http://arxiv.org/abs/2202.11660v1)**|~|~|
+|**2022-02-23**|**[Deep Graph Learning for Anomalous Citation Detection](http://arxiv.org/abs/2202.11360v1)**|~|~|
 |**2022-02-22**|**[Missing large-angle correlations versus even-odd point-parity imbalance in the cosmic microwave background](http://arxiv.org/abs/2202.10987v1)**|10 pages, 8 figures|~|
 |**2022-02-19**|**[A Novel Anomaly Detection Method for Multimodal WSN Data Flow via a Dynamic Graph Neural Network](http://arxiv.org/abs/2202.10454v1)**|~|~|
 |**2022-02-21**|**[Composite Anomaly Detection via Hierarchical Dynamic Search](http://arxiv.org/abs/2202.10418v1)**|~|~|
