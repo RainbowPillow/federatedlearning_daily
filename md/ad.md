@@ -4,6 +4,9 @@
 
 |Date|Title|Comment|Code|
 |----|-----|-------|----|
+|**2022-02-24**|**[Machine Learning for Intrusion Detection in Industrial Control Systems: Applications, Challenges, and Recommendations](http://arxiv.org/abs/2202.11917v1)**|~|~|
+|**2022-02-24**|**[A spectral-spatial fusion anomaly detection method for hyperspectral imagery](http://arxiv.org/abs/2202.11889v1)**|~|~|
+|**2022-02-23**|**[ML-based Anomaly Detection in Optical Fiber Monitoring](http://arxiv.org/abs/2202.11756v1)**|The AAAI-22 Workshop on Artificial Intelligence for Cyber Security  (AICS)|~|
 |**2022-02-23**|**[Anomaly Detection in 3D Point Clouds using Deep Geometric Descriptors](http://arxiv.org/abs/2202.11660v1)**|~|~|
 |**2022-02-23**|**[Deep Graph Learning for Anomalous Citation Detection](http://arxiv.org/abs/2202.11360v1)**|~|~|
 |**2022-02-22**|**[Missing large-angle correlations versus even-odd point-parity imbalance in the cosmic microwave background](http://arxiv.org/abs/2202.10987v1)**|10 pages, 8 figures|~|

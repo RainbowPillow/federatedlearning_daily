@@ -4,6 +4,8 @@
 
 |Date|Title|Comment|Code|
 |----|-----|-------|----|
+|**2022-02-24**|**[Partitioned Variational Inference: A framework for probabilistic federated learning](http://arxiv.org/abs/2202.12275v1)**|arXiv admin note: substantial text overlap with arXiv:1811.11206|~|
+|**2022-02-24**|**[Sky Computing: Accelerating Geo-distributed Computing in Federated Learning](http://arxiv.org/abs/2202.11836v1)**|~|~|
 |**2022-02-23**|**[TEE-based decentralized recommender systems: The raw data sharing redemption](http://arxiv.org/abs/2202.11655v1)**|~|[code](https://github.com/rafaelppires/rex)|
 |**2022-02-23**|**[Towards Tailored Models on Private AIoT Devices: Federated Direct Neural Architecture Search](http://arxiv.org/abs/2202.11490v1)**|arXiv admin note: text overlap with arXiv:2011.03372|~|
 |**2022-02-23**|**[Bitwidth Heterogeneous Federated Learning with Progressive Weight Dequantization](http://arxiv.org/abs/2202.11453v1)**|Preprint, 13 pages, 8 figures|~|
