@@ -11,7 +11,7 @@ layout: default
 |**2022-02-25**|**[Data refinement for fully unsupervised visual inspection using pre-trained networks](http://arxiv.org/abs/2202.12759v1)**|18 pages, 13 figures|~|
 |**2022-02-25**|**[Statistics and Deep Learning-based Hybrid Model for Interpretable Anomaly Detection](http://arxiv.org/abs/2202.12720v1)**|~|~|
 |**2022-02-25**|**[Bayesian autoencoders with uncertainty quantification: Towards trustworthy anomaly detection](http://arxiv.org/abs/2202.12653v1)**|~|~|
-|**2022-02-25**|**[Do autoencoders need a bottleneck for anomaly detection?](http://arxiv.org/abs/2202.12637v1)**|~|~|
+|**2022-02-25**|**[Do autoencoders need a bottleneck for anomaly detection?](http://arxiv.org/abs/2202.12637v1)**|~|[code](https://github.com/google/neural-tangents)|
 |**2022-02-25**|**[Stacked Residuals of Dynamic Layers for Time Series Anomaly Detection](http://arxiv.org/abs/2202.12457v1)**|~|~|
 |**2022-02-24**|**[Machine Learning for Intrusion Detection in Industrial Control Systems: Applications, Challenges, and Recommendations](http://arxiv.org/abs/2202.11917v1)**|~|~|
 |**2022-02-24**|**[A spectral-spatial fusion anomaly detection method for hyperspectral imagery](http://arxiv.org/abs/2202.11889v1)**|~|~|
