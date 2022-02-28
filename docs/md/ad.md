@@ -26,7 +26,7 @@ layout: default
 |**2022-02-16**|**[Graph-Augmented Normalizing Flows for Anomaly Detection of Multiple Time Series](http://arxiv.org/abs/2202.07857v1)**|ICLR 2022. Code is available at https://github.com/EnyanDai/GANF|[code](https://github.com/enyandai/ganf)|
 |**2022-02-15**|**[Trustworthy Anomaly Detection: A Survey](http://arxiv.org/abs/2202.07787v1)**|Paper list, see  https://github.com/yuan-shuhan/trustworthy-anomaly-detection-papers|~|
 |**2022-02-15**|**[Simulating Malicious Attacks on VANETs for Connected and Autonomous Vehicle Cybersecurity: A Machine Learning Dataset](http://arxiv.org/abs/2202.07704v1)**|12 page, 13 figures, 3 tables, conference CSNDSP 2022|~|
-|**2022-02-15**|**[Deep Generative model with Hierarchical Latent Factors for Time Series Anomaly Detection](http://arxiv.org/abs/2202.07586v1)**|accepted at AISTATS 2022|[code](https://github.com/cchallu/dghl)|
+|**2022-02-15**|**[Deep Generative model with Hierarchical Latent Factors for Time Series Anomaly Detection](http://arxiv.org/abs/2202.07586v2)**|accepted at AISTATS 2022|[code](https://github.com/cchallu/dghl)|
 |**2022-02-14**|**[vue4logs -- Automatic Structuring of Heterogeneous Computer System Logs](http://arxiv.org/abs/2202.07504v1)**|~|~|
 |**2022-02-12**|**[An Automated Analysis Framework for Trajectory Datasets](http://arxiv.org/abs/2202.07438v1)**|13 pages, 13 figures|~|
 |**2022-02-15**|**[Deep Learning-based Anomaly Detection on X-ray Images of Fuel Cell Electrodes](http://arxiv.org/abs/2202.07361v1)**|10 pages, 9 figures, VISAPP2022|~|
