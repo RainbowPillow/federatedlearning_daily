@@ -4,6 +4,11 @@
 
 |Date|Title|Comment|Code|
 |----|-----|-------|----|
+|**2022-02-25**|**[Novel techniques for improvement the NNetEn entropy calculation for short and noisy time series](http://arxiv.org/abs/2202.12703v1)**|17 pages, 19 figures, 2 tables|~|
+|**2022-02-25**|**[Evolutionary scheduling of university activities based on consumption forecasts to minimise electricity costs](http://arxiv.org/abs/2202.12595v1)**|Submitted to the 2022 IEEE Congress on Evolutionary Computation|~|
+|**2022-02-25**|**[Stacked Residuals of Dynamic Layers for Time Series Anomaly Detection](http://arxiv.org/abs/2202.12457v1)**|~|~|
+|**2022-02-25**|**[Long-Term Missing Value Imputation for Time Series Data Using Deep Neural Networks](http://arxiv.org/abs/2202.12441v1)**|~|~|
+|**2022-02-24**|**[Monte Carlo simulations of multiple populations in globular clusters: constraints on the initial size of the second generation from binary stars](http://arxiv.org/abs/2202.12321v1)**|19 pages, 11 figures, accepted for publication by MNRAS|~|
 |**2022-02-24**|**[Sequential Asset Ranking within Nonstationary Time Series](http://arxiv.org/abs/2202.12186v1)**|~|~|
 |**2022-02-24**|**[Predicting the impact of treatments over time with uncertainty aware neural differential equations](http://arxiv.org/abs/2202.11987v1)**|~|~|
 |**2022-02-24**|**[Robust Probabilistic Time Series Forecasting](http://arxiv.org/abs/2202.11910v1)**|AISTATS 2022 camera ready version|[code](https://github.com/tetrzim/robust-probabilistic-forecasting)|
