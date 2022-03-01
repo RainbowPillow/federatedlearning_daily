@@ -4,6 +4,11 @@
 
 |Date|Title|Comment|Code|
 |----|-----|-------|----|
+|**2022-02-28**|**[Computational Code-Based Privacy in Coded Federated Learning](http://arxiv.org/abs/2202.13798v1)**|7 pages, 1 figure, submitted for review to ISIT 2022|~|
+|**2022-02-28**|**[FedDrive: Generalizing Federated Learning to Semantic Segmentation in Autonomous Driving](http://arxiv.org/abs/2202.13670v1)**|~|~|
+|**2022-02-28**|**[Improving Response Time of Home IoT Services in Federated Learning](http://arxiv.org/abs/2202.13626v1)**|To appear at SAC 2022. Code:  https://github.com/HwangDongJun/Federated_Learning_using_Websockets|~|
+|**2022-02-28**|**[Asynchronous Decentralized Federated Learning for Collaborative Fault Diagnosis of PV Stations](http://arxiv.org/abs/2202.13606v1)**|~|~|
+|**2022-02-27**|**[Graph-Assisted Communication-Efficient Ensemble Federated Learning](http://arxiv.org/abs/2202.13447v1)**|~|~|
 |**2022-02-23**|**[FedCAT: Towards Accurate Federated Learning via Device Concatenation](http://arxiv.org/abs/2202.12751v1)**|~|~|
 |**2022-02-25**|**[Towards an Accountable and Reproducible Federated Learning: A FactSheets Approach](http://arxiv.org/abs/2202.12443v1)**|16 pages, 4 figures, 2 tables|~|
 |**2022-02-24**|**[Partitioned Variational Inference: A Framework for Probabilistic Federated Learning](http://arxiv.org/abs/2202.12275v2)**|arXiv admin note: substantial text overlap with arXiv:1811.11206|~|

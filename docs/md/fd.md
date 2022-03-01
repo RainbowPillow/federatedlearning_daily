@@ -8,6 +8,7 @@ layout: default
 
 | Date | Title | Comment | Code |
 |:-----|:------|:--------|:-----|
+|**2022-02-28**|**[Asynchronous Decentralized Federated Learning for Collaborative Fault Diagnosis of PV Stations](http://arxiv.org/abs/2202.13606v1)**|~|~|
 |**2022-02-16**|**[An alternative paradigm of fault diagnosis in dynamic systems: orthogonal projection-based methods](http://arxiv.org/abs/2202.08108v1)**|~|~|
 |**2022-02-09**|**[Fault Detection and Diagnosis with Imbalanced and Noisy Data: A Hybrid Framework for Rotating Machinery](http://arxiv.org/abs/2202.04212v1)**|23 pages, 11 figures|~|
 |**2022-01-31**|**[Vibration Fault Diagnosis in Wind Turbines based on Automated Feature Learning](http://arxiv.org/abs/2201.13403v2)**|~|~|

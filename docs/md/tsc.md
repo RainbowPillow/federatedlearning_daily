@@ -8,6 +8,15 @@ layout: default
 
 | Date | Title | Comment | Code |
 |:-----|:------|:--------|:-----|
+|**2022-02-23**|**[Simulating Network Paths with Recurrent Buffering Units](http://arxiv.org/abs/2202.13870v1)**|20 pages, 12 figures|~|
+|**2022-02-28**|**[Bayesian Hierarchical Copula Model for Financial Time series](http://arxiv.org/abs/2202.13689v1)**|19 pages, no Figures|~|
+|**2022-02-27**|**[ONE-NAS: An Online NeuroEvolution based Neural Architecture Search for Time Series Forecasting](http://arxiv.org/abs/2202.13471v1)**|~|~|
+|**2022-02-27**|**[Meta-path Analysis on Spatio-Temporal Graphs for Pedestrian Trajectory Prediction](http://arxiv.org/abs/2202.13427v1)**|~|~|
+|**2022-02-27**|**[Taming the Long Tail of Deep Probabilistic Forecasting](http://arxiv.org/abs/2202.13418v1)**|17 pages|~|
+|**2022-02-27**|**[Hierarchical Linear Dynamical System for Representing Notes from Recorded Audio](http://arxiv.org/abs/2202.13255v1)**|~|~|
+|**2022-02-26**|**[Regularized Bilinear Discriminant Analysis for Multivariate Time Series Data](http://arxiv.org/abs/2202.13188v1)**|14 pages, 2 figures|~|
+|**2022-02-25**|**[Integrated multimodal artificial intelligence framework for healthcare applications](http://arxiv.org/abs/2202.12998v1)**|~|~|
+|**2022-02-25**|**[Capturing Actionable Dynamics with Structured Latent Ordinary Differential Equations](http://arxiv.org/abs/2202.12932v1)**|Github code can be found at  https://github.com/paidamoyo/structured_latent_ODEs|~|
 |**2022-02-25**|**[Novel techniques for improvement the NNetEn entropy calculation for short and noisy time series](http://arxiv.org/abs/2202.12703v1)**|17 pages, 19 figures, 2 tables|~|
 |**2022-02-25**|**[Evolutionary scheduling of university activities based on consumption forecasts to minimise electricity costs](http://arxiv.org/abs/2202.12595v1)**|Submitted to the 2022 IEEE Congress on Evolutionary Computation|~|
 |**2022-02-25**|**[Stacked Residuals of Dynamic Layers for Time Series Anomaly Detection](http://arxiv.org/abs/2202.12457v1)**|~|~|
