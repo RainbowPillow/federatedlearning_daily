@@ -4,6 +4,7 @@
 
 |Date|Title|Comment|Code|
 |----|-----|-------|----|
+|**2022-03-01**|**[Omni-frequency Channel-selection Representations for Unsupervised Anomaly Detection](http://arxiv.org/abs/2203.00259v1)**|~|~|
 |**2022-02-28**|**[DistAD: Software Anomaly Detection Based on Execution Trace Distribution](http://arxiv.org/abs/2202.13898v1)**|~|~|
 |**2022-02-26**|**[Regional-Local Adversarially Learned One-Class Classifier Anomalous Sound Detection in Global Long-Term Space](http://arxiv.org/abs/2202.13245v1)**|~|[code](https://github.com/cavitationdetection/grlnet)|
 |**2022-02-25**|**[Self-Supervised and Interpretable Anomaly Detection using Network Transformers](http://arxiv.org/abs/2202.12997v1)**|~|~|

@@ -4,6 +4,14 @@
 
 |Date|Title|Comment|Code|
 |----|-----|-------|----|
+|**2022-03-01**|**[Dimension Reduction of Two-Dimensional Persistence via Distance Deformations](http://arxiv.org/abs/2203.00616v1)**|~|~|
+|**2022-03-01**|**[Path sampling of recurrent neural networks by incorporating known physics](http://arxiv.org/abs/2203.00597v1)**|~|~|
+|**2022-03-01**|**[Flares and their echoes can help distinguish photon rings from black holes with space-Earth very long baseline interferometry](http://arxiv.org/abs/2203.00577v1)**|Accepted to publish in Physical Review D|~|
+|**2022-03-01**|**[Multivariate permutation entropy, a Cartesian graph product approach](http://arxiv.org/abs/2203.00550v1)**|5 pages, 4 figures, 2 tables|~|
+|**2022-02-25**|**[Mental State Classification Using Multi-graph Features](http://arxiv.org/abs/2203.00516v1)**|~|~|
+|**2022-03-01**|**[Fitting a Stochastic Model of Intensive Care Occupancy to Noisy Hospitalization Time Series](http://arxiv.org/abs/2203.00229v1)**|23 pages, 6 Figures and 5 Tables; data and code to reproduce the  simulation study are made available at the authors' webpages|~|
+|**2022-03-01**|**[FedREP: Towards Horizontal Federated Load Forecasting for Retail Energy Providers](http://arxiv.org/abs/2203.00219v1)**|~|~|
+|**2022-03-01**|**[Molecular Dynamics of Polymer-lipids in Solution from Supervised Machine Learning](http://arxiv.org/abs/2203.00151v1)**|~|~|
 |**2022-02-23**|**[Simulating Network Paths with Recurrent Buffering Units](http://arxiv.org/abs/2202.13870v1)**|20 pages, 12 figures|~|
 |**2022-02-28**|**[Bayesian Hierarchical Copula Model for Financial Time series](http://arxiv.org/abs/2202.13689v1)**|19 pages, no Figures|~|
 |**2022-02-27**|**[ONE-NAS: An Online NeuroEvolution based Neural Architecture Search for Time Series Forecasting](http://arxiv.org/abs/2202.13471v1)**|~|~|
