@@ -8,6 +8,13 @@ layout: default
 
 | Date | Title | Comment | Code |
 |:-----|:------|:--------|:-----|
+|**2022-03-02**|**[HighMMT: Towards Modality and Task Generalization for High-Modality Representation Learning](http://arxiv.org/abs/2203.01311v1)**|Code available at https://github.com/pliang279/HighMMT|~|
+|**2022-03-02**|**[Early-warning indicator based on autoregressive moving-average models: Critical Transitions and the Atlantic Meridional Overturning Circulation](http://arxiv.org/abs/2203.01100v1)**|The following article has been submitted to Chaos. After it is  published, it will be found at  https://publishing.aip.org/resources/librarians/products/journals/|~|
+|**2022-03-02**|**[Boosted Ensemble Learning based on Randomized NNs for Time Series Forecasting](http://arxiv.org/abs/2203.00980v1)**|~|~|
+|**2022-03-02**|**[Predicting the temporal dynamics of turbulent channels through deep learning](http://arxiv.org/abs/2203.00974v1)**|~|~|
+|**2022-03-02**|**[Parallel Spatio-Temporal Attention-Based TCN for Multivariate Time Series Prediction](http://arxiv.org/abs/2203.00971v1)**|~|~|
+|**2022-03-02**|**[ES-dRNN with Dynamic Attention for Short-Term Load Forecasting](http://arxiv.org/abs/2203.00937v1)**|Code and data: https://github.com/slaweks17/ES-adRNN. arXiv admin  note: text overlap with arXiv:2112.02663|~|
+|**2022-03-01**|**[Uncovering the dynamic effects of DEX treatment on lung cancer by integrating bioinformatic inference and multiscale modeling of scRNA-seq and proteomics data](http://arxiv.org/abs/2203.00743v1)**|~|~|
 |**2022-03-01**|**[Dimension Reduction of Two-Dimensional Persistence via Distance Deformations](http://arxiv.org/abs/2203.00616v1)**|~|~|
 |**2022-03-01**|**[Path sampling of recurrent neural networks by incorporating known physics](http://arxiv.org/abs/2203.00597v1)**|~|~|
 |**2022-03-01**|**[Flares and their echoes can help distinguish photon rings from black holes with space-Earth very long baseline interferometry](http://arxiv.org/abs/2203.00577v1)**|Accepted to publish in Physical Review D|~|
