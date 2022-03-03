@@ -4,7 +4,7 @@
 
 |Date|Title|Comment|Code|
 |----|-----|-------|----|
-|**2022-03-02**|**[On-Device Learning: A Neural Network Based Field-Trainable Edge AI](http://arxiv.org/abs/2203.01077v1)**|~|~|
+|**2022-03-02**|**[On-Device Learning: A Neural Network Based Field-Trainable Edge AI](http://arxiv.org/abs/2203.01077v1)**|~|[code](https://github.com/matutani/cooling-fan)|
 |**2022-03-02**|**[Unsupervised Anomaly Detection from Time-of-Flight Depth Images](http://arxiv.org/abs/2203.01052v1)**|~|~|
 |**2022-03-02**|**[Efficient Dynamic Clustering: Capturing Patterns fromHistorical Cluster Evolution](http://arxiv.org/abs/2203.00812v1)**|~|~|
 |**2022-03-01**|**[Omni-frequency Channel-selection Representations for Unsupervised Anomaly Detection](http://arxiv.org/abs/2203.00259v1)**|~|~|
@@ -38,7 +38,7 @@
 |**2022-02-14**|**[vue4logs -- Automatic Structuring of Heterogeneous Computer System Logs](http://arxiv.org/abs/2202.07504v1)**|~|~|
 |**2022-02-12**|**[An Automated Analysis Framework for Trajectory Datasets](http://arxiv.org/abs/2202.07438v1)**|13 pages, 13 figures|~|
 |**2022-02-15**|**[Deep Learning-based Anomaly Detection on X-ray Images of Fuel Cell Electrodes](http://arxiv.org/abs/2202.07361v1)**|10 pages, 9 figures, VISAPP2022|~|
-|**2022-02-15**|**[Transformers in Time Series: A Survey](http://arxiv.org/abs/2202.07125v2)**|8 pages, 65 referred papers; A GitHub repository is included in v2|~|
+|**2022-02-15**|**[Transformers in Time Series: A Survey](http://arxiv.org/abs/2202.07125v2)**|8 pages, 65 referred papers; A GitHub repository is included in v2|[code](https://github.com/qingsongedu/time-series-transformers-review)|
 |**2022-02-14**|**[A Survey of Visual Sensory Anomaly Detection](http://arxiv.org/abs/2202.07006v1)**|~|[code](https://github.com/m-3lab/awesome-visual-sensory-anomaly-detection)|
 |**2022-02-14**|**[DeCorus: Hierarchical Multivariate Anomaly Detection at Cloud-Scale](http://arxiv.org/abs/2202.06892v1)**|11 pages, 4 figures, draft|~|
 |**2022-02-14**|**[AnoMili: Spoofing Prevention and Explainable Anomaly Detection for the 1553 Military Avionic Bus](http://arxiv.org/abs/2202.06870v1)**|~|~|
