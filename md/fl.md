@@ -29,13 +29,13 @@
 |**2022-02-18**|**[Differentially Private Federated Learning via Inexact ADMM with Multiple Local Updates](http://arxiv.org/abs/2202.09409v1)**|arXiv admin note: substantial text overlap with arXiv:2106.06127|~|
 |**2022-02-18**|**[ProxSkip: Yes! Local Gradient Steps Provably Lead to Communication Acceleration! Finally!](http://arxiv.org/abs/2202.09357v1)**|20 pages|~|
 |**2022-02-18**|**[PerFED-GAN: Personalized Federated Learning via Generative Adversarial Networks](http://arxiv.org/abs/2202.09155v1)**|~|~|
-|**2022-02-18**|**[Social Welfare Maximization in cross-silo Federated Learning](http://arxiv.org/abs/2202.09044v1)**|Accepted by ICASSP 2022. arXiv admin note: substantial text overlap  with arXiv:2202.08362|~|
+|**2022-02-18**|**[Social Welfare Maximization in Cross-Silo Federated Learning](http://arxiv.org/abs/2202.09044v2)**|Accepted by ICASSP 2022. arXiv admin note: substantial text overlap  with arXiv:2202.08362|~|
 |**2022-02-17**|**[FLAME: Federated Learning Across Multi-device Environments](http://arxiv.org/abs/2202.08922v1)**|~|~|
 |**2022-02-17**|**[LAMP: Extracting Text from Gradients with Language Model Priors](http://arxiv.org/abs/2202.08827v1)**|~|~|
 |**2022-02-17**|**[CoFED: Cross-silo Heterogeneous Federated Multi-task Learning via Co-training](http://arxiv.org/abs/2202.08603v1)**|~|~|
 |**2022-02-17**|**[An Equivalence Between Data Poisoning and Byzantine Gradient Attacks](http://arxiv.org/abs/2202.08578v1)**|arXiv admin note: text overlap with arXiv:2106.02398|~|
 |**2022-02-17**|**[Federated Stochastic Gradient Descent Begets Self-Induced Momentum](http://arxiv.org/abs/2202.08402v1)**|~|~|
-|**2022-02-16**|**[MMZDA: Enabling Social Welfare Maximization in Cross-Silo Federated Learning](http://arxiv.org/abs/2202.08362v1)**|~|~|
+|**2022-02-16**|**[MMZDA: Enabling Social Welfare Maximization in Cross-Silo Federated Learning](http://arxiv.org/abs/2202.08362v2)**|~|~|
 |**2022-02-16**|**[Single-shot Hyper-parameter Optimization for Federated Learning: A General Algorithm & Analysis](http://arxiv.org/abs/2202.08338v1)**|arXiv admin note: substantial text overlap with arXiv:2112.08524|~|
 |**2022-02-15**|**[Towards Verifiable Federated Learning](http://arxiv.org/abs/2202.08310v1)**|~|~|
 |**2022-02-16**|**[Evaluation and Analysis of Different Aggregation and Hyperparameter Selection Methods for Federated Brain Tumor Segmentation](http://arxiv.org/abs/2202.08261v1)**|MICCAI 2021, Brain Lesion Workshop|[code](https://github.com/eceisik/FeTS_Challenge_METU_FL_Team)|
