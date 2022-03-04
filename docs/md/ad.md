@@ -8,6 +8,9 @@ layout: default
 
 | Date | Title | Comment | Code |
 |:-----|:------|:--------|:-----|
+|**2022-03-03**|**[Learning Set Functions Under the Optimal Subset Oracle via Equivariant Variational Inference](http://arxiv.org/abs/2203.01693v1)**|~|~|
+|**2022-03-03**|**[Anomaly Detection in Big Data](http://arxiv.org/abs/2203.01684v1)**|148 pages. PhD Thesis. Work done in collaboration with Durga  Toshnwial, IIT Roorkee, and Dr. Vijendra, Robert Bosch|~|
+|**2022-03-02**|**[Creating Simple, Interpretable Anomaly Detectors for New Physics in Jet Substructure](http://arxiv.org/abs/2203.01343v1)**|17 pages, 8 figures|~|
 |**2022-03-02**|**[On-Device Learning: A Neural Network Based Field-Trainable Edge AI](http://arxiv.org/abs/2203.01077v1)**|~|[code](https://github.com/matutani/cooling-fan)|
 |**2022-03-02**|**[Unsupervised Anomaly Detection from Time-of-Flight Depth Images](http://arxiv.org/abs/2203.01052v1)**|~|~|
 |**2022-03-02**|**[Efficient Dynamic Clustering: Capturing Patterns fromHistorical Cluster Evolution](http://arxiv.org/abs/2203.00812v1)**|~|~|
