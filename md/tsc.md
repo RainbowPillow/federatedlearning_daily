@@ -23,7 +23,7 @@
 |**2022-02-28**|**[Bayesian Hierarchical Copula Model for Financial Time series](http://arxiv.org/abs/2202.13689v1)**|19 pages, no Figures|~|
 |**2022-02-27**|**[ONE-NAS: An Online NeuroEvolution based Neural Architecture Search for Time Series Forecasting](http://arxiv.org/abs/2202.13471v1)**|~|~|
 |**2022-02-27**|**[Meta-path Analysis on Spatio-Temporal Graphs for Pedestrian Trajectory Prediction](http://arxiv.org/abs/2202.13427v1)**|~|[code](https://gitlab.engr.illinois.edu/hubris/mesrnn)|
-|**2022-02-27**|**[Taming the Long Tail of Deep Probabilistic Forecasting](http://arxiv.org/abs/2202.13418v1)**|17 pages|~|
+|**2022-02-27**|**[Taming the Long Tail of Deep Probabilistic Forecasting](http://arxiv.org/abs/2202.13418v2)**|17 pages|~|
 |**2022-02-27**|**[Hierarchical Linear Dynamical System for Representing Notes from Recorded Audio](http://arxiv.org/abs/2202.13255v1)**|~|~|
 |**2022-02-26**|**[Regularized Bilinear Discriminant Analysis for Multivariate Time Series Data](http://arxiv.org/abs/2202.13188v1)**|14 pages, 2 figures|~|
 |**2022-02-25**|**[Integrated multimodal artificial intelligence framework for healthcare applications](http://arxiv.org/abs/2202.12998v1)**|~|~|

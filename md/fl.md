@@ -5,7 +5,7 @@
 |Date|Title|Comment|Code|
 |----|-----|-------|----|
 |**2022-03-02**|**[Towards Efficient and Stable K-Asynchronous Federated Learning with Unbounded Stale Gradients on Non-IID Data](http://arxiv.org/abs/2203.01214v1)**|~|~|
-|**2022-03-02**|**[Personalized Federated Learning With Structure](http://arxiv.org/abs/2203.00829v1)**|~|~|
+|**2022-03-02**|**[Personalized Federated Learning With Structure](http://arxiv.org/abs/2203.00829v2)**|~|~|
 |**2022-03-01**|**[Beyond Gradients: Exploiting Adversarial Priors in Model Inversion Attacks](http://arxiv.org/abs/2203.00481v1)**|~|~|
 |**2022-03-01**|**[FedREP: Towards Horizontal Federated Load Forecasting for Retail Energy Providers](http://arxiv.org/abs/2203.00219v1)**|~|~|
 |**2022-02-28**|**[Computational Code-Based Privacy in Coded Federated Learning](http://arxiv.org/abs/2202.13798v1)**|7 pages, 1 figure, submitted for review to ISIT 2022|~|
