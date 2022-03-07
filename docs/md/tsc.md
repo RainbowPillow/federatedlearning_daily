@@ -8,6 +8,10 @@ layout: default
 
 | Date | Title | Comment | Code |
 |:-----|:------|:--------|:-----|
+|**2022-03-04**|**[Dependence structure for the product of bi-dimensional finite-variance VAR(1) model components. An application to the cost of electricity load prediction errors](http://arxiv.org/abs/2203.02249v1)**|~|~|
+|**2022-03-03**|**[Interpretable Latent Variables in Deep State Space Models](http://arxiv.org/abs/2203.02057v1)**|~|~|
+|**2022-03-03**|**[DIME: Fine-grained Interpretations of Multimodal Models via Disentangled Local Explanations](http://arxiv.org/abs/2203.02013v1)**|Code available at https://github.com/lvyiwei1/DIME|[code](https://github.com/lvyiwei1/dime)|
+|**2022-03-03**|**[Comparison of LSTM autoencoder based deep learning enabled Bayesian inference using two time series reconstruction approaches](http://arxiv.org/abs/2203.01936v1)**|~|~|
 |**2022-03-03**|**[Bayesian Spillover Graphs for Dynamic Networks](http://arxiv.org/abs/2203.01912v1)**|~|~|
 |**2022-03-03**|**[Spatio-temporal analysis of chromospheric heating in a plage region](http://arxiv.org/abs/2203.01688v1)**|~|~|
 |**2022-03-03**|**[Estimating asymptotic phase and amplitude functions of limit-cycle oscillators from time series data](http://arxiv.org/abs/2203.01663v1)**|13 pages, 11 figures|~|

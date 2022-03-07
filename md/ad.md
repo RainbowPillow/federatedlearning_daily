@@ -4,6 +4,11 @@
 
 |Date|Title|Comment|Code|
 |----|-----|-------|----|
+|**2022-03-04**|**[The Familiarity Hypothesis: Explaining the Behavior of Deep Open Set Methods](http://arxiv.org/abs/2203.02486v1)**|Under review|~|
+|**2022-03-04**|**[Exploring Scalable, Distributed Real-Time Anomaly Detection for Bridge Health Monitoring](http://arxiv.org/abs/2203.02380v1)**|14 pages, 5 tables, 12 figures|[code](https://github.com/miirho3ein/real_time_bhm)|
+|**2022-03-04**|**[Abuse and Fraud Detection in Streaming Services Using Heuristic-Aware Machine Learning](http://arxiv.org/abs/2203.02124v1)**|~|~|
+|**2022-03-03**|**[Anomaly Detection-Inspired Few-Shot Medical Image Segmentation Through Self-Supervision With Supervoxels](http://arxiv.org/abs/2203.02048v1)**|Accepted in Medical Image Analysis|~|
+|**2022-03-03**|**[Data-Efficient and Interpretable Tabular Anomaly Detection](http://arxiv.org/abs/2203.02034v1)**|~|~|
 |**2022-03-03**|**[Learning Set Functions Under the Optimal Subset Oracle via Equivariant Variational Inference](http://arxiv.org/abs/2203.01693v1)**|~|~|
 |**2022-03-03**|**[Anomaly Detection in Big Data](http://arxiv.org/abs/2203.01684v1)**|148 pages. PhD Thesis. Work done in collaboration with Durga  Toshnwial, IIT Roorkee, and Dr. Vijendra, Robert Bosch|~|
 |**2022-03-02**|**[Creating Simple, Interpretable Anomaly Detectors for New Physics in Jet Substructure](http://arxiv.org/abs/2203.01343v1)**|17 pages, 8 figures|~|
