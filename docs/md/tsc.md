@@ -8,6 +8,17 @@ layout: default
 
 | Date | Title | Comment | Code |
 |:-----|:------|:--------|:-----|
+|**2022-03-07**|**[Detecting the periodicity of highly irregularly sampled light-curves with Gaussian processes: the case of SDSSJ025214.67-002813.7](http://arxiv.org/abs/2203.03614v1)**|9 pages, 4 figures, MNRAS, in press|~|
+|**2022-03-07**|**[Bayesian Bilinear Neural Network for Predicting the Mid-price Dynamics in Limit-Order Book Markets](http://arxiv.org/abs/2203.03613v1)**|~|~|
+|**2022-03-07**|**[A solar-cycle study of coronal rotation: large variations, rapid changes, and implications for solar wind models](http://arxiv.org/abs/2203.03447v1)**|~|~|
+|**2022-03-07**|**[S-Rocket: Selective Random Convolution Kernels for Time Series Classification](http://arxiv.org/abs/2203.03445v1)**|~|~|
+|**2022-03-07**|**[Multivariate Time Series Forecasting with Latent Graph Inference](http://arxiv.org/abs/2203.03423v1)**|~|~|
+|**2022-03-07**|**[Automated Few-Shot Time Series Forecasting based on Bi-level Programming](http://arxiv.org/abs/2203.03328v1)**|~|~|
+|**2022-03-07**|**[Evaluating State of the Art, Forecasting Ensembles- and Meta-learning Strategies for Model Fusion](http://arxiv.org/abs/2203.03279v1)**|~|~|
+|**2022-03-07**|**[Sequential Gaussian approximation for nonstationary time series in high dimensions](http://arxiv.org/abs/2203.03237v1)**|~|~|
+|**2022-03-05**|**[The detection matrix as a model-agnostic tool to estimate the number of degrees of freedom in mechanical systems and engineering structures](http://arxiv.org/abs/2203.02831v1)**|~|~|
+|**2022-03-05**|**[EsDNN: Deep Neural Network based Multivariate Workload Prediction Approach in Cloud Environment](http://arxiv.org/abs/2203.02684v1)**|24 pages|~|
+|**2022-03-04**|**[A DSL for Defining Feature-Level Quality Constraints and the Aggregation of Evaluation Results in DevOps](http://arxiv.org/abs/2203.02587v1)**|15 pages, 2 figures, 8 code listings|~|
 |**2022-03-04**|**[Dependence structure for the product of bi-dimensional finite-variance VAR(1) model components. An application to the cost of electricity load prediction errors](http://arxiv.org/abs/2203.02249v1)**|~|~|
 |**2022-03-03**|**[Interpretable Latent Variables in Deep State Space Models](http://arxiv.org/abs/2203.02057v1)**|~|~|
 |**2022-03-03**|**[DIME: Fine-grained Interpretations of Multimodal Models via Disentangled Local Explanations](http://arxiv.org/abs/2203.02013v1)**|Code available at https://github.com/lvyiwei1/DIME|[code](https://github.com/lvyiwei1/dime)|

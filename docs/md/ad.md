@@ -8,6 +8,10 @@ layout: default
 
 | Date | Title | Comment | Code |
 |:-----|:------|:--------|:-----|
+|**2022-03-07**|**[Machine Learning based Anomaly Detection for Smart Shirt: A Systematic Review](http://arxiv.org/abs/2203.03300v1)**|17 pages, 5 figures, 10 tables|~|
+|**2022-03-06**|**[Coresets for Data Discretization and Sine Wave Fitting](http://arxiv.org/abs/2203.03009v1)**|~|~|
+|**2022-03-06**|**[Hybrid Deep Learning Model using SPCAGAN Augmentation for Insider Threat Analysis](http://arxiv.org/abs/2203.02855v1)**|14 pages, 8 figures|~|
+|**2022-03-05**|**[Flurry: a Fast Framework for Reproducible Multi-layered Provenance Graph Representation Learning](http://arxiv.org/abs/2203.02744v1)**|10 pages, 5 figures|~|
 |**2022-03-04**|**[The Familiarity Hypothesis: Explaining the Behavior of Deep Open Set Methods](http://arxiv.org/abs/2203.02486v1)**|Under review|~|
 |**2022-03-04**|**[Exploring Scalable, Distributed Real-Time Anomaly Detection for Bridge Health Monitoring](http://arxiv.org/abs/2203.02380v1)**|14 pages, 5 tables, 12 figures|[code](https://github.com/miirho3ein/real_time_bhm)|
 |**2022-03-04**|**[Abuse and Fraud Detection in Streaming Services Using Heuristic-Aware Machine Learning](http://arxiv.org/abs/2203.02124v1)**|~|~|
