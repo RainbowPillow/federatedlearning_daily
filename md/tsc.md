@@ -7,7 +7,7 @@
 |**2022-03-07**|**[Detecting the periodicity of highly irregularly sampled light-curves with Gaussian processes: the case of SDSSJ025214.67-002813.7](http://arxiv.org/abs/2203.03614v1)**|9 pages, 4 figures, MNRAS, in press|~|
 |**2022-03-07**|**[Bayesian Bilinear Neural Network for Predicting the Mid-price Dynamics in Limit-Order Book Markets](http://arxiv.org/abs/2203.03613v1)**|~|~|
 |**2022-03-07**|**[A solar-cycle study of coronal rotation: large variations, rapid changes, and implications for solar wind models](http://arxiv.org/abs/2203.03447v1)**|~|~|
-|**2022-03-07**|**[S-Rocket: Selective Random Convolution Kernels for Time Series Classification](http://arxiv.org/abs/2203.03445v1)**|~|~|
+|**2022-03-07**|**[S-Rocket: Selective Random Convolution Kernels for Time Series Classification](http://arxiv.org/abs/2203.03445v1)**|~|[code](https://github.com/salehinejad/srocket)|
 |**2022-03-07**|**[Multivariate Time Series Forecasting with Latent Graph Inference](http://arxiv.org/abs/2203.03423v1)**|~|~|
 |**2022-03-07**|**[Automated Few-Shot Time Series Forecasting based on Bi-level Programming](http://arxiv.org/abs/2203.03328v1)**|~|~|
 |**2022-03-07**|**[Evaluating State of the Art, Forecasting Ensembles- and Meta-learning Strategies for Model Fusion](http://arxiv.org/abs/2203.03279v1)**|~|~|

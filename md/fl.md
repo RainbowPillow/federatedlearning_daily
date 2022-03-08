@@ -7,7 +7,7 @@
 |**2022-02-17**|**[When BERT Meets Quantum Temporal Convolution Learning for Text Classification in Heterogeneous Computing](http://arxiv.org/abs/2203.03550v1)**|Accepted to ICASSP 2022|~|
 |**2022-03-07**|**[Dynamic Pricing for Client Recruitment in Federated Learning](http://arxiv.org/abs/2203.03192v1)**|12 pages, 8 figures|~|
 |**2022-03-07**|**[Differentially Private Federated Learning with Local Regularization and Sparsification](http://arxiv.org/abs/2203.03106v1)**|CVPR 2022|~|
-|**2022-03-05**|**[Acceleration of Federated Learning with Alleviated Forgetting in Local Training](http://arxiv.org/abs/2203.02645v1)**|In International Conference on Learning Representations (2021, Sept)|~|
+|**2022-03-05**|**[Acceleration of Federated Learning with Alleviated Forgetting in Local Training](http://arxiv.org/abs/2203.02645v1)**|In International Conference on Learning Representations (2021, Sept)|[code](https://github.com/zoesgithub/fedreg)|
 |**2022-03-04**|**[Continual Horizontal Federated Learning for Heterogeneous Data](http://arxiv.org/abs/2203.02108v1)**|~|~|
 |**2022-03-03**|**[Vertical Federated Principal Component Analysis and Its Kernel Extension on Feature-wise Distributed Data](http://arxiv.org/abs/2203.01752v1)**|~|[code](https://github.com/juyongjiang/vfedpca-vfedakpca)|
 |**2022-03-02**|**[Label Leakage and Protection from Forward Embedding in Vertical Federated Learning](http://arxiv.org/abs/2203.01451v2)**|~|~|
