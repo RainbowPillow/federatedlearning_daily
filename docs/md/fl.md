@@ -16,7 +16,7 @@ layout: default
 |**2022-03-03**|**[Vertical Federated Principal Component Analysis and Its Kernel Extension on Feature-wise Distributed Data](http://arxiv.org/abs/2203.01752v1)**|~|[code](https://github.com/juyongjiang/vfedpca-vfedakpca)|
 |**2022-03-02**|**[Label Leakage and Protection from Forward Embedding in Vertical Federated Learning](http://arxiv.org/abs/2203.01451v2)**|~|~|
 |**2022-03-02**|**[Towards Efficient and Stable K-Asynchronous Federated Learning with Unbounded Stale Gradients on Non-IID Data](http://arxiv.org/abs/2203.01214v1)**|~|~|
-|**2022-03-02**|**[Personalized Federated Learning With Structure](http://arxiv.org/abs/2203.00829v3)**|~|~|
+|**2022-03-02**|**[Personalized Federated Learning With Structure](http://arxiv.org/abs/2203.00829v4)**|~|~|
 |**2022-03-01**|**[Beyond Gradients: Exploiting Adversarial Priors in Model Inversion Attacks](http://arxiv.org/abs/2203.00481v1)**|~|~|
 |**2022-03-01**|**[FedREP: Towards Horizontal Federated Load Forecasting for Retail Energy Providers](http://arxiv.org/abs/2203.00219v1)**|~|~|
 |**2022-02-28**|**[Computational Code-Based Privacy in Coded Federated Learning](http://arxiv.org/abs/2202.13798v1)**|7 pages, 1 figure, submitted for review to ISIT 2022|~|

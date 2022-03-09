@@ -23,7 +23,7 @@
 |**2022-03-03**|**[Spatio-temporal analysis of chromospheric heating in a plage region](http://arxiv.org/abs/2203.01688v1)**|~|~|
 |**2022-03-03**|**[Estimating asymptotic phase and amplitude functions of limit-cycle oscillators from time series data](http://arxiv.org/abs/2203.01663v1)**|13 pages, 11 figures|~|
 |**2022-03-03**|**[Early Time-Series Classification Algorithms: An Empirical Comparison](http://arxiv.org/abs/2203.01628v1)**|18 pages, 11 figures|~|
-|**2022-03-03**|**[Calculation of Sub-bands {1,2,5,6} for 64-Point Complex FFT and Its extension to N (=2^N) Point FFT](http://arxiv.org/abs/2203.01529v1)**|~|~|
+|**2022-03-03**|**[Calculation of Sub-bands {1,2,5,6} for 64-Point Complex FFT and Its extension to N (=2^N) Point FFT](http://arxiv.org/abs/2203.01529v2)**|The paper is withdrawn as the there is more than one author for this  paper|~|
 |**2022-03-03**|**[Deep Q-network using reservoir computing with multi-layered readout](http://arxiv.org/abs/2203.01465v1)**|17 pages, 9figures|~|
 |**2022-03-02**|**[HighMMT: Towards Modality and Task Generalization for High-Modality Representation Learning](http://arxiv.org/abs/2203.01311v2)**|Code available at https://github.com/pliang279/HighMMT|[code](https://github.com/pliang279/highmmt)|
 |**2022-03-02**|**[Early-warning indicator based on autoregressive moving-average models: Critical Transitions and the Atlantic Meridional Overturning Circulation](http://arxiv.org/abs/2203.01100v1)**|The following article has been submitted to Chaos. After it is  published, it will be found at  https://publishing.aip.org/resources/librarians/products/journals/|~|
