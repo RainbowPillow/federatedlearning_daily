@@ -8,6 +8,10 @@ layout: default
 
 | Date | Title | Comment | Code |
 |:-----|:------|:--------|:-----|
+|**2022-03-08**|**[Generative Cooperative Learning for Unsupervised Video Anomaly Detection](http://arxiv.org/abs/2203.03962v1)**|Accepted to the Conference on Computer Vision and Pattern Recognition  CVPR 2022|~|
+|**2022-03-08**|**[Visual anomaly detection in video by variational autoencoder](http://arxiv.org/abs/2203.03872v1)**|~|~|
+|**2022-03-07**|**[Battery Cloud with Advanced Algorithms](http://arxiv.org/abs/2203.03737v1)**|~|~|
+|**2022-03-07**|**[Object-centric and memory-guided normality reconstruction for video anomaly detection](http://arxiv.org/abs/2203.03677v1)**|~|~|
 |**2022-03-07**|**[Machine Learning based Anomaly Detection for Smart Shirt: A Systematic Review](http://arxiv.org/abs/2203.03300v1)**|17 pages, 5 figures, 10 tables|~|
 |**2022-03-06**|**[Coresets for Data Discretization and Sine Wave Fitting](http://arxiv.org/abs/2203.03009v1)**|~|~|
 |**2022-03-06**|**[Hybrid Deep Learning Model using SPCAGAN Augmentation for Insider Threat Analysis](http://arxiv.org/abs/2203.02855v1)**|14 pages, 8 figures|~|

@@ -8,6 +8,8 @@ layout: default
 
 | Date | Title | Comment | Code |
 |:-----|:------|:--------|:-----|
+|**2022-03-08**|**[Incentivizing Data Contribution in Cross-Silo Federated Learning](http://arxiv.org/abs/2203.03885v1)**|~|~|
+|**2022-03-07**|**[The Fundamental Price of Secure Aggregation in Differentially Private Federated Learning](http://arxiv.org/abs/2203.03761v1)**|~|~|
 |**2022-02-17**|**[When BERT Meets Quantum Temporal Convolution Learning for Text Classification in Heterogeneous Computing](http://arxiv.org/abs/2203.03550v1)**|Accepted to ICASSP 2022|~|
 |**2022-03-07**|**[Dynamic Pricing for Client Recruitment in Federated Learning](http://arxiv.org/abs/2203.03192v1)**|12 pages, 8 figures|~|
 |**2022-03-07**|**[Differentially Private Federated Learning with Local Regularization and Sparsification](http://arxiv.org/abs/2203.03106v1)**|CVPR 2022|~|
