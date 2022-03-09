@@ -12,7 +12,7 @@ layout: default
 |**2022-03-08**|**[On Robust Inference in Time Series Regression](http://arxiv.org/abs/2203.04080v1)**|~|~|
 |**2022-03-08**|**[Sparsification and Filtering for Spatial-temporal GNN in Multivariate Time-series](http://arxiv.org/abs/2203.03991v1)**|7 pages, 1 figure, 3tables|~|
 |**2022-03-08**|**[Contrastive Conditional Neural Processes](http://arxiv.org/abs/2203.03978v1)**|8 pages, 7 figures, accepted to CVPR2022|~|
-|**2022-03-08**|**[Inferring Parsimonious Coupling Statistics in Nonlinear Dynamics with Variational Gaussian Processes](http://arxiv.org/abs/2203.03868v1)**|Submitted to the 30th European Signal Processing Conference  (EUSIPCO), 5 pages|~|
+|**2022-03-08**|**[Inferring Parsimonious Coupling Statistics in Nonlinear Dynamics with Variational Gaussian Processes](http://arxiv.org/abs/2203.03868v1)**|Submitted to the 30th European Signal Processing Conference  (EUSIPCO), 5 pages|[code](https://github.com/lemiceterieux/gpCCM)|
 |**2022-03-07**|**[Exploring Physical-Based Constraints in Short-Term Load Forecasting: A Defense Mechanism Against Cyberattack](http://arxiv.org/abs/2203.03774v1)**|2022 IEEE Power and Energy Society General Meeting,17-21 July 2022,  Denver, Colorado, USA|~|
 |**2022-03-07**|**[Provably Accurate and Scalable Linear Classifiers in Hyperbolic Spaces](http://arxiv.org/abs/2203.03730v1)**|~|[code](https://github.com/thupchnsky/poincarelinearclassification)|
 |**2022-03-07**|**[Detecting the periodicity of highly irregularly sampled light-curves with Gaussian processes: the case of SDSSJ025214.67-002813.7](http://arxiv.org/abs/2203.03614v1)**|9 pages, 4 figures, MNRAS, in press|~|
