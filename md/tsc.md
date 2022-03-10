@@ -4,6 +4,18 @@
 
 |Date|Title|Comment|Code|
 |----|-----|-------|----|
+|**2022-03-09**|**[A continuous multiple hypothesis testing framework for optimal exoplanet detection](http://arxiv.org/abs/2203.04957v1)**|Submitted to Annals of Applied Statistics|~|
+|**2022-03-09**|**[Autoregressive models for time series of random sums of positive variables: application to tree growth as a function of climate and insect outbreaks](http://arxiv.org/abs/2203.04926v1)**|~|~|
+|**2022-03-09**|**[Monitoring Time Series With Missing Values: a Deep Probabilistic Approach](http://arxiv.org/abs/2203.04916v1)**|~|~|
+|**2022-03-09**|**[Geometric Optimisation on Manifolds with Applications to Deep Learning](http://arxiv.org/abs/2203.04794v1)**|DPhil Thesis. 154 pages|~|
+|**2022-03-09**|**[Defending Black-box Skeleton-based Human Activity Classifiers](http://arxiv.org/abs/2203.04713v1)**|~|~|
+|**2022-03-09**|**[Computing Continuous Dynamic Time Warping of Time Series in Polynomial Time](http://arxiv.org/abs/2203.04531v1)**|To appear in SoCG 2022|~|
+|**2022-03-09**|**[Estimating Phase from Observed Trajectories Using the Temporal 1-Form](http://arxiv.org/abs/2203.04498v1)**|~|~|
+|**2022-03-05**|**[KPF-AE-LSTM: A Deep Probabilistic Model for Net-Load Forecasting in High Solar Scenarios](http://arxiv.org/abs/2203.04401v1)**|presently under review at a IEEE PES journal|~|
+|**2022-03-08**|**[A Novel Deep Learning Model for Hotel Demand and Revenue Prediction amid COVID-19](http://arxiv.org/abs/2203.04383v1)**|55th Hawaii International Conference on System Sciences (HICSS) 2022|~|
+|**2022-03-08**|**[Change-point Detection and Segmentation of Discrete Data using Bayesian Context Trees](http://arxiv.org/abs/2203.04341v1)**|~|~|
+|**2022-03-08**|**[LSTMSPLIT: Effective SPLIT Learning based LSTM on Sequential Time-Series Data](http://arxiv.org/abs/2203.04305v1)**|~|~|
+|**2022-03-08**|**[CaSS: A Channel-aware Self-supervised Representation Learning Framework for Multivariate Time Series Classification](http://arxiv.org/abs/2203.04298v1)**|16 pages, 4 figures, DASFAA 2022|~|
 |**2022-03-08**|**[Analysis of a JWST NIRSpec Lab Time Series: Characterizing Systematics, Recovering Exoplanet Transit Spectroscopy, and Constraining a Noise Floor](http://arxiv.org/abs/2203.04173v1)**|~|~|
 |**2022-03-08**|**[On Robust Inference in Time Series Regression](http://arxiv.org/abs/2203.04080v1)**|~|~|
 |**2022-03-08**|**[Sparsification and Filtering for Spatial-temporal GNN in Multivariate Time-series](http://arxiv.org/abs/2203.03991v1)**|7 pages, 1 figure, 3tables|~|

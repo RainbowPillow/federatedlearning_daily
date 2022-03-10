@@ -8,6 +8,9 @@ layout: default
 
 | Date | Title | Comment | Code |
 |:-----|:------|:--------|:-----|
+|**2022-03-09**|**[Anomaly Detection for Unmanned Aerial Vehicle Sensor Data Using a Stacked Recurrent Autoencoder Method with Dynamic Thresholding](http://arxiv.org/abs/2203.04734v1)**|16 pages|~|
+|**2022-03-09**|**[Machine Learning in NextG Networks via Generative Adversarial Networks](http://arxiv.org/abs/2203.04453v1)**|47 pages, 7 figures, 12 tables|~|
+|**2022-03-08**|**[Diffusion Models for Medical Anomaly Detection](http://arxiv.org/abs/2203.04306v1)**|~|~|
 |**2022-03-08**|**[Generative Cooperative Learning for Unsupervised Video Anomaly Detection](http://arxiv.org/abs/2203.03962v1)**|Accepted to the Conference on Computer Vision and Pattern Recognition  CVPR 2022|~|
 |**2022-03-08**|**[Visual anomaly detection in video by variational autoencoder](http://arxiv.org/abs/2203.03872v1)**|~|~|
 |**2022-03-07**|**[Battery Cloud with Advanced Algorithms](http://arxiv.org/abs/2203.03737v1)**|~|~|

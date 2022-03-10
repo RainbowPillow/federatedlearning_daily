@@ -8,6 +8,11 @@ layout: default
 
 | Date | Title | Comment | Code |
 |:-----|:------|:--------|:-----|
+|**2022-03-09**|**[Efficient Image Representation Learning with Federated Sampled Softmax](http://arxiv.org/abs/2203.04888v1)**|15 pages, 10 figures, 4 tables and 1 algorithm|~|
+|**2022-03-09**|**[Federated Minimax Optimization: Improved Convergence Analyses and Algorithms](http://arxiv.org/abs/2203.04850v1)**|52 pages, 4 figures|~|
+|**2022-03-09**|**[Robust Federated Learning Against Adversarial Attacks for Speech Emotion Recognition](http://arxiv.org/abs/2203.04696v1)**|11 pages, 6 figures, 3 tables|~|
+|**2022-03-09**|**[Update Compression for Deep Neural Networks on the Edge](http://arxiv.org/abs/2203.04516v1)**|~|~|
+|**2022-03-08**|**[LSTMSPLIT: Effective SPLIT Learning based LSTM on Sequential Time-Series Data](http://arxiv.org/abs/2203.04305v1)**|~|~|
 |**2022-03-08**|**[Incentivizing Data Contribution in Cross-Silo Federated Learning](http://arxiv.org/abs/2203.03885v1)**|~|~|
 |**2022-03-07**|**[The Fundamental Price of Secure Aggregation in Differentially Private Federated Learning](http://arxiv.org/abs/2203.03761v1)**|~|~|
 |**2022-02-17**|**[When BERT Meets Quantum Temporal Convolution Learning for Text Classification in Heterogeneous Computing](http://arxiv.org/abs/2203.03550v1)**|Accepted to ICASSP 2022|~|
