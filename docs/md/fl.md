@@ -8,6 +8,9 @@ layout: default
 
 | Date | Title | Comment | Code |
 |:-----|:------|:--------|:-----|
+|**2022-03-10**|**[CoCo-FL: Communication- and Computation-Aware Federated Learning via Partial NN Freezing and Quantization](http://arxiv.org/abs/2203.05468v1)**|~|~|
+|**2022-03-10**|**[A Contribution-based Device Selection Scheme in Federated Learning](http://arxiv.org/abs/2203.05369v1)**|This work has been submitted to the IEEE for possible publication|~|
+|**2022-03-10**|**[A Systematic Literature Review on Blockchain Enabled Federated Learning Framework for Internet of Vehicles](http://arxiv.org/abs/2203.05192v1)**|~|~|
 |**2022-03-09**|**[Efficient Image Representation Learning with Federated Sampled Softmax](http://arxiv.org/abs/2203.04888v1)**|15 pages, 10 figures, 4 tables and 1 algorithm|~|
 |**2022-03-09**|**[Federated Minimax Optimization: Improved Convergence Analyses and Algorithms](http://arxiv.org/abs/2203.04850v1)**|52 pages, 4 figures|~|
 |**2022-03-09**|**[Robust Federated Learning Against Adversarial Attacks for Speech Emotion Recognition](http://arxiv.org/abs/2203.04696v1)**|11 pages, 6 figures, 3 tables|~|

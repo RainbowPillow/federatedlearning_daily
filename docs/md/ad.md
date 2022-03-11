@@ -8,6 +8,10 @@ layout: default
 
 | Date | Title | Comment | Code |
 |:-----|:------|:--------|:-----|
+|**2022-03-10**|**[An Empirical Investigation of 3D Anomaly Detection and Segmentation](http://arxiv.org/abs/2203.05550v1)**|~|~|
+|**2022-03-10**|**[A Review of Open Source Software Tools for Time Series Analysis](http://arxiv.org/abs/2203.05195v1)**|21 Pages, 2 Figures|~|
+|**2022-03-10**|**[TiSAT: Time Series Anomaly Transformer](http://arxiv.org/abs/2203.05167v1)**|~|~|
+|**2022-03-09**|**[Transfer Learning as an Essential Tool for Digital Twins in Renewable Energy Systems](http://arxiv.org/abs/2203.05026v1)**|Accepted at the Organic Computing Doctoral Dissertation Colloquium  (OC-DDC) 2021 Workshop|~|
 |**2022-03-09**|**[Anomaly Detection for Unmanned Aerial Vehicle Sensor Data Using a Stacked Recurrent Autoencoder Method with Dynamic Thresholding](http://arxiv.org/abs/2203.04734v1)**|16 pages|~|
 |**2022-03-09**|**[Machine Learning in NextG Networks via Generative Adversarial Networks](http://arxiv.org/abs/2203.04453v1)**|47 pages, 7 figures, 12 tables|~|
 |**2022-03-08**|**[Diffusion Models for Medical Anomaly Detection](http://arxiv.org/abs/2203.04306v1)**|~|~|

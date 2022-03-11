@@ -4,6 +4,15 @@
 
 |Date|Title|Comment|Code|
 |----|-----|-------|----|
+|**2022-03-10**|**[Controlling the flexibility of non-Gaussian processes through shrinkage priors](http://arxiv.org/abs/2203.05510v1)**|37 pages, 15 figures|~|
+|**2022-03-10**|**[A Note on A Priori Forecasting and Simplicity Bias in Time Series](http://arxiv.org/abs/2203.05391v1)**|~|~|
+|**2022-03-10**|**[Forecasting the abnormal events at well drilling with machine learning](http://arxiv.org/abs/2203.05378v1)**|Appl Intell (2022)|~|
+|**2022-03-10**|**[Data-Folding and Hyperspace Coding for Multi-Dimensonal Time-Series Data Imaging](http://arxiv.org/abs/2203.05235v1)**|~|~|
+|**2022-03-10**|**[Sensitivity kernels for transmission fiber optics](http://arxiv.org/abs/2203.05229v1)**|5 pages, 4 figures|~|
+|**2022-03-10**|**[A Review of Open Source Software Tools for Time Series Analysis](http://arxiv.org/abs/2203.05195v1)**|21 Pages, 2 Figures|~|
+|**2022-03-10**|**[TiSAT: Time Series Anomaly Transformer](http://arxiv.org/abs/2203.05167v1)**|~|~|
+|**2022-03-05**|**[Application of neural-network hybrid models in estimating the infection functions of nonlinear epidemic models](http://arxiv.org/abs/2203.05018v1)**|~|~|
+|**2022-03-09**|**[Computational methods for adapted optimal transport](http://arxiv.org/abs/2203.05005v1)**|~|~|
 |**2022-03-09**|**[A continuous multiple hypothesis testing framework for optimal exoplanet detection](http://arxiv.org/abs/2203.04957v1)**|Submitted to Annals of Applied Statistics|~|
 |**2022-03-09**|**[Autoregressive models for time series of random sums of positive variables: application to tree growth as a function of climate and insect outbreaks](http://arxiv.org/abs/2203.04926v1)**|~|~|
 |**2022-03-09**|**[Monitoring Time Series With Missing Values: a Deep Probabilistic Approach](http://arxiv.org/abs/2203.04916v1)**|~|~|
