@@ -24,7 +24,7 @@ layout: default
 |**2021-10-18**|**[Artificial Neural Network and Its Application Research Progress in Chemical Process](http://arxiv.org/abs/2110.09021v1)**|~|~|
 |**2021-10-17**|**[On-board Fault Diagnosis of a Laboratory Mini SR-30 Gas Turbine Engine](http://arxiv.org/abs/2110.08820v2)**|~|~|
 |**2021-10-07**|**[Acoustic Signal based Non-Contact Ball Bearing Fault Diagnosis Using Adaptive Wavelet Denoising](http://arxiv.org/abs/2110.03348v1)**|Submitted to ICASSP 2022|~|
-|**2021-10-06**|**[Adversarial Attacks on Machinery Fault Diagnosis](http://arxiv.org/abs/2110.02498v1)**|5 pages, 5 figures. Submitted to ICASSP 2022|~|
+|**2021-10-06**|**[Adversarial Attacks on Machinery Fault Diagnosis](http://arxiv.org/abs/2110.02498v2)**|5 pages, 5 figures. Submitted to Interspeech 2022|~|
 |**2021-10-05**|**[An Efficient Anomaly Detection Approach using Cube Sampling with Streaming Data](http://arxiv.org/abs/2110.01813v1)**|8 pages, 2 figures|~|
 |**2021-09-30**|**[Early Bearing Fault Diagnosis of Rotating Machinery by 1D Self-Organized Operational Neural Networks](http://arxiv.org/abs/2109.14873v1)**|~|~|
 |**2021-09-28**|**[A multi-stage semi-supervised improved deep embedded clustering method for bearing fault diagnosis under the situation of insufficient labeled samples](http://arxiv.org/abs/2109.13521v2)**|24 pages, 15 figures and 59 references|~|
