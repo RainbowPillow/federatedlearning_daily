@@ -15,7 +15,7 @@ layout: default
 |**2022-03-10**|**[Sensitivity kernels for transmission fiber optics](http://arxiv.org/abs/2203.05229v1)**|5 pages, 4 figures|~|
 |**2022-03-10**|**[A Review of Open Source Software Tools for Time Series Analysis](http://arxiv.org/abs/2203.05195v1)**|21 Pages, 2 Figures|~|
 |**2022-03-10**|**[TiSAT: Time Series Anomaly Transformer](http://arxiv.org/abs/2203.05167v1)**|~|~|
-|**2022-03-05**|**[Application of neural-network hybrid models in estimating the infection functions of nonlinear epidemic models](http://arxiv.org/abs/2203.05018v1)**|~|~|
+|**2022-03-05**|**[Application of neural-network hybrid models in estimating the infection functions of nonlinear epidemic models](http://arxiv.org/abs/2203.05018v1)**|~|[code](https://github.com/chentongli/inf_estimation_pytorch)|
 |**2022-03-09**|**[Computational methods for adapted optimal transport](http://arxiv.org/abs/2203.05005v1)**|~|~|
 |**2022-03-09**|**[A continuous multiple hypothesis testing framework for optimal exoplanet detection](http://arxiv.org/abs/2203.04957v1)**|Submitted to Annals of Applied Statistics|~|
 |**2022-03-09**|**[Autoregressive models for time series of random sums of positive variables: application to tree growth as a function of climate and insect outbreaks](http://arxiv.org/abs/2203.04926v1)**|~|~|
