@@ -4,6 +4,7 @@
 
 |Date|Title|Comment|Code|
 |----|-----|-------|----|
+|**2022-03-11**|**[Multiple Inputs Neural Networks for Medicare fraud Detection](http://arxiv.org/abs/2203.05842v1)**|~|~|
 |**2022-03-10**|**[An Empirical Investigation of 3D Anomaly Detection and Segmentation](http://arxiv.org/abs/2203.05550v1)**|~|~|
 |**2022-03-10**|**[A Review of Open Source Software Tools for Time Series Analysis](http://arxiv.org/abs/2203.05195v1)**|21 Pages, 2 Figures|~|
 |**2022-03-10**|**[TiSAT: Time Series Anomaly Transformer](http://arxiv.org/abs/2203.05167v1)**|~|~|
