@@ -8,6 +8,12 @@ layout: default
 
 | Date | Title | Comment | Code |
 |:-----|:------|:--------|:-----|
+|**2022-03-14**|**[Federated Cycling (FedCy): Semi-supervised Federated Learning of Surgical Phases](http://arxiv.org/abs/2203.07345v1)**|11 pages, 4 figures|~|
+|**2022-03-14**|**[The Right to be Forgotten in Federated Learning: An Efficient Realization with Rapid Retraining](http://arxiv.org/abs/2203.07320v1)**|INFOCOM 2022|~|
+|**2022-03-14**|**[Privatized Graph Federated Learning](http://arxiv.org/abs/2203.07105v1)**|~|~|
+|**2022-03-14**|**[Communication-Efficient Federated Distillation with Active Data Sampling](http://arxiv.org/abs/2203.06900v1)**|6 pages, 4 figures, To be appeared in IEEE ICC 2022|~|
+|**2022-03-13**|**[Private Non-Convex Federated Learning Without a Trusted Server](http://arxiv.org/abs/2203.06735v1)**|~|~|
+|**2022-03-12**|**[Auto-FedRL: Federated Hyperparameter Optimization for Multi-institutional Medical Image Segmentation](http://arxiv.org/abs/2203.06338v1)**|~|~|
 |**2022-03-11**|**[Wireless Quantized Federated Learning: A Joint Computation and Communication Design](http://arxiv.org/abs/2203.05878v1)**|~|~|
 |**2022-03-11**|**[No free lunch theorem for security and utility in federated learning](http://arxiv.org/abs/2203.05816v1)**|~|~|
 |**2022-03-11**|**[Federated Remote Physiological Measurement with Imperfect Data](http://arxiv.org/abs/2203.05759v1)**|~|~|

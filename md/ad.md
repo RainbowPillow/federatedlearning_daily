@@ -4,6 +4,8 @@
 
 |Date|Title|Comment|Code|
 |----|-----|-------|----|
+|**2022-03-13**|**[Feature space reduction as data preprocessing for the anomaly detection](http://arxiv.org/abs/2203.06747v1)**|27th Conference STUDENT EEICT 2020, Brno University of Technology|~|
+|**2022-03-12**|**[LesionPaste: One-Shot Anomaly Detection for Medical Images](http://arxiv.org/abs/2203.06354v1)**|~|~|
 |**2022-03-11**|**[Multiple Inputs Neural Networks for Medicare fraud Detection](http://arxiv.org/abs/2203.05842v1)**|~|~|
 |**2022-03-10**|**[An Empirical Investigation of 3D Anomaly Detection and Segmentation](http://arxiv.org/abs/2203.05550v2)**|Project page: https://www.vision.huji.ac.il/3d_ads/|~|
 |**2022-03-10**|**[A Review of Open Source Software Tools for Time Series Analysis](http://arxiv.org/abs/2203.05195v1)**|21 Pages, 2 Figures|~|

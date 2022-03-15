@@ -8,6 +8,11 @@ layout: default
 
 | Date | Title | Comment | Code |
 |:-----|:------|:--------|:-----|
+|**2022-03-14**|**[Topological EEG Nonlinear Dynamics Analysis for Emotion Recognition](http://arxiv.org/abs/2203.06895v1)**|~|~|
+|**2022-03-14**|**[Continual Learning for Multivariate Time Series Tasks with Variable Input Dimensions](http://arxiv.org/abs/2203.06852v1)**|Accepted at ICDM 2021|~|
+|**2022-03-13**|**[Complex-Valued Time Series Based Prediction: Case of Solar Irradiance Probabilistic Prediction](http://arxiv.org/abs/2203.06701v1)**|Letter Format, 9 Pages, 3 Tables and 5 Figures|~|
+|**2022-03-12**|**[Wasserstein Adversarial Transformer for Cloud Workload Prediction](http://arxiv.org/abs/2203.06501v1)**|The Thirty-Fourth Annual Conference on Innovative Applications of  Artificial Intelligence (IAAI-22) (presented at AAAI-2022)|[code](https://github.com/shivaniarbat/wgan-gp-transformer)|
+|**2022-03-11**|**[Parameter Inference of Time Series by Delay Embeddings and Learning Differentiable Operators](http://arxiv.org/abs/2203.06269v1)**|~|~|
 |**2022-03-11**|**[Identifying Causal Effects using Instrumental Time Series: Nuisance IV and Correcting for the Past](http://arxiv.org/abs/2203.06056v1)**|~|[code](https://github.com/nikolajthams/its-time)|
 |**2022-03-11**|**[Real-time Cosmology with High Precision Spectroscopy and Astrometry](http://arxiv.org/abs/2203.05924v1)**|Snowmass2021 White Paper, 15 pages, 2 figures|~|
 |**2022-03-11**|**[Dual reparametrized Variational Generative Model for Time-Series Forecasting](http://arxiv.org/abs/2203.05766v1)**|~|~|
