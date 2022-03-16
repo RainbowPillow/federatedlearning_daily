@@ -8,6 +8,14 @@ layout: default
 
 | Date | Title | Comment | Code |
 |:-----|:------|:--------|:-----|
+|**2022-03-14**|**[Don't Get Me Wrong: How to apply Deep Visual Interpretations to Time Series](http://arxiv.org/abs/2203.07861v1)**|32 pages, 13 figues|~|
+|**2022-03-15**|**[What is the best RNN-cell structure for forecasting each time series behavior?](http://arxiv.org/abs/2203.07844v1)**|~|~|
+|**2022-03-15**|**[DEPTS: Deep Expansion Learning for Periodic Time Series Forecasting](http://arxiv.org/abs/2203.07681v1)**|ICLR22 Spotlight|~|
+|**2022-03-15**|**[Joint Time-Vertex Fractional Fourier Transform](http://arxiv.org/abs/2203.07655v1)**|12 pages, 6 figures|~|
+|**2022-03-15**|**[Time-series image denoising of pressure-sensitive paint data by projected multivariate singular spectrum analysis](http://arxiv.org/abs/2203.07574v1)**|15 pages, 12 figures|~|
+|**2022-03-14**|**[Fluctuation Spectroscopy of Two-Level Systems in Superconducting Resonators](http://arxiv.org/abs/2203.07445v1)**|20 two-column pages (including App. and Supplement), 12 figures, 3  tables|~|
+|**2022-03-14**|**[New LZ and PW(Z) relations of RR Lyrae stars calibrated with Gaia EDR3 parallaxes](http://arxiv.org/abs/2203.07435v1)**|22 pages, 14 figures, accepted for publication in MNRAS|~|
+|**2022-03-14**|**[What to learn from few visible transitions' statistics?](http://arxiv.org/abs/2203.07427v1)**|~|~|
 |**2022-03-14**|**[Topological EEG Nonlinear Dynamics Analysis for Emotion Recognition](http://arxiv.org/abs/2203.06895v1)**|~|~|
 |**2022-03-14**|**[Continual Learning for Multivariate Time Series Tasks with Variable Input Dimensions](http://arxiv.org/abs/2203.06852v1)**|Accepted at ICDM 2021|~|
 |**2022-03-13**|**[Complex-Valued Time Series Based Prediction: Case of Solar Irradiance Probabilistic Prediction](http://arxiv.org/abs/2203.06701v1)**|Letter Format, 9 Pages, 3 Tables and 5 Figures|~|

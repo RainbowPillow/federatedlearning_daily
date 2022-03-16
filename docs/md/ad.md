@@ -8,6 +8,8 @@ layout: default
 
 | Date | Title | Comment | Code |
 |:-----|:------|:--------|:-----|
+|**2022-03-15**|**[Practical data monitoring in the internet-services domain](http://arxiv.org/abs/2203.08067v1)**|~|~|
+|**2022-03-15**|**[A Framework for Verifiable and Auditable Federated Anomaly Detection](http://arxiv.org/abs/2203.07802v1)**|~|~|
 |**2022-03-13**|**[Feature space reduction as data preprocessing for the anomaly detection](http://arxiv.org/abs/2203.06747v1)**|27th Conference STUDENT EEICT 2020, Brno University of Technology|~|
 |**2022-03-12**|**[LesionPaste: One-Shot Anomaly Detection for Medical Images](http://arxiv.org/abs/2203.06354v1)**|~|~|
 |**2022-03-11**|**[Multiple Inputs Neural Networks for Medicare fraud Detection](http://arxiv.org/abs/2203.05842v1)**|~|~|

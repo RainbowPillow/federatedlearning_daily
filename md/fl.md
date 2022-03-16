@@ -4,6 +4,7 @@
 
 |Date|Title|Comment|Code|
 |----|-----|-------|----|
+|**2022-03-15**|**[Privacy-Aware Compression for Federated Data Analysis](http://arxiv.org/abs/2203.08134v1)**|~|~|
 |**2022-03-14**|**[Federated Cycling (FedCy): Semi-supervised Federated Learning of Surgical Phases](http://arxiv.org/abs/2203.07345v1)**|11 pages, 4 figures|~|
 |**2022-03-14**|**[The Right to be Forgotten in Federated Learning: An Efficient Realization with Rapid Retraining](http://arxiv.org/abs/2203.07320v1)**|INFOCOM 2022|~|
 |**2022-03-14**|**[Privatized Graph Federated Learning](http://arxiv.org/abs/2203.07105v1)**|~|~|
