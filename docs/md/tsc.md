@@ -38,7 +38,7 @@ layout: default
 |**2022-03-09**|**[Monitoring Time Series With Missing Values: a Deep Probabilistic Approach](http://arxiv.org/abs/2203.04916v1)**|~|~|
 |**2022-03-09**|**[Geometric Optimisation on Manifolds with Applications to Deep Learning](http://arxiv.org/abs/2203.04794v1)**|DPhil Thesis. 154 pages|~|
 |**2022-03-09**|**[Defending Black-box Skeleton-based Human Activity Classifiers](http://arxiv.org/abs/2203.04713v1)**|~|~|
-|**2022-03-09**|**[Computing Continuous Dynamic Time Warping of Time Series in Polynomial Time](http://arxiv.org/abs/2203.04531v1)**|To appear in SoCG 2022|~|
+|**2022-03-09**|**[Computing Continuous Dynamic Time Warping of Time Series in Polynomial Time](http://arxiv.org/abs/2203.04531v2)**|To appear in SoCG 2022|~|
 |**2022-03-09**|**[Estimating Phase from Observed Trajectories Using the Temporal 1-Form](http://arxiv.org/abs/2203.04498v1)**|~|~|
 |**2022-03-05**|**[KPF-AE-LSTM: A Deep Probabilistic Model for Net-Load Forecasting in High Solar Scenarios](http://arxiv.org/abs/2203.04401v1)**|presently under review at a IEEE PES journal|~|
 |**2022-03-08**|**[A Novel Deep Learning Model for Hotel Demand and Revenue Prediction amid COVID-19](http://arxiv.org/abs/2203.04383v1)**|55th Hawaii International Conference on System Sciences (HICSS) 2022|[code](https://github.com/ashfarhangi/covid-19)|
