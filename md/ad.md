@@ -4,6 +4,9 @@
 
 |Date|Title|Comment|Code|
 |----|-----|-------|----|
+|**2022-03-16**|**[CLUE-AI: A Convolutional Three-stream Anomaly Identification Framework for Robot Manipulation](http://arxiv.org/abs/2203.08746v1)**|22 pages, 10 figures, under review|~|
+|**2022-03-15**|**[Sensitivity Estimation for Dark Matter Subhalos in Synthetic Gaia DR2 using Deep Learning](http://arxiv.org/abs/2203.08161v1)**|17 pages, 8 figures, 1 table. Comments are welcome!|~|
+|**2022-03-11**|**[DeepTrust: A Reliable Financial Knowledge Retrieval Framework For Explaining Extreme Pricing Anomalies](http://arxiv.org/abs/2203.08144v1)**|72 pages|~|
 |**2022-03-15**|**[Practical data monitoring in the internet-services domain](http://arxiv.org/abs/2203.08067v1)**|~|[code](https://github.com/nikhilgalagali/adservice)|
 |**2022-03-15**|**[A Framework for Verifiable and Auditable Federated Anomaly Detection](http://arxiv.org/abs/2203.07802v1)**|~|~|
 |**2022-03-13**|**[Feature space reduction as data preprocessing for the anomaly detection](http://arxiv.org/abs/2203.06747v1)**|27th Conference STUDENT EEICT 2020, Brno University of Technology|~|
