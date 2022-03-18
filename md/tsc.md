@@ -4,6 +4,16 @@
 
 |Date|Title|Comment|Code|
 |----|-----|-------|----|
+|**2022-03-17**|**[The SATCHEL pipeline: A general tool for data classified through citizen science](http://arxiv.org/abs/2203.09458v1)**|20 pages, 23 figures. Accepted for publication in MNRAS|~|
+|**2022-03-17**|**[A probabilistic method for detecting solar-like oscillations using meaningful prior information](http://arxiv.org/abs/2203.09404v1)**|Accepted for publication in A&A. 13 pages, 9 figures|~|
+|**2022-03-17**|**[Euler State Networks](http://arxiv.org/abs/2203.09382v1)**|paper submitted to journal|~|
+|**2022-03-17**|**[Ranking of Communities in Multiplex Spatiotemporal Models of Brain Dynamics](http://arxiv.org/abs/2203.09281v1)**|Part of the Special Issue on Community Structure in Networks 2021 (35  Pages, first 22 for main text)|~|
+|**2022-03-17**|**[Transfer learning for cross-modal demand prediction of bike-share and public transit](http://arxiv.org/abs/2203.09279v1)**|27 pages, 4 figures|~|
+|**2022-03-17**|**[Mixing Up Contrastive Learning: Self-Supervised Representation Learning for Time Series](http://arxiv.org/abs/2203.09270v1)**|Published in Journal of Pattern Recognition Letters:  https://www.sciencedirect.com/science/article/pii/S0167865522000502 Code  available at: https://github.com/Wickstrom/MixupContrastiveLearning|~|
+|**2022-03-17**|**[Generalized Classification of Satellite Image Time Series with Thermal Positional Encoding](http://arxiv.org/abs/2203.09175v1)**|In review|~|
+|**2022-03-17**|**[Recurrent Neural Networks for Forecasting Time Series with Multiple Seasonality: A Comparative Study](http://arxiv.org/abs/2203.09170v1)**|~|~|
+|**2022-03-17**|**[A Simple Non-Stationary Mean Ergodic Theorem, with Bonus Weak Law of Large Numbers](http://arxiv.org/abs/2203.09085v1)**|~|~|
+|**2022-03-16**|**[Instability from high-order resonant chains in wide-separation massive planet systems](http://arxiv.org/abs/2203.08870v1)**|9 pages, 9 figures, Accepted to MNRAS|~|
 |**2022-03-16**|**[Time series analysis and modelling of the freezing of gait phenomenon](http://arxiv.org/abs/2203.08724v1)**|submitted, 25 pages, 20 figures|~|
 |**2022-03-16**|**[Adverse effects of vaccinations against the Corona-virus SARS-CoV-2: insights and hindsights from a statistical perspective](http://arxiv.org/abs/2203.08419v1)**|28 pages|~|
 |**2022-03-15**|**[ADATIME: A Benchmarking Suite for Domain Adaptation on Time Series Data](http://arxiv.org/abs/2203.08321v1)**|Under Review. The main paper is 16 pages, and the supplementary is 9  pages|[code](https://github.com/emadeldeen24/adatime)|
@@ -22,7 +32,7 @@
 |**2022-03-11**|**[Parameter Inference of Time Series by Delay Embeddings and Learning Differentiable Operators](http://arxiv.org/abs/2203.06269v1)**|~|~|
 |**2022-03-11**|**[Identifying Causal Effects using Instrumental Time Series: Nuisance IV and Correcting for the Past](http://arxiv.org/abs/2203.06056v1)**|~|[code](https://github.com/nikolajthams/its-time)|
 |**2022-03-11**|**[Real-time Cosmology with High Precision Spectroscopy and Astrometry](http://arxiv.org/abs/2203.05924v1)**|Snowmass2021 White Paper, 15 pages, 2 figures|~|
-|**2022-03-11**|**[Dual reparametrized Variational Generative Model for Time-Series Forecasting](http://arxiv.org/abs/2203.05766v1)**|~|~|
+|**2022-03-11**|**[Dual reparametrized Variational Generative Model for Time-Series Forecasting](http://arxiv.org/abs/2203.05766v1)**|~|[code](https://github.com/Ziang-Chen/DualVDT)|
 |**2022-03-10**|**[Controlling the flexibility of non-Gaussian processes through shrinkage priors](http://arxiv.org/abs/2203.05510v1)**|37 pages, 15 figures|~|
 |**2022-03-10**|**[A Note on A Priori Forecasting and Simplicity Bias in Time Series](http://arxiv.org/abs/2203.05391v1)**|~|~|
 |**2022-03-10**|**[Forecasting the abnormal events at well drilling with machine learning](http://arxiv.org/abs/2203.05378v1)**|Appl Intell (2022)|~|

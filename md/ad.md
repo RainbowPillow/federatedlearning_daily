@@ -4,6 +4,10 @@
 
 |Date|Title|Comment|Code|
 |----|-----|-------|----|
+|**2022-03-17**|**[CURTAINs for your Sliding Window: Constructing Unobserved Regions by Transforming Adjacent Intervals](http://arxiv.org/abs/2203.09470v1)**|21 pages, 11 figures, 1 table|~|
+|**2022-03-17**|**[Context-Dependent Anomaly Detection with Knowledge Graph Embedding Models](http://arxiv.org/abs/2203.09354v1)**|~|~|
+|**2022-03-17**|**[PiDAn: A Coherence Optimization Approach for Backdoor Attack Detection and Mitigation in Deep Neural Networks](http://arxiv.org/abs/2203.09289v1)**|~|~|
+|**2022-03-16**|**[Deep learning applications for quality control in particle detector construction](http://arxiv.org/abs/2203.08969v1)**|~|~|
 |**2022-03-16**|**[CLUE-AI: A Convolutional Three-stream Anomaly Identification Framework for Robot Manipulation](http://arxiv.org/abs/2203.08746v1)**|22 pages, 10 figures, under review|~|
 |**2022-03-15**|**[Sensitivity Estimation for Dark Matter Subhalos in Synthetic Gaia DR2 using Deep Learning](http://arxiv.org/abs/2203.08161v1)**|17 pages, 8 figures, 1 table. Comments are welcome!|~|
 |**2022-03-11**|**[DeepTrust: A Reliable Financial Knowledge Retrieval Framework For Explaining Extreme Pricing Anomalies](http://arxiv.org/abs/2203.08144v1)**|72 pages|~|
