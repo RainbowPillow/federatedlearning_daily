@@ -58,7 +58,7 @@ layout: default
 |**2022-02-23**|**[Deep Graph Learning for Anomalous Citation Detection](http://arxiv.org/abs/2202.11360v1)**|~|~|
 |**2022-02-22**|**[Missing large-angle correlations versus even-odd point-parity imbalance in the cosmic microwave background](http://arxiv.org/abs/2202.10987v1)**|10 pages, 8 figures|~|
 |**2022-02-19**|**[A Novel Anomaly Detection Method for Multimodal WSN Data Flow via a Dynamic Graph Neural Network](http://arxiv.org/abs/2202.10454v1)**|~|~|
-|**2022-02-21**|**[Composite Anomaly Detection via Hierarchical Dynamic Search](http://arxiv.org/abs/2202.10418v3)**|~|~|
+|**2022-02-21**|**[Composite Anomaly Detection via Hierarchical Dynamic Search](http://arxiv.org/abs/2202.10418v4)**|~|~|
 |**2022-02-21**|**[ALGAN: Anomaly Detection by Generating Pseudo Anomalous Data via Latent Variables](http://arxiv.org/abs/2202.10281v1)**|11pages, 7 figures, 7 tables, preprint|~|
 |**2022-02-21**|**[ICSML: Industrial Control Systems Machine Learning inference framework natively executing on IEC 61131-3 languages](http://arxiv.org/abs/2202.10075v1)**|16 pages, 11 figures, code available at  https://github.com/momalab/ICSML|[code](https://github.com/momalab/icsml)|
 |**2022-02-21**|**[Recurrent Auto-Encoder With Multi-Resolution Ensemble and Predictive Coding for Multivariate Time-Series Anomaly Detection](http://arxiv.org/abs/2202.10001v1)**|~|~|
