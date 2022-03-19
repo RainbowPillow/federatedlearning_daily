@@ -10,10 +10,10 @@ layout: default
 |:-----|:------|:--------|:-----|
 |**2022-03-17**|**[The SATCHEL pipeline: A general tool for data classified through citizen science](http://arxiv.org/abs/2203.09458v1)**|20 pages, 23 figures. Accepted for publication in MNRAS|~|
 |**2022-03-17**|**[A probabilistic method for detecting solar-like oscillations using meaningful prior information](http://arxiv.org/abs/2203.09404v1)**|Accepted for publication in A&A. 13 pages, 9 figures|~|
-|**2022-03-17**|**[Euler State Networks](http://arxiv.org/abs/2203.09382v1)**|paper submitted to journal|~|
+|**2022-03-17**|**[Euler State Networks](http://arxiv.org/abs/2203.09382v1)**|paper submitted to journal|[code](https://github.com/gallicch/eulerstatenetworks)|
 |**2022-03-17**|**[Ranking of Communities in Multiplex Spatiotemporal Models of Brain Dynamics](http://arxiv.org/abs/2203.09281v1)**|Part of the Special Issue on Community Structure in Networks 2021 (35  Pages, first 22 for main text)|~|
 |**2022-03-17**|**[Transfer learning for cross-modal demand prediction of bike-share and public transit](http://arxiv.org/abs/2203.09279v1)**|27 pages, 4 figures|~|
-|**2022-03-17**|**[Mixing Up Contrastive Learning: Self-Supervised Representation Learning for Time Series](http://arxiv.org/abs/2203.09270v1)**|Published in Journal of Pattern Recognition Letters:  https://www.sciencedirect.com/science/article/pii/S0167865522000502 Code  available at: https://github.com/Wickstrom/MixupContrastiveLearning|~|
+|**2022-03-17**|**[Mixing Up Contrastive Learning: Self-Supervised Representation Learning for Time Series](http://arxiv.org/abs/2203.09270v1)**|Published in Journal of Pattern Recognition Letters:  https://www.sciencedirect.com/science/article/pii/S0167865522000502 Code  available at: https://github.com/Wickstrom/MixupContrastiveLearning|[code](https://github.com/wickstrom/mixupcontrastivelearning)|
 |**2022-03-17**|**[Generalized Classification of Satellite Image Time Series with Thermal Positional Encoding](http://arxiv.org/abs/2203.09175v1)**|In review|~|
 |**2022-03-17**|**[Recurrent Neural Networks for Forecasting Time Series with Multiple Seasonality: A Comparative Study](http://arxiv.org/abs/2203.09170v1)**|~|~|
 |**2022-03-17**|**[A Simple Non-Stationary Mean Ergodic Theorem, with Bonus Weak Law of Large Numbers](http://arxiv.org/abs/2203.09085v1)**|~|~|
