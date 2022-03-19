@@ -8,7 +8,7 @@ layout: default
 
 | Date | Title | Comment | Code |
 |:-----|:------|:--------|:-----|
-|**2022-03-17**|**[The SATCHEL pipeline: A general tool for data classified through citizen science](http://arxiv.org/abs/2203.09458v1)**|20 pages, 23 figures. Accepted for publication in MNRAS|~|
+|**2022-03-17**|**[The SATCHEL pipeline: A general tool for data classified through citizen science](http://arxiv.org/abs/2203.09458v1)**|20 pages, 23 figures. Accepted for publication in MNRAS|[code](https://github.com/ejsafron/ph-pipeline)|
 |**2022-03-17**|**[A probabilistic method for detecting solar-like oscillations using meaningful prior information](http://arxiv.org/abs/2203.09404v1)**|Accepted for publication in A&A. 13 pages, 9 figures|~|
 |**2022-03-17**|**[Euler State Networks](http://arxiv.org/abs/2203.09382v1)**|paper submitted to journal|[code](https://github.com/gallicch/eulerstatenetworks)|
 |**2022-03-17**|**[Ranking of Communities in Multiplex Spatiotemporal Models of Brain Dynamics](http://arxiv.org/abs/2203.09281v1)**|Part of the Special Issue on Community Structure in Networks 2021 (35  Pages, first 22 for main text)|~|
