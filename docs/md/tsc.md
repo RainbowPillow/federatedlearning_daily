@@ -11,7 +11,7 @@ layout: default
 |**2022-03-18**|**[Turbulence Hierarchy and Multifractality in the Integer Quantum Hall Transition](http://arxiv.org/abs/2203.10082v1)**|~|~|
 |**2022-03-18**|**[WOODS: Benchmarks for Out-of-Distribution Generalization in Time Series Tasks](http://arxiv.org/abs/2203.09978v1)**|43 pages, 20 figures|[code](https://github.com/jc-audet/WOODS)|
 |**2022-03-18**|**[Soft Smoothness for Audio Inpainting Using a Latent Matrix Model in Delay-embedded Space](http://arxiv.org/abs/2203.09746v1)**|~|~|
-|**2022-03-18**|**[Multi-Modal Causal Inference with Deep Structural Equation Models](http://arxiv.org/abs/2203.09672v1)**|~|~|
+|**2022-03-18**|**[Multi-Modal Causal Inference with Deep Structural Equation Models](http://arxiv.org/abs/2203.09672v2)**|~|~|
 |**2022-03-17**|**[Extremal Event Graphs: A (Stable) Tool for Analyzing Noisy Time Series Data](http://arxiv.org/abs/2203.09552v1)**|63 pages, 16 figures|~|
 |**2022-03-17**|**[LSST Cadence Strategy Evaluations for AGN Time-series Data in Wide-Fast-Deep Field](http://arxiv.org/abs/2203.09540v1)**|accepted by MNRAS|~|
 |**2022-03-17**|**[The SATCHEL pipeline: A general tool for data classified through citizen science](http://arxiv.org/abs/2203.09458v1)**|20 pages, 23 figures. Accepted for publication in MNRAS|[code](https://github.com/ejsafron/ph-pipeline)|
