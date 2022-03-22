@@ -4,6 +4,14 @@
 
 |Date|Title|Comment|Code|
 |----|-----|-------|----|
+|**2022-03-21**|**[FGAN: Federated Generative Adversarial Networks for Anomaly Detection in Network Traffic](http://arxiv.org/abs/2203.11106v1)**|8 pages, 2 figures|~|
+|**2022-03-21**|**[Diverse Counterfactual Explanations for Anomaly Detection in Time Series](http://arxiv.org/abs/2203.11103v1)**|24 pages, 11 figures|~|
+|**2022-03-07**|**[Deep Learning Serves Traffic Safety Analysis: A Forward-looking Review](http://arxiv.org/abs/2203.10939v1)**|~|~|
+|**2022-03-21**|**[AnoViT: Unsupervised Anomaly Detection and Localization with Vision Transformer-based Encoder-Decoder](http://arxiv.org/abs/2203.10808v1)**|~|~|
+|**2022-03-21**|**[ASE: Anomaly Scoring Based Ensemble Learning for Imbalanced Datasets](http://arxiv.org/abs/2203.10769v1)**|~|~|
+|**2022-03-20**|**[Subspace Modeling for Fast Out-Of-Distribution and Anomaly Detection](http://arxiv.org/abs/2203.10422v1)**|~|~|
+|**2022-03-19**|**[Anomaly Detection in Emails using Machine Learning and Header Information](http://arxiv.org/abs/2203.10408v1)**|~|~|
+|**2022-03-19**|**[No Shifted Augmentations (NSA): compact distributions for robust self-supervised Anomaly Detection](http://arxiv.org/abs/2203.10344v1)**|~|~|
 |**2022-03-18**|**[Nonnegative-Constrained Joint Collaborative Representation with Union Dictionary for Hyperspectral Anomaly Detection](http://arxiv.org/abs/2203.10030v1)**|~|~|
 |**2022-03-17**|**[The Analysis of Online Event Streams: Predicting the Next Activity for Anomaly Detection](http://arxiv.org/abs/2203.09619v1)**|16 pages, 8 figures, Proceedings of the 16th International Conference  on Research Challenges in Information Science (RCIS 2022)|[code](https://github.com/ghksdl6025/streaming_anomaly_detect)|
 |**2022-03-17**|**[CURTAINs for your Sliding Window: Constructing Unobserved Regions by Transforming Adjacent Intervals](http://arxiv.org/abs/2203.09470v1)**|21 pages, 11 figures, 1 table|~|
