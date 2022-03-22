@@ -22,7 +22,7 @@
 |**2022-03-13**|**[Private Non-Convex Federated Learning Without a Trusted Server](http://arxiv.org/abs/2203.06735v1)**|~|~|
 |**2022-03-12**|**[Auto-FedRL: Federated Hyperparameter Optimization for Multi-institutional Medical Image Segmentation](http://arxiv.org/abs/2203.06338v1)**|~|~|
 |**2022-03-11**|**[Wireless Quantized Federated Learning: A Joint Computation and Communication Design](http://arxiv.org/abs/2203.05878v1)**|~|~|
-|**2022-03-11**|**[No free lunch theorem for security and utility in federated learning](http://arxiv.org/abs/2203.05816v1)**|~|~|
+|**2022-03-11**|**[No Free Lunch Theorem for Security and Utility in Federated Learning](http://arxiv.org/abs/2203.05816v2)**|~|~|
 |**2022-03-11**|**[Federated Remote Physiological Measurement with Imperfect Data](http://arxiv.org/abs/2203.05759v1)**|~|~|
 |**2022-03-10**|**[CoCo-FL: Communication- and Computation-Aware Federated Learning via Partial NN Freezing and Quantization](http://arxiv.org/abs/2203.05468v1)**|~|~|
 |**2022-03-10**|**[A Contribution-based Device Selection Scheme in Federated Learning](http://arxiv.org/abs/2203.05369v1)**|This work has been submitted to the IEEE for possible publication|~|

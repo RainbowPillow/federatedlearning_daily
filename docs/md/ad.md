@@ -11,7 +11,7 @@ layout: default
 |**2022-03-18**|**[Nonnegative-Constrained Joint Collaborative Representation with Union Dictionary for Hyperspectral Anomaly Detection](http://arxiv.org/abs/2203.10030v1)**|~|~|
 |**2022-03-17**|**[The Analysis of Online Event Streams: Predicting the Next Activity for Anomaly Detection](http://arxiv.org/abs/2203.09619v1)**|16 pages, 8 figures, Proceedings of the 16th International Conference  on Research Challenges in Information Science (RCIS 2022)|[code](https://github.com/ghksdl6025/streaming_anomaly_detect)|
 |**2022-03-17**|**[CURTAINs for your Sliding Window: Constructing Unobserved Regions by Transforming Adjacent Intervals](http://arxiv.org/abs/2203.09470v1)**|21 pages, 11 figures, 1 table|~|
-|**2022-03-17**|**[Context-Dependent Anomaly Detection with Knowledge Graph Embedding Models](http://arxiv.org/abs/2203.09354v1)**|~|~|
+|**2022-03-17**|**[Context-Dependent Anomaly Detection with Knowledge Graph Embedding Models](http://arxiv.org/abs/2203.09354v2)**|~|~|
 |**2022-03-17**|**[PiDAn: A Coherence Optimization Approach for Backdoor Attack Detection and Mitigation in Deep Neural Networks](http://arxiv.org/abs/2203.09289v1)**|~|~|
 |**2022-03-16**|**[Deep learning applications for quality control in particle detector construction](http://arxiv.org/abs/2203.08969v1)**|~|~|
 |**2022-03-16**|**[CLUE-AI: A Convolutional Three-stream Anomaly Identification Framework for Robot Manipulation](http://arxiv.org/abs/2203.08746v1)**|22 pages, 10 figures, under review|~|
