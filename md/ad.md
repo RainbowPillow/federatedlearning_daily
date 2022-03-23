@@ -4,6 +4,8 @@
 
 |Date|Title|Comment|Code|
 |----|-----|-------|----|
+|**2022-03-22**|**[Unsupervised Anomaly Detection in Medical Images with a Memory-augmented Multi-level Cross-attentional Masked Autoencoder](http://arxiv.org/abs/2203.11725v1)**|Technical report, 11 pages, 3 figures|~|
+|**2022-03-21**|**[Two methods for Jamming Identification in UAVs Networks using New Synthetic Dataset](http://arxiv.org/abs/2203.11373v1)**|7 pages, 9 figures, submitted to VTC conference|~|
 |**2022-03-21**|**[FGAN: Federated Generative Adversarial Networks for Anomaly Detection in Network Traffic](http://arxiv.org/abs/2203.11106v1)**|8 pages, 2 figures|~|
 |**2022-03-21**|**[Diverse Counterfactual Explanations for Anomaly Detection in Time Series](http://arxiv.org/abs/2203.11103v1)**|24 pages, 11 figures|~|
 |**2022-03-07**|**[Deep Learning Serves Traffic Safety Analysis: A Forward-looking Review](http://arxiv.org/abs/2203.10939v1)**|~|~|

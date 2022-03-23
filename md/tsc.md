@@ -4,6 +4,11 @@
 
 |Date|Title|Comment|Code|
 |----|-----|-------|----|
+|**2022-03-22**|**[On the Modeling and Simulation of Portfolio Allocation Schemes: an Approach based on Network Community Detection](http://arxiv.org/abs/2203.11780v1)**|~|~|
+|**2022-03-22**|**[Causal inference in time series in terms of Rényi transfer entropy](http://arxiv.org/abs/2203.11407v1)**|~|~|
+|**2022-03-21**|**[Two methods for Jamming Identification in UAVs Networks using New Synthetic Dataset](http://arxiv.org/abs/2203.11373v1)**|7 pages, 9 figures, submitted to VTC conference|~|
+|**2022-03-21**|**[Generative Adversarial Network for Future Hand Segmentation from Egocentric Video](http://arxiv.org/abs/2203.11305v1)**|~|~|
+|**2022-03-18**|**[Performance of Deep Learning models with transfer learning for multiple-step-ahead forecasts in monthly time series](http://arxiv.org/abs/2203.11196v1)**|20 pages, 7 figures, 5 tables|~|
 |**2022-03-21**|**[Diverse Counterfactual Explanations for Anomaly Detection in Time Series](http://arxiv.org/abs/2203.11103v1)**|24 pages, 11 figures|~|
 |**2022-03-21**|**[Detection of periodic flares in 6.7 GHz methanol masers G45.804-0.356 and G49.043-1.079](http://arxiv.org/abs/2203.10859v1)**|8 pages, 5 figures|~|
 |**2022-03-21**|**[STCGAT: Spatial-temporal causal networks for complex urban road traffic flow prediction](http://arxiv.org/abs/2203.10749v1)**|~|[code](https://github.com/zhangshqii/STCGAT)|
