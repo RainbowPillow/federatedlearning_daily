@@ -43,7 +43,7 @@
 |**2021-10-25**|**[Transient Synchronization Stability Analysis of Wind Farms with MMC-HVDC Integration Under Offshore AC Grid Fault](http://arxiv.org/abs/2110.12685v1)**|~|~|
 |**2021-10-19**|**[Phase-Averaged Dynamics of a Periodically Surging Wind Turbine](http://arxiv.org/abs/2110.10312v2)**|~|~|
 |**2021-10-12**|**[Characterization of atmospheric coherent structures and their impact on a utility-scale wind turbine](http://arxiv.org/abs/2110.06279v1)**|16 pages, 13 figures|~|
-|**2021-10-08**|**[Multi-resolution Dynamic Mode Decomposition for Early Damage Detection in Wind Turbine Gearboxes](http://arxiv.org/abs/2110.04103v1)**|25 pages, 29 figures|~|
+|**2021-10-08**|**[Multi-resolution Dynamic Mode Decomposition for Damage Detection in Wind Turbine Gearboxes](http://arxiv.org/abs/2110.04103v2)**|34 pages, 29 figures|~|
 |**2021-10-04**|**[Analysis of the Implication of Current Limits in Grid Forming Wind Farm](http://arxiv.org/abs/2110.01526v1)**|~|~|
 |**2021-10-01**|**[The Proportional Integral Notch and Coleman Blade Effective Wind Speed Estimators and Their Similarities](http://arxiv.org/abs/2110.00639v1)**|6 pages, 5 figures|~|
 |**2021-09-29**|**[Deep Spatio-Temporal Wind Power Forecasting](http://arxiv.org/abs/2109.14530v2)**|~|[code](https://github.com/jiangyuan2li/deep-spatio-temporal)|
