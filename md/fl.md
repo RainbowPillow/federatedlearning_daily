@@ -4,6 +4,11 @@
 
 |Date|Title|Comment|Code|
 |----|-----|-------|----|
+|**2022-03-19**|**[Federated Learning Approach for Lifetime Prediction of Semiconductor Lasers](http://arxiv.org/abs/2203.12414v1)**|Optical Fiber Communication Conference (OFC 2022)|~|
+|**2022-03-23**|**[Mining Latent Relationships among Clients: Peer-to-peer Federated Learning with Adaptive Neighbor Matching](http://arxiv.org/abs/2203.12285v1)**|~|~|
+|**2022-03-23**|**[Efficient Fully Distributed Federated Learning with Adaptive Local Links](http://arxiv.org/abs/2203.12281v1)**|~|~|
+|**2022-03-23**|**[Adaptive Aggregation For Federated Learning](http://arxiv.org/abs/2203.12163v1)**|~|~|
+|**2022-03-22**|**[Federated Self-Supervised Learning for Acoustic Event Classification](http://arxiv.org/abs/2203.11997v1)**|~|~|
 |**2022-03-22**|**[Improving Generalization in Federated Learning by Seeking Flat Minima](http://arxiv.org/abs/2203.11834v1)**|~|~|
 |**2022-03-22**|**[FedDC: Federated Learning with Non-IID Data via Local Drift Decoupling and Correction](http://arxiv.org/abs/2203.11751v1)**|28 pages, 13 figures, to be published in CVPR2022|[code](https://github.com/gaoliang13/feddc)|
 |**2022-03-22**|**[Multi-Source Domain Adaptation Based on Federated Knowledge Alignment](http://arxiv.org/abs/2203.11635v1)**|~|~|

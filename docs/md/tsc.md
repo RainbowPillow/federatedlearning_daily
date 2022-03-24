@@ -8,6 +8,14 @@ layout: default
 
 | Date | Title | Comment | Code |
 |:-----|:------|:--------|:-----|
+|**2022-03-23**|**[Unsupervised Pre-Training on Patient Population Graphs for Patient-Level Predictions](http://arxiv.org/abs/2203.12616v1)**|10 pages, 1 figure, 3 tables|~|
+|**2022-03-22**|**[Predicting the Bubble of Non-Fungible Tokens (NFTs): An Empirical Investigation](http://arxiv.org/abs/2203.12587v1)**|~|~|
+|**2022-03-23**|**[DynamicEarthNet: Daily Multi-Spectral Satellite Dataset for Semantic Change Segmentation](http://arxiv.org/abs/2203.12560v1)**|Accepted to CVPR 2022, evaluation webpage:  https://codalab.lisn.upsaclay.fr/competitions/2882|~|
+|**2022-03-23**|**[A Deep Learning Approach to Probabilistic Forecasting of Weather](http://arxiv.org/abs/2203.12529v1)**|12 pages, 5 figures. Submitted to Artificial Intelligence for Earth  Systems|~|
+|**2022-03-23**|**[On predictive inference for intractable models via approximate Bayesian computation](http://arxiv.org/abs/2203.12495v1)**|~|~|
+|**2022-03-15**|**[Reducing overestimating and underestimating volatility via the augmented blending-ARCH model](http://arxiv.org/abs/2203.12456v1)**|~|~|
+|**2022-03-23**|**[Muscle Vision: Real Time Keypoint Based Pose Classification of Physical Exercises](http://arxiv.org/abs/2203.12111v1)**|Published in MICS 2022|~|
+|**2022-03-23**|**[Permutation Jensen-Shannon distance: A versatile and fast symbolic tool for complex time series analysis](http://arxiv.org/abs/2203.12107v1)**|23 two-column pages, 30 figures, supplementary information; accepted  for publication in Physical Review E|~|
 |**2022-03-22**|**[On the Modeling and Simulation of Portfolio Allocation Schemes: an Approach based on Network Community Detection](http://arxiv.org/abs/2203.11780v1)**|~|~|
 |**2022-03-22**|**[Causal inference in time series in terms of Rényi transfer entropy](http://arxiv.org/abs/2203.11407v1)**|~|~|
 |**2022-03-21**|**[Two methods for Jamming Identification in UAVs Networks using New Synthetic Dataset](http://arxiv.org/abs/2203.11373v1)**|7 pages, 9 figures, submitted to VTC conference|~|
