@@ -20,7 +20,7 @@ layout: default
 |**2022-03-22**|**[Federated Class-Incremental Learning](http://arxiv.org/abs/2203.11473v1)**|CVPR 2022, the first two authors contribute equally and they are  ordered alphabetically|[code](https://github.com/conditionwang/fcil)|
 |**2022-03-21**|**[A Comprehensive Review on Blockchains for Internet of Vehicles: Challenges and Directions](http://arxiv.org/abs/2203.10708v1)**|~|~|
 |**2022-03-20**|**[Federated Spatial Reuse Optimization in Next-Generation Decentralized IEEE 802.11 WLANs](http://arxiv.org/abs/2203.10472v1)**|~|~|
-|**2022-03-20**|**[Interpretability of Fine-grained Classification of Sadness and Depression](http://arxiv.org/abs/2203.10432v1)**|4 pages, 3 figures|~|
+|**2022-03-20**|**[Interpretability of Fine-grained Classification of Sadness and Depression](http://arxiv.org/abs/2203.10432v1)**|4 pages, 3 figures|[code](https://github.com/tiasa2/interpretability-of-federated-learning-for-fine-grained-classification-of-sadness-and-depression)|
 |**2022-03-19**|**[Desirable Companion for Vertical Federated Learning: New Zeroth-Order Gradient Based Algorithm](http://arxiv.org/abs/2203.10329v1)**|23 pages, Accepted by CIKM 2021|~|
 |**2022-03-18**|**[Provably Fair Federated Learning via Bounded Group Loss](http://arxiv.org/abs/2203.10190v1)**|14 pages|~|
 |**2022-03-18**|**[Closing the Generalization Gap of Cross-silo Federated Medical Image Segmentation](http://arxiv.org/abs/2203.10144v1)**|~|~|
@@ -28,7 +28,7 @@ layout: default
 |**2022-03-18**|**[Efficient Split-Mix Federated Learning for On-Demand and In-Situ Customization](http://arxiv.org/abs/2203.09747v1)**|published at ICLR2022|[code](https://github.com/illidanlab/SplitMix)|
 |**2022-03-18**|**[Federated Learning for Privacy Preservation in Smart Healthcare Systems: A Comprehensive Survey](http://arxiv.org/abs/2203.09702v1)**|~|~|
 |**2022-03-18**|**[Latency Optimization for Blockchain-Empowered Federated Learning in Multi-Server Edge Computing](http://arxiv.org/abs/2203.09670v1)**|This paper is under review for possible publication, 28 pages|~|
-|**2022-03-17**|**[Efficient Federated Learning on Knowledge Graphs via Privacy-preserving Relation Embedding Aggregation](http://arxiv.org/abs/2203.09553v1)**|~|[code](https://github.com/taokz/FedR)|
+|**2022-03-17**|**[Efficient Federated Learning on Knowledge Graphs via Privacy-preserving Relation Embedding Aggregation](http://arxiv.org/abs/2203.09553v1)**|~|~|
 |**2022-03-17**|**[Fine-tuning Global Model via Data-Free Knowledge Distillation for Non-IID Federated Learning](http://arxiv.org/abs/2203.09249v1)**|This paper is accepted by CVPR2022|~|
 |**2022-03-15**|**[Semi-FedSER: Semi-supervised Learning for Speech Emotion Recognition On Federated Learning using Multiview Pseudo-Labeling](http://arxiv.org/abs/2203.08810v1)**|This paper was submitted to Insterspeech 2022 for review|[code](https://github.com/usc-sail/fed-ser-semi)|
 |**2022-03-16**|**[Client-Wise Targeted Backdoor in Federated Learning](http://arxiv.org/abs/2203.08689v1)**|~|~|
