@@ -4,6 +4,8 @@
 
 |Date|Title|Comment|Code|
 |----|-----|-------|----|
+|**2022-03-24**|**[SIFT and SURF based feature extraction for the anomaly detection](http://arxiv.org/abs/2203.13068v1)**|28th Conference STUDENT EEICT 2022, Brno University of Technology|~|
+|**2022-03-24**|**[Bayesian Nonparametric Submodular Video Partition for Robust Anomaly Detection](http://arxiv.org/abs/2203.12840v1)**|2022 Conference on Computer Vision and Pattern Recognition|~|
 |**2022-03-23**|**[Data Analysis using Riemannian Geometry and Applications to Chemical Engineering](http://arxiv.org/abs/2203.12471v1)**|18 pages, 10 figures|~|
 |**2022-03-23**|**[Domain-Generalized Textured Surface Anomaly Detection](http://arxiv.org/abs/2203.12304v1)**|Accepted by IEEE International Conference on Multimedia and Expo  (ICME) 2022|~|
 |**2022-03-23**|**[Contrastive Transformer-based Multiple Instance Learning for Weakly Supervised Polyp Frame Detection](http://arxiv.org/abs/2203.12121v1)**|Technical report, 10 pages, 3 figures|~|

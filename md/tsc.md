@@ -4,6 +4,11 @@
 
 |Date|Title|Comment|Code|
 |----|-----|-------|----|
+|**2022-03-24**|**[TCN Mapping Optimization for Ultra-Low Power Time-Series Edge Inference](http://arxiv.org/abs/2203.12925v1)**|~|~|
+|**2022-03-24**|**[A combinatorial view of stochastic processes: White noise](http://arxiv.org/abs/2203.12807v1)**|~|~|
+|**2022-03-24**|**[A platform for causal knowledge representation and inference in industrial fault diagnosis based on cubic DUCG](http://arxiv.org/abs/2203.12802v1)**|~|~|
+|**2022-03-24**|**[Random Matrix Time Series](http://arxiv.org/abs/2203.12789v1)**|15 pages|~|
+|**2022-03-24**|**[Spherical Autoregressive Models, With Application to Distributional and Compositional Time Series](http://arxiv.org/abs/2203.12783v1)**|~|~|
 |**2022-03-23**|**[Unsupervised Pre-Training on Patient Population Graphs for Patient-Level Predictions](http://arxiv.org/abs/2203.12616v1)**|10 pages, 1 figure, 3 tables|[code](https://github.com/chantalmp/unsupervised-pre-training-on-patient-population-graphs-for-patient-level-predictions)|
 |**2022-03-22**|**[Predicting the Bubble of Non-Fungible Tokens (NFTs): An Empirical Investigation](http://arxiv.org/abs/2203.12587v1)**|~|~|
 |**2022-03-23**|**[DynamicEarthNet: Daily Multi-Spectral Satellite Dataset for Semantic Change Segmentation](http://arxiv.org/abs/2203.12560v1)**|Accepted to CVPR 2022, evaluation webpage:  https://codalab.lisn.upsaclay.fr/competitions/2882|~|

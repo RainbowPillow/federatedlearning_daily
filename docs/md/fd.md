@@ -8,6 +8,7 @@ layout: default
 
 | Date | Title | Comment | Code |
 |:-----|:------|:--------|:-----|
+|**2022-03-24**|**[A platform for causal knowledge representation and inference in industrial fault diagnosis based on cubic DUCG](http://arxiv.org/abs/2203.12802v1)**|~|~|
 |**2022-03-17**|**[Quantum Annealing with Special Drivers for Circuit Fault Diagnostics](http://arxiv.org/abs/2203.09560v1)**|~|~|
 |**2022-03-14**|**[RES-HD: Resilient Intelligent Fault Diagnosis Against Adversarial Attacks Using Hyper-Dimensional Computing](http://arxiv.org/abs/2203.08148v1)**|~|~|
 |**2022-02-28**|**[Asynchronous Decentralized Federated Learning for Collaborative Fault Diagnosis of PV Stations](http://arxiv.org/abs/2202.13606v1)**|~|~|

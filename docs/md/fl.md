@@ -8,6 +8,11 @@ layout: default
 
 | Date | Title | Comment | Code |
 |:-----|:------|:--------|:-----|
+|**2022-03-24**|**[SwiftAgg+: Achieving Asymptotically Optimal Communication Load in Secure Aggregation for Federated Learning](http://arxiv.org/abs/2203.13060v1)**|arXiv admin note: substantial text overlap with arXiv:2202.04169|~|
+|**2022-03-24**|**[Optimal MIMO Combining for Blind Federated Edge Learning with Gradient Sparsification](http://arxiv.org/abs/2203.12957v1)**|5 pages, 1 figure, submitted for possible conference publication|~|
+|**2022-03-24**|**[When Accuracy Meets Privacy: Two-Stage Federated Transfer Learning Framework in Classification of Medical Images on Limited Data: A COVID-19 Case Study](http://arxiv.org/abs/2203.12803v1)**|11 pages, 11 figures, preprint|~|
+|**2022-03-23**|**[Contextual Model Aggregation for Fast and Robust Federated Learning in Edge Computing](http://arxiv.org/abs/2203.12738v1)**|10 pages|~|
+|**2022-03-23**|**[Asynchronous Collaborative Learning Across Data Silos](http://arxiv.org/abs/2203.12637v1)**|Will appear in conference proceedings of ACM International Conference  on AI in Finance (ICAIF '21)|~|
 |**2022-03-19**|**[Federated Learning Approach for Lifetime Prediction of Semiconductor Lasers](http://arxiv.org/abs/2203.12414v1)**|Optical Fiber Communication Conference (OFC 2022)|~|
 |**2022-03-23**|**[Mining Latent Relationships among Clients: Peer-to-peer Federated Learning with Adaptive Neighbor Matching](http://arxiv.org/abs/2203.12285v1)**|~|~|
 |**2022-03-23**|**[Efficient Fully Distributed Federated Learning with Adaptive Local Links](http://arxiv.org/abs/2203.12281v1)**|~|~|
