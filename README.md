@@ -12,4 +12,7 @@
 
 - [Fault Diagnosis](https://github.com/RainbowPillow/federatedlearning_daily/blob/main/md/fd.md) 
 
+- [Wind Turbine](https://github.com/RainbowPillow/federatedlearning_daily/blob/main/md/wt.md) 
+
+- [Long Tail](https://github.com/RainbowPillow/federatedlearning_daily/blob/main/md/longtail.md) 
 
