@@ -8,6 +8,8 @@ layout: default
 
 | Date | Title | Comment | Code |
 |:-----|:------|:--------|:-----|
+|**2022-03-25**|**[Topology optimization of wind farm layouts](http://arxiv.org/abs/2203.13525v1)**|~|~|
+|**2022-03-24**|**[Data-driven fluid mechanics of wind farms: A review](http://arxiv.org/abs/2203.13289v1)**|~|~|
 |**2022-03-22**|**[The Stability of Wakes of Floating Wind Turbines](http://arxiv.org/abs/2203.11803v1)**|21 pages, 14 figures|~|
 |**2022-03-04**|**[Grid-Forming Inverter-based Wind Turbine Generators: Comprehensive Review, Comparative Analysis, and Recommendations](http://arxiv.org/abs/2203.02105v1)**|~|~|
 |**2022-03-03**|**[Nonlinear Reduced Order Modelling of Soil Structure Interaction Effects via LSTM and Autoencoder Neural Networks](http://arxiv.org/abs/2203.01842v1)**|~|~|

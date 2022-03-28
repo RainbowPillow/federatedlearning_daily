@@ -8,6 +8,11 @@ layout: default
 
 | Date | Title | Comment | Code |
 |:-----|:------|:--------|:-----|
+|**2022-03-25**|**[FLUTE: A Scalable, Extensible Framework for High-Performance Federated Learning Simulations](http://arxiv.org/abs/2203.13789v1)**|13 Pages, 5 Figures, 8 Tables|~|
+|**2022-03-25**|**[ST-FL: Style Transfer Preprocessing in Federated Learning for COVID-19 Segmentation](http://arxiv.org/abs/2203.13680v1)**|5 pages, 1 figure, full version (15 pages, 13 figures) to be  published in SPIE: Medical Imaging 2022 Proceedings|~|
+|**2022-03-24**|**[FedGradNorm: Personalized Federated Gradient-Normalized Multi-Task Learning](http://arxiv.org/abs/2203.13663v1)**|~|~|
+|**2022-03-25**|**[Sparse Federated Learning with Hierarchical Personalization Models](http://arxiv.org/abs/2203.13517v1)**|arXiv admin note: text overlap with arXiv:2107.05330|~|
+|**2022-03-24**|**[Addressing Client Drift in Federated Continual Learning with Adaptive Optimization](http://arxiv.org/abs/2203.13321v1)**|~|~|
 |**2022-03-24**|**[SwiftAgg+: Achieving Asymptotically Optimal Communication Load in Secure Aggregation for Federated Learning](http://arxiv.org/abs/2203.13060v1)**|arXiv admin note: substantial text overlap with arXiv:2202.04169|~|
 |**2022-03-24**|**[Optimal MIMO Combining for Blind Federated Edge Learning with Gradient Sparsification](http://arxiv.org/abs/2203.12957v1)**|5 pages, 1 figure, submitted for possible conference publication|~|
 |**2022-03-24**|**[When Accuracy Meets Privacy: Two-Stage Federated Transfer Learning Framework in Classification of Medical Images on Limited Data: A COVID-19 Case Study](http://arxiv.org/abs/2203.12803v1)**|11 pages, 11 figures, preprint|~|

@@ -4,6 +4,11 @@
 
 |Date|Title|Comment|Code|
 |----|-----|-------|----|
+|**2022-03-25**|**[HYDRA: Competing convolutional kernels for fast and accurate time series classification](http://arxiv.org/abs/2203.13652v1)**|27 pages, 18 figures|~|
+|**2022-03-25**|**[A Point Mass Proposal Method for Bayesian State-Space Model Fitting](http://arxiv.org/abs/2203.13649v1)**|30 pages including references and appendices, 5 figures, 3 tables|~|
+|**2022-03-25**|**[An Intelligent End-to-End Neural Architecture Search Framework for Electricity Forecasting Model Development](http://arxiv.org/abs/2203.13563v1)**|~|~|
+|**2022-03-24**|**[Five Decades of Chromospheric Activity in 59 Sun-like Stars and New Maunder Minimum Candidate HD 166620](http://arxiv.org/abs/2203.13376v1)**|13 pages, 4 figures, 1 figure set, 2 tables, published in The  Astronomical Journal|~|
+|**2022-03-24**|**[Kepler-1708 b-i is likely undetectable with HST](http://arxiv.org/abs/2203.13290v1)**|5 pages, 2 figures, submitted to MNRAS|~|
 |**2022-03-24**|**[TCN Mapping Optimization for Ultra-Low Power Time-Series Edge Inference](http://arxiv.org/abs/2203.12925v1)**|~|~|
 |**2022-03-24**|**[A combinatorial view of stochastic processes: White noise](http://arxiv.org/abs/2203.12807v1)**|~|~|
 |**2022-03-24**|**[A platform for causal knowledge representation and inference in industrial fault diagnosis based on cubic DUCG](http://arxiv.org/abs/2203.12802v1)**|~|~|

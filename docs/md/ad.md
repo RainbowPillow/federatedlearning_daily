@@ -8,6 +8,10 @@ layout: default
 
 | Date | Title | Comment | Code |
 |:-----|:------|:--------|:-----|
+|**2022-03-25**|**[Stabilizing Adversarially Learned One-Class Novelty Detection Using Pseudo Anomalies](http://arxiv.org/abs/2203.13716v1)**|This work has been submitted to the IEEE Transactions on Image  Processing for possible publication. Copyright may be transferred without  notice, after which this version may no longer be accessible|~|
+|**2022-03-25**|**[Clustering Aided Weakly Supervised Training to Detect Anomalous Events in Surveillance Videos](http://arxiv.org/abs/2203.13704v1)**|This work has been submitted to the IEEE Transactions on Neural  Networks and Learning Systems (TNNLS) for possible publication. Copyright may  be transferred without notice, after which this version may no longer be  accessible|~|
+|**2022-03-25**|**[Learning to Adapt to Unseen Abnormal Activities under Weak Supervision](http://arxiv.org/abs/2203.13610v1)**|20 pages, ACCV 2020|~|
+|**2022-03-25**|**[From MIM-Based GAN to Anomaly Detection:Event Probability Influence on Generative Adversarial Networks](http://arxiv.org/abs/2203.13464v1)**|~|~|
 |**2022-03-24**|**[SIFT and SURF based feature extraction for the anomaly detection](http://arxiv.org/abs/2203.13068v1)**|28th Conference STUDENT EEICT 2022, Brno University of Technology|[code](https://github.com/boortel/sift-and-surf-based-ad)|
 |**2022-03-24**|**[Bayesian Nonparametric Submodular Video Partition for Robust Anomaly Detection](http://arxiv.org/abs/2203.12840v1)**|2022 Conference on Computer Vision and Pattern Recognition|[code](https://github.com/ritmininglab/bn-svp)|
 |**2022-03-23**|**[Data Analysis using Riemannian Geometry and Applications to Chemical Engineering](http://arxiv.org/abs/2203.12471v1)**|18 pages, 10 figures|~|
