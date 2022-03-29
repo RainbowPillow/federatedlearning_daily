@@ -4,6 +4,12 @@
 
 |Date|Title|Comment|Code|
 |----|-----|-------|----|
+|**2022-03-28**|**[Knowledge-Guided Learning for Transceiver Design in Over-the-Air Federated Learning](http://arxiv.org/abs/2203.14753v1)**|~|~|
+|**2022-03-28**|**[Federated Learning with Position-Aware Neurons](http://arxiv.org/abs/2203.14666v1)**|~|~|
+|**2022-03-27**|**[Adversarial Representation Sharing: A Quantitative and Secure Collaborative Learning Framework](http://arxiv.org/abs/2203.14299v1)**|~|~|
+|**2022-03-26**|**[SlimFL: Federated Learning with Superposition Coding over Slimmable Neural Networks](http://arxiv.org/abs/2203.14094v1)**|~|~|
+|**2022-03-26**|**[RSCFed: Random Sampling Consensus Federated Semi-supervised Learning](http://arxiv.org/abs/2203.13993v1)**|CVPR 2022, code: https://github.com/XMed-Lab/RSCFed|~|
+|**2022-03-26**|**[Multi-Edge Server-Assisted Dynamic Federated Learning with an Optimized Floating Aggregation Point](http://arxiv.org/abs/2203.13950v1)**|~|~|
 |**2022-03-25**|**[FLUTE: A Scalable, Extensible Framework for High-Performance Federated Learning Simulations](http://arxiv.org/abs/2203.13789v1)**|13 Pages, 5 Figures, 8 Tables|[code](https://github.com/microsoft/msrflute)|
 |**2022-03-25**|**[ST-FL: Style Transfer Preprocessing in Federated Learning for COVID-19 Segmentation](http://arxiv.org/abs/2203.13680v1)**|5 pages, 1 figure, full version (15 pages, 13 figures) to be  published in SPIE: Medical Imaging 2022 Proceedings|~|
 |**2022-03-24**|**[FedGradNorm: Personalized Federated Gradient-Normalized Multi-Task Learning](http://arxiv.org/abs/2203.13663v1)**|~|~|

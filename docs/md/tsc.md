@@ -8,6 +8,21 @@ layout: default
 
 | Date | Title | Comment | Code |
 |:-----|:------|:--------|:-----|
+|**2022-03-28**|**[A Cellular Automaton Model for the generation of Brainwaves](http://arxiv.org/abs/2203.14948v1)**|7|~|
+|**2022-03-23**|**[Day-ahead prediction using time series partitioning with Auto-Regressive model](http://arxiv.org/abs/2203.14910v1)**|International Journal on Computer Science and Engineering (IJCSE),  http://www.enggjournals.com/ijcse/ , 2016|~|
+|**2022-03-23**|**[Wind speed forecast using random forest learning method](http://arxiv.org/abs/2203.14909v1)**|~|~|
+|**2022-03-28**|**[Pruning In Time (PIT): A Lightweight Network Architecture Optimizer for Temporal Convolutional Networks](http://arxiv.org/abs/2203.14768v1)**|~|~|
+|**2022-03-28**|**[Using Machine Learning to generate an open-access cropland map from satellite images time series in the Indian Himalayan Region](http://arxiv.org/abs/2203.14673v1)**|~|~|
+|**2022-03-28**|**[Zwicky Transient Facility and Globular Clusters: The RR Lyrae gri-Band Period-Luminosity-Metallicity and Period-Wesenheit-Metallicity Relations](http://arxiv.org/abs/2203.14475v1)**|28 pages, 7 Tables and 24 Figures. AJ accepted|~|
+|**2022-03-28**|**[Enhancing Transformer Efficiency for Multivariate Time Series Classification](http://arxiv.org/abs/2203.14472v1)**|~|~|
+|**2022-03-28**|**[Integrating Physiological Time Series and Clinical Notes with Transformer for Early Prediction of Sepsis](http://arxiv.org/abs/2203.14469v1)**|~|~|
+|**2022-03-27**|**[Group pattern detection of longitudinal data using functional statistics](http://arxiv.org/abs/2203.14251v1)**|~|~|
+|**2022-03-26**|**[AutoTS: Automatic Time Series Forecasting Model Design Based on Two-Stage Pruning](http://arxiv.org/abs/2203.14169v1)**|11 pages|~|
+|**2022-03-26**|**[Direct Numerical Simulation of High Prandtl Number Fluid Flow in the Downcomer of an Advanced Reactor](http://arxiv.org/abs/2203.14157v1)**|arXiv admin note: text overlap with arXiv:2203.06670|~|
+|**2022-03-26**|**[Data-driven Stabilization of Discrete-time Control-affine Nonlinear Systems: A Koopman Operator Approach](http://arxiv.org/abs/2203.14114v1)**|~|~|
+|**2022-03-26**|**[Implications of Mortality Displacement for Effect Modification and Selection Bias](http://arxiv.org/abs/2203.13982v1)**|This is an epidemiological theory paper|~|
+|**2022-03-25**|**[Using Multiple Instance Learning for Explainable Solar Flare Prediction](http://arxiv.org/abs/2203.13896v1)**|~|~|
+|**2022-03-24**|**[Rough volatility: fact or artefact?](http://arxiv.org/abs/2203.13820v1)**|~|~|
 |**2022-03-25**|**[HYDRA: Competing convolutional kernels for fast and accurate time series classification](http://arxiv.org/abs/2203.13652v1)**|27 pages, 18 figures|~|
 |**2022-03-25**|**[A Point Mass Proposal Method for Bayesian State-Space Model Fitting](http://arxiv.org/abs/2203.13649v1)**|30 pages including references and appendices, 5 figures, 3 tables|~|
 |**2022-03-25**|**[An Intelligent End-to-End Neural Architecture Search Framework for Electricity Forecasting Model Development](http://arxiv.org/abs/2203.13563v1)**|~|~|
