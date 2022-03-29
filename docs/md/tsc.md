@@ -15,7 +15,7 @@ layout: default
 |**2022-03-24**|**[Kepler-1708 b-i is likely undetectable with HST](http://arxiv.org/abs/2203.13290v1)**|5 pages, 2 figures, submitted to MNRAS|~|
 |**2022-03-24**|**[TCN Mapping Optimization for Ultra-Low Power Time-Series Edge Inference](http://arxiv.org/abs/2203.12925v1)**|~|~|
 |**2022-03-24**|**[A combinatorial view of stochastic processes: White noise](http://arxiv.org/abs/2203.12807v1)**|~|~|
-|**2022-03-24**|**[A platform for causal knowledge representation and inference in industrial fault diagnosis based on cubic DUCG](http://arxiv.org/abs/2203.12802v1)**|~|~|
+|**2022-03-24**|**[A platform for causal knowledge representation and inference in industrial fault diagnosis based on cubic DUCG](http://arxiv.org/abs/2203.12802v2)**|~|~|
 |**2022-03-24**|**[Random Matrix Time Series](http://arxiv.org/abs/2203.12789v1)**|15 pages|~|
 |**2022-03-24**|**[Spherical Autoregressive Models, With Application to Distributional and Compositional Time Series](http://arxiv.org/abs/2203.12783v1)**|~|~|
 |**2022-03-23**|**[Unsupervised Pre-Training on Patient Population Graphs for Patient-Level Predictions](http://arxiv.org/abs/2203.12616v1)**|10 pages, 1 figure, 3 tables|[code](https://github.com/chantalmp/unsupervised-pre-training-on-patient-population-graphs-for-patient-level-predictions)|
@@ -46,7 +46,7 @@ layout: default
 |**2022-03-18**|**[WOODS: Benchmarks for Out-of-Distribution Generalization in Time Series Tasks](http://arxiv.org/abs/2203.09978v1)**|43 pages, 20 figures|[code](https://github.com/jc-audet/WOODS)|
 |**2022-03-18**|**[Soft Smoothness for Audio Inpainting Using a Latent Matrix Model in Delay-embedded Space](http://arxiv.org/abs/2203.09746v1)**|~|~|
 |**2022-03-18**|**[Multi-Modal Causal Inference with Deep Structural Equation Models](http://arxiv.org/abs/2203.09672v2)**|~|~|
-|**2022-03-17**|**[Extremal Event Graphs: A (Stable) Tool for Analyzing Noisy Time Series Data](http://arxiv.org/abs/2203.09552v1)**|63 pages, 16 figures|~|
+|**2022-03-17**|**[Extremal Event Graphs: A (Stable) Tool for Analyzing Noisy Time Series Data](http://arxiv.org/abs/2203.09552v2)**|63 pages, 16 figures|~|
 |**2022-03-17**|**[LSST Cadence Strategy Evaluations for AGN Time-series Data in Wide-Fast-Deep Field](http://arxiv.org/abs/2203.09540v1)**|accepted by MNRAS|[code](https://github.com/xinyuesheng2019/lsst_agn_srnn_paper)|
 |**2022-03-17**|**[The SATCHEL pipeline: A general tool for data classified through citizen science](http://arxiv.org/abs/2203.09458v1)**|20 pages, 23 figures. Accepted for publication in MNRAS|[code](https://github.com/ejsafron/ph-pipeline)|
 |**2022-03-17**|**[A probabilistic method for detecting solar-like oscillations using meaningful prior information](http://arxiv.org/abs/2203.09404v1)**|Accepted for publication in A&A. 13 pages, 9 figures|~|
