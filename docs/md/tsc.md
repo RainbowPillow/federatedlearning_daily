@@ -8,6 +8,20 @@ layout: default
 
 | Date | Title | Comment | Code |
 |:-----|:------|:--------|:-----|
+|**2022-03-30**|**[The CARMENES search for exoplanets around M dwarfs: Two Saturn-mass planets orbiting active stars](http://arxiv.org/abs/2203.16504v1)**|Accepted for publication in Astronomy and Astrophysics|~|
+|**2022-03-23**|**[TSUBASA: Climate Network Construction on Historical and Real-Time Data](http://arxiv.org/abs/2203.16457v1)**|12 pages, 6 figures|~|
+|**2022-03-30**|**[Slow-varying Dynamics Assisted Temporal Capsule Network for Machinery Remaining Useful Life Estimation](http://arxiv.org/abs/2203.16373v1)**|This paper has been accepted by IEEE Transactions on Cybernetics|~|
+|**2022-03-29**|**[Cointegration of SARS-CoV-2 Transmission with Weather Conditions and Mobility during the First Year of the COVID-19 Pandemic in the United States](http://arxiv.org/abs/2203.16330v1)**|6 pages, 3 figures|~|
+|**2022-03-30**|**[A Novel First-Order Autoregressive Moving Average Model to Analyze Discrete-Time Series Irregularly Observed](http://arxiv.org/abs/2203.16281v1)**|Accepted paper to Contributions to Statistics, Springer (ITISE 2021).  12 pages, 2 figures, 1 table. arXiv admin note: substantial text overlap with  arXiv:2105.06395|~|
+|**2022-03-30**|**[Detection of Gaussianity using envelopes](http://arxiv.org/abs/2203.16253v1)**|~|~|
+|**2022-03-30**|**[Tampered VAE for Improved Satellite Image Time Series Classification](http://arxiv.org/abs/2203.16149v1)**|~|~|
+|**2022-03-30**|**[Time Series Fault Classification for Wave Propagation Systems with Sparse Fault Data](http://arxiv.org/abs/2203.16121v1)**|14 pages, 16 figures|~|
+|**2022-03-30**|**[Seasonality, density dependence and spatial population synchrony](http://arxiv.org/abs/2203.16118v1)**|22 pages, 5 main figures, 2 appendix figures, 3 appendix table|~|
+|**2022-03-30**|**[Theory of Acceleration of Decision Making by Correlated Times Sequences](http://arxiv.org/abs/2203.16004v1)**|~|~|
+|**2022-03-29**|**[Design of a Biomimetic Tactile Sensor for Material Classification](http://arxiv.org/abs/2203.15941v1)**|To be published in ICRA 2022|~|
+|**2022-03-29**|**[Detrended Fluctuation Analysis for Continuous Real Variable Functions](http://arxiv.org/abs/2203.15940v1)**|11 pages|~|
+|**2022-03-29**|**[Financial dynamics, economic state classification and optimal portfolio construction for unseen market conditions: learning from the past 60 years](http://arxiv.org/abs/2203.15911v1)**|21 pages|~|
+|**2022-03-29**|**[Periodic stellar variability from almost a million NGTS light curves](http://arxiv.org/abs/2203.15894v1)**|22 pages, 13 figures, 3 tables. Accepted for publication in MNRAS|~|
 |**2022-03-29**|**[Towards Spatio-Temporal Aware Traffic Time Series Forecasting--Full Version](http://arxiv.org/abs/2203.15737v2)**|Accepted at ICDE 2022|[code](https://github.com/razvanc92/st-wa)|
 |**2022-03-29**|**[A Wavelet, AR and SVM based hybrid method for short-term wind speed prediction](http://arxiv.org/abs/2203.15298v1)**|~|~|
 |**2022-03-29**|**[High-Dimensional Vector Autoregression with Common Response and Predictor Factors](http://arxiv.org/abs/2203.15170v1)**|74 pages, 5 figures|~|

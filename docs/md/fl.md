@@ -8,6 +8,9 @@ layout: default
 
 | Date | Title | Comment | Code |
 |:-----|:------|:--------|:-----|
+|**2022-03-30**|**[Perfectly Accurate Membership Inference by a Dishonest Central Server in Federated Learning](http://arxiv.org/abs/2203.16463v1)**|6 pages|~|
+|**2022-03-30**|**[Towards Collaborative Intelligence: Routability Estimation based on Decentralized Private Data](http://arxiv.org/abs/2203.16009v1)**|6 pages, 2 figures, accepted by DAC'22|~|
+|**2022-03-30**|**[Federated Domain Adaptation for ASR with Full Self-Supervision](http://arxiv.org/abs/2203.15966v1)**|~|~|
 |**2022-03-29**|**[Auditing Privacy Defenses in Federated Learning via Generative Gradient Leakage](http://arxiv.org/abs/2203.15696v1)**|~|~|
 |**2022-03-29**|**[Over-the-Air Federated Learning via Second-Order Optimization](http://arxiv.org/abs/2203.15488v1)**|30 pages, 9 figures|[code](https://github.com/Golden-Slumber/AirFL-2nd)|
 |**2022-03-29**|**[Federated Learning-Based Localization with Heterogeneous Fingerprint Database](http://arxiv.org/abs/2203.15388v1)**|~|~|
