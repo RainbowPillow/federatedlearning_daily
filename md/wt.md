@@ -34,7 +34,7 @@
 |**2021-12-01**|**[Semi-Supervised Surface Anomaly Detection of Composite Wind Turbine Blades From Drone Imagery](http://arxiv.org/abs/2112.00556v1)**|In-proceedings at 2022 17th International Conference on Computer  Vision Theory and Applications (VISAPP)|~|
 |**2021-11-30**|**[The Power of Communication in a Distributed Multi-Agent System](http://arxiv.org/abs/2111.15611v3)**|Cooperative AI Workshop at the 35th Conference on Neural Information  Processing Systems (NeurIPS 2021), Sydney, Australia|~|
 |**2021-11-30**|**[Bayesian Modelling of Multivalued Power Curves from an Operational Wind Farm](http://arxiv.org/abs/2111.15496v1)**|~|~|
-|**2021-11-29**|**[Prediction of Large Magnetic Moment Materials With Graph Neural Networks and Random Forests](http://arxiv.org/abs/2111.14712v1)**|18 pages, 6 figures|~|
+|**2021-11-29**|**[Prediction of Large Magnetic Moment Materials With Graph Neural Networks and Random Forests](http://arxiv.org/abs/2111.14712v2)**|This paper is withdrawn because a bug was found in the code. Updated  results and conclusions will be posted in a new version at a later date|~|
 |**2021-11-29**|**[Broad Ranges of Investment Configurations for Renewable Power Systems, Robust to Cost Uncertainty and Near-Optimality](http://arxiv.org/abs/2111.14443v1)**|~|[code](https://github.com/fneum/broad-ranges)|
 |**2021-11-22**|**[Data-driven unsteady aeroelastic modeling for control](http://arxiv.org/abs/2111.11299v2)**|~|~|
 |**2021-11-04**|**[Monetarization of the Feasible Operation Region based on a Cost-Optimal Flexibility Disaggregation](http://arxiv.org/abs/2111.02810v1)**|13 pages, 17 figures|~|

@@ -4,7 +4,7 @@
 
 |Date|Title|Comment|Code|
 |----|-----|-------|----|
-|**2022-03-29**|**[Towards Spatio-Temporal Aware Traffic Time Series Forecasting--Full Version](http://arxiv.org/abs/2203.15737v1)**|Accepted at ICDE 22|[code](https://github.com/razvanc92/st-wa)|
+|**2022-03-29**|**[Towards Spatio-Temporal Aware Traffic Time Series Forecasting--Full Version](http://arxiv.org/abs/2203.15737v2)**|Accepted at ICDE 2022|[code](https://github.com/razvanc92/st-wa)|
 |**2022-03-29**|**[A Wavelet, AR and SVM based hybrid method for short-term wind speed prediction](http://arxiv.org/abs/2203.15298v1)**|~|~|
 |**2022-03-29**|**[High-Dimensional Vector Autoregression with Common Response and Predictor Factors](http://arxiv.org/abs/2203.15170v1)**|74 pages, 5 figures|~|
 |**2022-03-28**|**[DAMNETS: A Deep Autoregressive Model for Generating Markovian Network Time Series](http://arxiv.org/abs/2203.15009v1)**|12 pages, 10 figures, 2 tables|[code](https://github.com/damnets/damnets_icml_2022)|
