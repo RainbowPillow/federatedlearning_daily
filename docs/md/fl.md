@@ -9,7 +9,7 @@ layout: default
 | Date | Title | Comment | Code |
 |:-----|:------|:--------|:-----|
 |**2022-03-31**|**[Efficient Dropout-resilient Aggregation for Privacy-preserving Machine Learning](http://arxiv.org/abs/2203.17044v1)**|16 pages, 5 figures. Accepted by IEEE Transactions on Information  Forensics and Security|~|
-|**2022-03-31**|**[Differentially Private Federated Learning via Reconfigurable Intelligent Surface](http://arxiv.org/abs/2203.17028v1)**|16 pages, 11 figures|~|
+|**2022-03-31**|**[Differentially Private Federated Learning via Reconfigurable Intelligent Surface](http://arxiv.org/abs/2203.17028v1)**|16 pages, 11 figures|[code](https://github.com/mengcongwo/fl_privacy_blockcrossing)|
 |**2022-03-31**|**[Privacy-Preserving Aggregation in Federated Learning: A Survey](http://arxiv.org/abs/2203.17005v1)**|20 pages, 10 figures|~|
 |**2022-03-30**|**[Escaping Data Scarcity for High-Resolution Heterogeneous Face Hallucination](http://arxiv.org/abs/2203.16669v1)**|CVPR2022|~|
 |**2022-03-30**|**[Federated Learning for the Classification of Tumor Infiltrating Lymphocytes](http://arxiv.org/abs/2203.16622v1)**|~|~|
