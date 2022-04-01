@@ -8,6 +8,13 @@ layout: default
 
 | Date | Title | Comment | Code |
 |:-----|:------|:--------|:-----|
+|**2022-03-30**|**[LEAD1.0: A Large-scale Annotated Dataset for Energy Anomaly Detection in Commercial Buildings](http://arxiv.org/abs/2203.17256v1)**|~|~|
+|**2022-03-31**|**[Controlled Discovery and Localization of Signals via Bayesian Linear Programming](http://arxiv.org/abs/2203.17208v1)**|57 pages, 20 figures|~|
+|**2022-03-31**|**[Recovering models of open quantum systems from data via polynomial optimization: Towards globally convergent quantum system identification](http://arxiv.org/abs/2203.17164v1)**|~|~|
+|**2022-03-31**|**[Human wealth evolution is an accelerating expansion underpinned by a decelerating optimization process](http://arxiv.org/abs/2203.17087v1)**|~|~|
+|**2022-03-31**|**[Long-term scintillation studies of EPTA pulsars. I. Observations and basic results](http://arxiv.org/abs/2203.16950v1)**|18 pages, 6 figures, 4 tables, accepted for publication in A&A|~|
+|**2022-03-30**|**[Enhancing Cancer Prediction in Challenging Screen-Detected Incident Lung Nodules Using Time-Series Deep Learning](http://arxiv.org/abs/2203.16606v1)**|~|~|
+|**2022-03-30**|**[The OGLE Collection of Variable Stars. Nearly 66,000 Mira stars in the Milky Way](http://arxiv.org/abs/2203.16552v1)**|Submitted to The Astrophysical Journal Supplement Series. 17 pages, 8  figures, 3 tables. The OGLE Collection of Miras in the Milky Way is publicly  available through https://www.astrouw.edu.pl/ogle/ogle4/OCVS/blg/lpv/ for  Miras located in the Galactic bulge fields, and  https://www.astrouw.edu.pl/ogle/ogle4/OCVS/gd/lpv/ for Miras located in the  Galactic disk fields|~|
 |**2022-03-30**|**[The CARMENES search for exoplanets around M dwarfs: Two Saturn-mass planets orbiting active stars](http://arxiv.org/abs/2203.16504v1)**|Accepted for publication in Astronomy and Astrophysics|~|
 |**2022-03-23**|**[TSUBASA: Climate Network Construction on Historical and Real-Time Data](http://arxiv.org/abs/2203.16457v1)**|12 pages, 6 figures|~|
 |**2022-03-30**|**[Slow-varying Dynamics Assisted Temporal Capsule Network for Machinery Remaining Useful Life Estimation](http://arxiv.org/abs/2203.16373v1)**|This paper has been accepted by IEEE Transactions on Cybernetics|~|

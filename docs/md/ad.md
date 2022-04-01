@@ -8,6 +8,8 @@ layout: default
 
 | Date | Title | Comment | Code |
 |:-----|:------|:--------|:-----|
+|**2022-03-30**|**[LEAD1.0: A Large-scale Annotated Dataset for Energy Anomaly Detection in Commercial Buildings](http://arxiv.org/abs/2203.17256v1)**|~|~|
+|**2022-03-31**|**[SIERRA: Ranking Anomalous Activities in Enterprise Networks](http://arxiv.org/abs/2203.16802v1)**|to appear in IEEE European Symposium on Security and Privacy  (EuroS&P) 2022|~|
 |**2022-03-30**|**[IGRF-RFE: A Hybrid Feature Selection Method for MLP-based Network Intrusion Detection on UNSW-NB15 Dataset](http://arxiv.org/abs/2203.16365v1)**|~|~|
 |**2022-03-28**|**[FlexFringe: Modeling Software Behavior by Learning Probabilistic Automata](http://arxiv.org/abs/2203.16331v1)**|~|~|
 |**2022-03-29**|**[Radial Autoencoders for Enhanced Anomaly Detection](http://arxiv.org/abs/2203.15884v2)**|~|~|

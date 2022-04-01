@@ -8,6 +8,7 @@ layout: default
 
 | Date | Title | Comment | Code |
 |:-----|:------|:--------|:-----|
+|**2022-03-31**|**[Wind Farm Layout Optimisation using Set Based Multi-objective Bayesian Optimisation](http://arxiv.org/abs/2203.17065v1)**|~|~|
 |**2022-03-25**|**[Topology optimization of wind farm layouts](http://arxiv.org/abs/2203.13525v1)**|~|~|
 |**2022-03-24**|**[Data-driven fluid mechanics of wind farms: A review](http://arxiv.org/abs/2203.13289v1)**|~|~|
 |**2022-03-22**|**[The Stability of Wakes of Floating Wind Turbines](http://arxiv.org/abs/2203.11803v1)**|21 pages, 14 figures|~|
