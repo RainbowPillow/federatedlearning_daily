@@ -10,7 +10,7 @@ layout: default
 |:-----|:------|:--------|:-----|
 |**2022-03-30**|**[IGRF-RFE: A Hybrid Feature Selection Method for MLP-based Network Intrusion Detection on UNSW-NB15 Dataset](http://arxiv.org/abs/2203.16365v1)**|~|~|
 |**2022-03-28**|**[FlexFringe: Modeling Software Behavior by Learning Probabilistic Automata](http://arxiv.org/abs/2203.16331v1)**|~|~|
-|**2022-03-29**|**[Radial Autoencoders for Enhanced Anomaly Detection](http://arxiv.org/abs/2203.15884v1)**|~|~|
+|**2022-03-29**|**[Radial Autoencoders for Enhanced Anomaly Detection](http://arxiv.org/abs/2203.15884v2)**|~|~|
 |**2022-03-29**|**[Contextual Information Based Anomaly Detection for a Multi-Scene UAV Aerial Videos](http://arxiv.org/abs/2203.15437v1)**|~|[code](https://github.com/uverma/muaad)|
 |**2022-03-29**|**[AnoDFDNet: A Deep Feature Difference Network for Anomaly Detection](http://arxiv.org/abs/2203.15195v1)**|14pages, 8figures|[code](https://github.com/wangle53/anodfdnet)|
 |**2022-03-28**|**[Semi-supervised anomaly detection algorithm based on KL divergence (SAD-KL)](http://arxiv.org/abs/2203.14539v1)**|9 pages, 8 figures|~|

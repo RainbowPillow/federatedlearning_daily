@@ -11,7 +11,7 @@ layout: default
 |**2022-03-30**|**[The CARMENES search for exoplanets around M dwarfs: Two Saturn-mass planets orbiting active stars](http://arxiv.org/abs/2203.16504v1)**|Accepted for publication in Astronomy and Astrophysics|~|
 |**2022-03-23**|**[TSUBASA: Climate Network Construction on Historical and Real-Time Data](http://arxiv.org/abs/2203.16457v1)**|12 pages, 6 figures|~|
 |**2022-03-30**|**[Slow-varying Dynamics Assisted Temporal Capsule Network for Machinery Remaining Useful Life Estimation](http://arxiv.org/abs/2203.16373v1)**|This paper has been accepted by IEEE Transactions on Cybernetics|~|
-|**2022-03-29**|**[Cointegration of SARS-CoV-2 Transmission with Weather Conditions and Mobility during the First Year of the COVID-19 Pandemic in the United States](http://arxiv.org/abs/2203.16330v1)**|6 pages, 3 figures|~|
+|**2022-03-29**|**[Cointegration of SARS-CoV-2 Transmission with Weather Conditions and Mobility during the First Year of the COVID-19 Pandemic in the United States](http://arxiv.org/abs/2203.16330v2)**|6 pages, 3 figures|~|
 |**2022-03-30**|**[A Novel First-Order Autoregressive Moving Average Model to Analyze Discrete-Time Series Irregularly Observed](http://arxiv.org/abs/2203.16281v1)**|Accepted paper to Contributions to Statistics, Springer (ITISE 2021).  12 pages, 2 figures, 1 table. arXiv admin note: substantial text overlap with  arXiv:2105.06395|~|
 |**2022-03-30**|**[Detection of Gaussianity using envelopes](http://arxiv.org/abs/2203.16253v1)**|~|~|
 |**2022-03-30**|**[Tampered VAE for Improved Satellite Image Time Series Classification](http://arxiv.org/abs/2203.16149v1)**|~|~|
