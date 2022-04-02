@@ -26,8 +26,8 @@ layout: default
 |**2022-03-24**|**[Bayesian Nonparametric Submodular Video Partition for Robust Anomaly Detection](http://arxiv.org/abs/2203.12840v1)**|2022 Conference on Computer Vision and Pattern Recognition|[code](https://github.com/ritmininglab/bn-svp)|
 |**2022-03-23**|**[Data Analysis using Riemannian Geometry and Applications to Chemical Engineering](http://arxiv.org/abs/2203.12471v1)**|18 pages, 10 figures|~|
 |**2022-03-23**|**[Domain-Generalized Textured Surface Anomaly Detection](http://arxiv.org/abs/2203.12304v1)**|Accepted by IEEE International Conference on Multimedia and Expo  (ICME) 2022|~|
-|**2022-03-23**|**[Contrastive Transformer-based Multiple Instance Learning for Weakly Supervised Polyp Frame Detection](http://arxiv.org/abs/2203.12121v1)**|Technical report, 10 pages, 3 figures|~|
-|**2022-03-22**|**[Unsupervised Anomaly Detection in Medical Images with a Memory-augmented Multi-level Cross-attentional Masked Autoencoder](http://arxiv.org/abs/2203.11725v1)**|Technical report, 11 pages, 3 figures|~|
+|**2022-03-23**|**[Contrastive Transformer-based Multiple Instance Learning for Weakly Supervised Polyp Frame Detection](http://arxiv.org/abs/2203.12121v1)**|Technical report, 10 pages, 3 figures|[code](https://github.com/tianyu0207/weakly-polyp)|
+|**2022-03-22**|**[Unsupervised Anomaly Detection in Medical Images with a Memory-augmented Multi-level Cross-attentional Masked Autoencoder](http://arxiv.org/abs/2203.11725v1)**|Technical report, 11 pages, 3 figures|[code](https://github.com/tianyu0207/MemMC-MAE)|
 |**2022-03-21**|**[Two methods for Jamming Identification in UAVs Networks using New Synthetic Dataset](http://arxiv.org/abs/2203.11373v1)**|7 pages, 9 figures, submitted to VTC conference|~|
 |**2022-03-21**|**[FGAN: Federated Generative Adversarial Networks for Anomaly Detection in Network Traffic](http://arxiv.org/abs/2203.11106v1)**|8 pages, 2 figures|~|
 |**2022-03-21**|**[Diverse Counterfactual Explanations for Anomaly Detection in Time Series](http://arxiv.org/abs/2203.11103v1)**|24 pages, 11 figures|~|
