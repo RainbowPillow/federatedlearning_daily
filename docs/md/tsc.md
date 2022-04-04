@@ -48,7 +48,7 @@ layout: default
 |**2022-03-26**|**[Data-driven Stabilization of Discrete-time Control-affine Nonlinear Systems: A Koopman Operator Approach](http://arxiv.org/abs/2203.14114v1)**|~|~|
 |**2022-03-26**|**[Implications of Mortality Displacement for Effect Modification and Selection Bias](http://arxiv.org/abs/2203.13982v1)**|This is an epidemiological theory paper|~|
 |**2022-03-25**|**[Using Multiple Instance Learning for Explainable Solar Flare Prediction](http://arxiv.org/abs/2203.13896v1)**|~|[code](https://github.com/chuwyler/irismil)|
-|**2022-03-24**|**[Rough volatility: fact or artefact?](http://arxiv.org/abs/2203.13820v1)**|~|~|
+|**2022-03-24**|**[Rough volatility: fact or artefact?](http://arxiv.org/abs/2203.13820v2)**|~|~|
 |**2022-03-25**|**[HYDRA: Competing convolutional kernels for fast and accurate time series classification](http://arxiv.org/abs/2203.13652v1)**|27 pages, 18 figures|[code](https://github.com/angus924/hydra)|
 |**2022-03-25**|**[A Point Mass Proposal Method for Bayesian State-Space Model Fitting](http://arxiv.org/abs/2203.13649v1)**|30 pages including references and appendices, 5 figures, 3 tables|[code](https://github.com/mallewellyn/pmpmh)|
 |**2022-03-25**|**[An Intelligent End-to-End Neural Architecture Search Framework for Electricity Forecasting Model Development](http://arxiv.org/abs/2203.13563v1)**|~|~|

@@ -12,7 +12,7 @@ layout: default
 |**2022-03-31**|**[Differentially Private Federated Learning via Reconfigurable Intelligent Surface](http://arxiv.org/abs/2203.17028v1)**|16 pages, 11 figures|[code](https://github.com/mengcongwo/fl_privacy_blockcrossing)|
 |**2022-03-31**|**[Privacy-Preserving Aggregation in Federated Learning: A Survey](http://arxiv.org/abs/2203.17005v1)**|20 pages, 10 figures|~|
 |**2022-03-30**|**[Escaping Data Scarcity for High-Resolution Heterogeneous Face Hallucination](http://arxiv.org/abs/2203.16669v1)**|CVPR2022|~|
-|**2022-03-30**|**[Federated Learning for the Classification of Tumor Infiltrating Lymphocytes](http://arxiv.org/abs/2203.16622v1)**|~|~|
+|**2022-03-30**|**[Federated Learning for the Classification of Tumor Infiltrating Lymphocytes](http://arxiv.org/abs/2203.16622v2)**|~|~|
 |**2022-03-30**|**[Perfectly Accurate Membership Inference by a Dishonest Central Server in Federated Learning](http://arxiv.org/abs/2203.16463v1)**|6 pages|[code](https://github.com/g-pichler/dishonest_mia)|
 |**2022-03-30**|**[Towards Collaborative Intelligence: Routability Estimation based on Decentralized Private Data](http://arxiv.org/abs/2203.16009v1)**|6 pages, 2 figures, accepted by DAC'22|~|
 |**2022-03-30**|**[Federated Domain Adaptation for ASR with Full Self-Supervision](http://arxiv.org/abs/2203.15966v1)**|~|~|
