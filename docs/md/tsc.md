@@ -8,6 +8,12 @@ layout: default
 
 | Date | Title | Comment | Code |
 |:-----|:------|:--------|:-----|
+|**2022-04-01**|**[Direct Numerical Simulation of Low and Unitary Prandtl Number Fluids in Reactor Downcomer Geometry](http://arxiv.org/abs/2204.00430v1)**|~|~|
+|**2022-04-01**|**[Synthetic Photovoltaic and Wind Power Forecasting Data](http://arxiv.org/abs/2204.00411v1)**|12 pages, 8 figures, and 2 tables|~|
+|**2022-04-01**|**[ECOTS: Early Classification in Open Time Series](http://arxiv.org/abs/2204.00392v1)**|~|~|
+|**2022-04-01**|**[GrowliFlower: An image time series dataset for GROWth analysis of cauLIFLOWER](http://arxiv.org/abs/2204.00294v1)**|23 pages, 21 figures, 5 tables|~|
+|**2022-04-01**|**[Secular variation signals in magnetic field gradient tensor elements derived from satellite-based geomagnetic virtual observatories](http://arxiv.org/abs/2204.00258v1)**|~|~|
+|**2022-04-01**|**[Burstiness of human physical activities and their characterization](http://arxiv.org/abs/2204.00201v1)**|15 pages, 6 figures, and Highlights|~|
 |**2022-03-30**|**[LEAD1.0: A Large-scale Annotated Dataset for Energy Anomaly Detection in Commercial Buildings](http://arxiv.org/abs/2203.17256v1)**|~|[code](https://github.com/samy101/lead-dataset)|
 |**2022-03-31**|**[Controlled Discovery and Localization of Signals via Bayesian Linear Programming](http://arxiv.org/abs/2203.17208v1)**|57 pages, 20 figures|[code](https://github.com/amspector100/pyblip)|
 |**2022-03-31**|**[Recovering models of open quantum systems from data via polynomial optimization: Towards globally convergent quantum system identification](http://arxiv.org/abs/2203.17164v1)**|~|~|
