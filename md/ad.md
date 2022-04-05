@@ -4,6 +4,12 @@
 
 |Date|Title|Comment|Code|
 |----|-----|-------|----|
+|**2022-04-04**|**[Do Deep Neural Networks Contribute to Multivariate Time Series Anomaly Detection?](http://arxiv.org/abs/2204.01637v1)**|~|~|
+|**2022-04-04**|**[Distributed Anomaly Detection and Estimation over Sensor Networks: Observational-Equivalence and Q-Redundant Observer Design](http://arxiv.org/abs/2204.01549v1)**|ECC22|~|
+|**2022-04-04**|**[SAM-kNN Regressor for Online Learning in Water Distribution Networks](http://arxiv.org/abs/2204.01436v1)**|~|~|
+|**2022-04-04**|**[Detecting In-vehicle Intrusion via Semi-supervised Learning-based Convolutional Adversarial Autoencoders](http://arxiv.org/abs/2204.01193v1)**|~|~|
+|**2022-04-03**|**[Proactive Anomaly Detection for Robot Navigation with Multi-Sensor Fusion](http://arxiv.org/abs/2204.01146v1)**|Accepted by RA-L with ICRA 2022 option|~|
+|**2022-04-02**|**[Privacy-preserving Anomaly Detection in Cloud Manufacturing via Federated Transformer](http://arxiv.org/abs/2204.00843v1)**|~|~|
 |**2022-03-30**|**[LEAD1.0: A Large-scale Annotated Dataset for Energy Anomaly Detection in Commercial Buildings](http://arxiv.org/abs/2203.17256v1)**|~|[code](https://github.com/samy101/lead-dataset)|
 |**2022-03-31**|**[SIERRA: Ranking Anomalous Activities in Enterprise Networks](http://arxiv.org/abs/2203.16802v1)**|to appear in IEEE European Symposium on Security and Privacy  (EuroS&P) 2022|~|
 |**2022-03-30**|**[IGRF-RFE: A Hybrid Feature Selection Method for MLP-based Network Intrusion Detection on UNSW-NB15 Dataset](http://arxiv.org/abs/2203.16365v1)**|~|~|

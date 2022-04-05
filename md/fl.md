@@ -4,6 +4,14 @@
 
 |Date|Title|Comment|Code|
 |----|-----|-------|----|
+|**2022-04-04**|**[Towards Privacy-Preserving and Verifiable Federated Matrix Factorization](http://arxiv.org/abs/2204.01601v1)**|~|~|
+|**2022-04-04**|**[CDKT-FL: Cross-Device Knowledge Transfer using Proxy Dataset in Federated Learning](http://arxiv.org/abs/2204.01542v1)**|~|~|
+|**2022-04-01**|**[FedRecAttack: Model Poisoning Attack to Federated Recommendation](http://arxiv.org/abs/2204.01499v1)**|This paper has been accepted by IEEE International Conference on Data  Engineering 2022 (Second Research Round)|~|
+|**2022-04-04**|**[FedSynth: Gradient Compression via Synthetic Data in Federated Learning](http://arxiv.org/abs/2204.01273v1)**|8 pages|~|
+|**2022-04-04**|**[ScaleSFL: A Sharding Solution for Blockchain-Based Federated Learning](http://arxiv.org/abs/2204.01202v1)**|~|~|
+|**2022-04-03**|**[Byzantine-Robust Federated Linear Bandits](http://arxiv.org/abs/2204.01155v1)**|~|~|
+|**2022-04-03**|**[FedGBF: An efficient vertical federated learning framework via gradient boosting and bagging](http://arxiv.org/abs/2204.00976v1)**|~|~|
+|**2022-04-02**|**[Privacy-preserving Anomaly Detection in Cloud Manufacturing via Federated Transformer](http://arxiv.org/abs/2204.00843v1)**|~|~|
 |**2022-04-01**|**[Accelerating Federated Edge Learning via Topology Optimization](http://arxiv.org/abs/2204.00489v1)**|15 pages, accepted by IEEE IoTJ for publication|~|
 |**2022-04-01**|**[Proactively Control Privacy in Recommender Systems](http://arxiv.org/abs/2204.00279v1)**|21 pages|~|
 |**2022-04-01**|**[Federated Learning Framework Coping with Hierarchical Heterogeneity in Cooperative ITS](http://arxiv.org/abs/2204.00215v1)**|~|~|
