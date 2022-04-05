@@ -25,7 +25,7 @@ layout: default
 |**2022-03-28**|**[FedADMM: A Federated Primal-Dual Algorithm Allowing Partial Participation](http://arxiv.org/abs/2203.15104v1)**|~|~|
 |**2022-03-28**|**[Federated Named Entity Recognition](http://arxiv.org/abs/2203.15101v1)**|~|~|
 |**2022-03-28**|**[Knowledge-Guided Learning for Transceiver Design in Over-the-Air Federated Learning](http://arxiv.org/abs/2203.14753v1)**|~|~|
-|**2022-03-28**|**[Federated Learning with Position-Aware Neurons](http://arxiv.org/abs/2203.14666v1)**|~|~|
+|**2022-03-28**|**[Federated Learning with Position-Aware Neurons](http://arxiv.org/abs/2203.14666v2)**|Accepted/to be published on CVPR 2022|~|
 |**2022-03-27**|**[Adversarial Representation Sharing: A Quantitative and Secure Collaborative Learning Framework](http://arxiv.org/abs/2203.14299v1)**|~|~|
 |**2022-03-26**|**[SlimFL: Federated Learning with Superposition Coding over Slimmable Neural Networks](http://arxiv.org/abs/2203.14094v1)**|~|~|
 |**2022-03-26**|**[RSCFed: Random Sampling Consensus Federated Semi-supervised Learning](http://arxiv.org/abs/2203.13993v1)**|CVPR 2022, code: https://github.com/XMed-Lab/RSCFed|~|
