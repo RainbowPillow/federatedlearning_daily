@@ -8,6 +8,10 @@ layout: default
 
 | Date | Title | Comment | Code |
 |:-----|:------|:--------|:-----|
+|**2022-04-05**|**[Data-driven Influence Based Clustering of Dynamical Systems](http://arxiv.org/abs/2204.02373v1)**|~|~|
+|**2022-04-05**|**[Global Mapping of Surface Composition on an Exo-Earth Using Sparse Modeling](http://arxiv.org/abs/2204.01996v1)**|26 pages, 10 figures, accepted for publication in ApJ|~|
+|**2022-04-04**|**[Tracking Urbanization in Developing Regions with Remote Sensing Spatial-Temporal Super-Resolution](http://arxiv.org/abs/2204.01736v1)**|Presented at Workshop on Machine Learning for the Developing World  (ML4D) at the 35th Conference on Neural Information Processing Systems  (NeurIPS) 2021|~|
+|**2022-04-02**|**[Forestry digital twin with machine learning in Landsat 7 data](http://arxiv.org/abs/2204.01709v1)**|~|~|
 |**2022-04-04**|**[Do Deep Neural Networks Contribute to Multivariate Time Series Anomaly Detection?](http://arxiv.org/abs/2204.01637v1)**|~|~|
 |**2022-04-04**|**[Towards Deep Industrial Transfer Learning: Clustering for Transfer Case Selection](http://arxiv.org/abs/2204.01620v1)**|7 pages, 5 figurs, 2 tables. Submitted to IEEE ETFA 2022|~|
 |**2022-04-04**|**[Low Tree-Rank Bayesian Vector Autoregression Model](http://arxiv.org/abs/2204.01573v1)**|~|~|

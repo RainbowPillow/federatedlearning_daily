@@ -8,6 +8,10 @@ layout: default
 
 | Date | Title | Comment | Code |
 |:-----|:------|:--------|:-----|
+|**2022-04-05**|**[Systematic Unsupervised Recycled Field-Programmable Gate Array Detection](http://arxiv.org/abs/2204.02159v1)**|~|~|
+|**2022-04-05**|**[Learning to Adapt to Domain Shifts with Few-shot Samples in Anomalous Sound Detection](http://arxiv.org/abs/2204.01905v1)**|~|~|
+|**2022-04-04**|**[A Survey on Graph Representation Learning Methods](http://arxiv.org/abs/2204.01855v1)**|~|~|
+|**2022-04-02**|**[Heterogeneous Autoencoder Empowered by Quadratic Neurons](http://arxiv.org/abs/2204.01707v1)**|~|[code](https://github.com/asdvfghg/heterogeneous_autoencoder_by_quadratic_neurons)|
 |**2022-04-04**|**[Do Deep Neural Networks Contribute to Multivariate Time Series Anomaly Detection?](http://arxiv.org/abs/2204.01637v1)**|~|~|
 |**2022-04-04**|**[Distributed Anomaly Detection and Estimation over Sensor Networks: Observational-Equivalence and Q-Redundant Observer Design](http://arxiv.org/abs/2204.01549v1)**|ECC22|~|
 |**2022-04-04**|**[SAM-kNN Regressor for Online Learning in Water Distribution Networks](http://arxiv.org/abs/2204.01436v1)**|~|[code](https://github.com/andreartelt/sam-knn-regressor_onlinelearning_wdns)|

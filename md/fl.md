@@ -4,6 +4,8 @@
 
 |Date|Title|Comment|Code|
 |----|-----|-------|----|
+|**2022-04-05**|**[SAFARI: Sparsity enabled Federated Learning with Limited and Unreliable Communications](http://arxiv.org/abs/2204.02321v1)**|~|~|
+|**2022-04-01**|**[Optimising Communication Overhead in Federated Learning Using NSGA-II](http://arxiv.org/abs/2204.02183v1)**|Accepted in EvoApps Conference 2022  http://www.evostar.org/2022/evoapps/|~|
 |**2022-04-04**|**[Towards Privacy-Preserving and Verifiable Federated Matrix Factorization](http://arxiv.org/abs/2204.01601v1)**|~|~|
 |**2022-04-04**|**[CDKT-FL: Cross-Device Knowledge Transfer using Proxy Dataset in Federated Learning](http://arxiv.org/abs/2204.01542v1)**|~|~|
 |**2022-04-01**|**[FedRecAttack: Model Poisoning Attack to Federated Recommendation](http://arxiv.org/abs/2204.01499v1)**|This paper has been accepted by IEEE International Conference on Data  Engineering 2022 (Second Research Round)|~|
