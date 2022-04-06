@@ -11,9 +11,9 @@ layout: default
 |**2022-04-04**|**[Do Deep Neural Networks Contribute to Multivariate Time Series Anomaly Detection?](http://arxiv.org/abs/2204.01637v1)**|~|~|
 |**2022-04-04**|**[Towards Deep Industrial Transfer Learning: Clustering for Transfer Case Selection](http://arxiv.org/abs/2204.01620v1)**|7 pages, 5 figurs, 2 tables. Submitted to IEEE ETFA 2022|~|
 |**2022-04-04**|**[Low Tree-Rank Bayesian Vector Autoregression Model](http://arxiv.org/abs/2204.01573v1)**|~|~|
-|**2022-04-04**|**[Taking ROCKET on an efficiency mission: Multivariate time series classification with LightWaves](http://arxiv.org/abs/2204.01379v1)**|This work has been accepted as a short paper at DCOSS 2022|~|
+|**2022-04-04**|**[Taking ROCKET on an Efficiency Mission: Multivariate Time Series Classification with LightWaveS](http://arxiv.org/abs/2204.01379v2)**|This work has been accepted as a short paper at DCOSS 2022|~|
 |**2022-04-04**|**[Analysis of lifelog data using optimal feature selection based unsupervised logistic regression (OFS-ULR) for chronic disease classification](http://arxiv.org/abs/2204.01281v1)**|Data analytics and Machine learning in healthcare|~|
-|**2022-04-03**|**[Whose Advantage? Measuring Attention Dynamics across YouTube and Twitter on Controversial Topics](http://arxiv.org/abs/2204.00988v1)**|Accepted into ICWSM 2022|~|
+|**2022-04-03**|**[Whose Advantage? Measuring Attention Dynamics across YouTube and Twitter on Controversial Topics](http://arxiv.org/abs/2204.00988v2)**|Accepted into ICWSM 2022|~|
 |**2022-04-03**|**[Dynamic physical activity recommendation on personalised mobile health information service: A deep reinforcement learning approach](http://arxiv.org/abs/2204.00961v1)**|~|~|
 |**2022-04-02**|**[A Sentinel-2 multi-year, multi-country benchmark dataset for crop classification and segmentation with deep learning](http://arxiv.org/abs/2204.00951v1)**|This work has been accepted for publication in IEEE Journal of  Selected Topics in Applied Earth Observations and Remote Sensing. Copyright  may be transferred without notice, after which this version may no longer be  accessible|~|
 |**2022-04-02**|**[Calibration window selection based on change-point detection for forecasting electricity prices](http://arxiv.org/abs/2204.00872v1)**|Forthcoming in: Proceedings of the International Conference on  Computational Science (ICCS) 2022, London, UK|~|
@@ -42,9 +42,9 @@ layout: default
 |**2022-03-30**|**[Theory of Acceleration of Decision Making by Correlated Times Sequences](http://arxiv.org/abs/2203.16004v1)**|~|~|
 |**2022-03-29**|**[Design of a Biomimetic Tactile Sensor for Material Classification](http://arxiv.org/abs/2203.15941v1)**|To be published in ICRA 2022|~|
 |**2022-03-29**|**[Detrended Fluctuation Analysis for Continuous Real Variable Functions](http://arxiv.org/abs/2203.15940v1)**|11 pages|~|
-|**2022-03-29**|**[Financial dynamics, economic state classification and optimal portfolio construction for unseen market conditions: learning from the past 60 years](http://arxiv.org/abs/2203.15911v1)**|21 pages|~|
+|**2022-03-29**|**[Financial dynamics, economic state classification and optimal portfolio construction for unseen market conditions: learning from the past 60 years](http://arxiv.org/abs/2203.15911v2)**|23 pages|~|
 |**2022-03-29**|**[Periodic stellar variability from almost a million NGTS light curves](http://arxiv.org/abs/2203.15894v1)**|22 pages, 13 figures, 3 tables. Accepted for publication in MNRAS|~|
-|**2022-03-29**|**[Towards Spatio-Temporal Aware Traffic Time Series Forecasting--Full Version](http://arxiv.org/abs/2203.15737v2)**|Accepted at ICDE 2022|[code](https://github.com/razvanc92/st-wa)|
+|**2022-03-29**|**[Towards Spatio-Temporal Aware Traffic Time Series Forecasting--Full Version](http://arxiv.org/abs/2203.15737v3)**|Accepted at ICDE 2022|[code](https://github.com/razvanc92/st-wa)|
 |**2022-03-29**|**[A Wavelet, AR and SVM based hybrid method for short-term wind speed prediction](http://arxiv.org/abs/2203.15298v1)**|~|~|
 |**2022-03-29**|**[High-Dimensional Vector Autoregression with Common Response and Predictor Factors](http://arxiv.org/abs/2203.15170v1)**|74 pages, 5 figures|~|
 |**2022-03-28**|**[DAMNETS: A Deep Autoregressive Model for Generating Markovian Network Time Series](http://arxiv.org/abs/2203.15009v1)**|12 pages, 10 figures, 2 tables|[code](https://github.com/damnets/damnets_icml_2022)|
