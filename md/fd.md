@@ -4,6 +4,7 @@
 
 |Date|Title|Comment|Code|
 |----|-----|-------|----|
+|**2022-04-06**|**[Fault Diagnosis of Discrete-Event Systems under Non-Deterministic Observations with Output Fairness](http://arxiv.org/abs/2204.02617v1)**|~|~|
 |**2022-03-29**|**[A Multi-size Kernel based Adaptive Convolutional Neural Network for Bearing Fault Diagnosis](http://arxiv.org/abs/2203.15275v1)**|21 pages, 16 figures|~|
 |**2022-03-24**|**[A platform for causal knowledge representation and inference in industrial fault diagnosis based on cubic DUCG](http://arxiv.org/abs/2203.12802v2)**|~|~|
 |**2022-03-17**|**[Quantum Annealing with Special Drivers for Circuit Fault Diagnostics](http://arxiv.org/abs/2203.09560v1)**|~|~|

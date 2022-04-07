@@ -8,6 +8,7 @@ layout: default
 
 | Date | Title | Comment | Code |
 |:-----|:------|:--------|:-----|
+|**2022-04-05**|**[PDNPulse: Sensing PCB Anomaly with the Intrinsic Power Delivery Network](http://arxiv.org/abs/2204.02482v1)**|~|~|
 |**2022-04-05**|**[Systematic Unsupervised Recycled Field-Programmable Gate Array Detection](http://arxiv.org/abs/2204.02159v1)**|~|~|
 |**2022-04-05**|**[Learning to Adapt to Domain Shifts with Few-shot Samples in Anomalous Sound Detection](http://arxiv.org/abs/2204.01905v1)**|~|~|
 |**2022-04-04**|**[A Survey on Graph Representation Learning Methods](http://arxiv.org/abs/2204.01855v1)**|~|~|

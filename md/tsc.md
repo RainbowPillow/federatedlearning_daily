@@ -4,6 +4,12 @@
 
 |Date|Title|Comment|Code|
 |----|-----|-------|----|
+|**2022-04-06**|**[Extraction of deterministic components for high frequency stochastic process -- an application from CSI 300 index](http://arxiv.org/abs/2204.02891v1)**|~|~|
+|**2022-04-06**|**[Dimensionality Expansion and Transfer Learning for Next Generation Energy Management Systems](http://arxiv.org/abs/2204.02802v1)**|11 pages, 2 figures|~|
+|**2022-04-06**|**[High-dimensional time series segmentation via factor-adjusted vector autoregressive modelling](http://arxiv.org/abs/2204.02724v1)**|~|~|
+|**2022-04-06**|**[VNIbCReg: VIbCReg with Neighboring-Invariance and better-Covariance Evaluated on Non-stationary Seismic Signal Time Series](http://arxiv.org/abs/2204.02697v1)**|~|~|
+|**2022-04-06**|**[Bridging the Gap: Decoding the Intrinsic Nature of Time in Market Data](http://arxiv.org/abs/2204.02682v1)**|15 pages, 5 figures, and 2 tables|~|
+|**2022-04-06**|**[Attention-based CNN-LSTM and XGBoost hybrid model for stock prediction](http://arxiv.org/abs/2204.02623v1)**|arXiv admin note: text overlap with arXiv:2202.13800|~|
 |**2022-04-05**|**[Data-driven Influence Based Clustering of Dynamical Systems](http://arxiv.org/abs/2204.02373v1)**|~|~|
 |**2022-04-05**|**[Global Mapping of Surface Composition on an Exo-Earth Using Sparse Modeling](http://arxiv.org/abs/2204.01996v1)**|26 pages, 10 figures, accepted for publication in ApJ|~|
 |**2022-04-04**|**[Tracking Urbanization in Developing Regions with Remote Sensing Spatial-Temporal Super-Resolution](http://arxiv.org/abs/2204.01736v1)**|Presented at Workshop on Machine Learning for the Developing World  (ML4D) at the 35th Conference on Neural Information Processing Systems  (NeurIPS) 2021|~|
