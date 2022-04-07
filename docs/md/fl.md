@@ -11,7 +11,7 @@ layout: default
 |**2022-04-06**|**[Federated Self-supervised Speech Representations: Are We There Yet?](http://arxiv.org/abs/2204.02804v1)**|~|~|
 |**2022-04-06**|**[Adversarial Analysis of the Differentially-Private Federated Learning in Cyber-Physical Critical Infrastructures](http://arxiv.org/abs/2204.02654v1)**|11 pages, 5 figures, 4 tables. This work has been submitted to IEEE  for possible publication. Copyright may be transferred without notice, after  which this version may no longer be accessible|~|
 |**2022-04-06**|**[DeFTA: A Plug-and-Play Decentralized Replacement for FedAvg](http://arxiv.org/abs/2204.02632v1)**|12 pages, 5 figures|~|
-|**2022-04-05**|**[User-Level Differential Privacy against Attribute Inference Attack of Speech Emotion Recognition in Federated Learning](http://arxiv.org/abs/2204.02500v1)**|~|~|
+|**2022-04-05**|**[User-Level Differential Privacy against Attribute Inference Attack of Speech Emotion Recognition in Federated Learning](http://arxiv.org/abs/2204.02500v1)**|~|[code](https://github.com/usc-sail/fed-ser-leakage)|
 |**2022-04-05**|**[Privacy-Preserving Federated Learning via System Immersion and Random Matrix Encryption](http://arxiv.org/abs/2204.02497v1)**|~|~|
 |**2022-04-05**|**[Federated Cross Learning for Medical Image Segmentation](http://arxiv.org/abs/2204.02450v1)**|10 pages, 4 figures|~|
 |**2022-04-05**|**[SAFARI: Sparsity enabled Federated Learning with Limited and Unreliable Communications](http://arxiv.org/abs/2204.02321v1)**|~|~|

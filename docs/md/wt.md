@@ -8,7 +8,7 @@ layout: default
 
 | Date | Title | Comment | Code |
 |:-----|:------|:--------|:-----|
-|**2022-03-30**|**[Scientometric Review of Artificial Intelligence for Operations & Maintenance of Wind Turbines: The Past, Present and Future](http://arxiv.org/abs/2204.02360v1)**|This is a preprint version of the accepted manuscript in the  Renewable and Sustainable Energy Reviews journal, shared under a CC-BY-NC-ND  license. The final published version can be found at:  https://doi.org/10.1016/j.rser.2021.111051|~|
+|**2022-03-30**|**[Scientometric Review of Artificial Intelligence for Operations & Maintenance of Wind Turbines: The Past, Present and Future](http://arxiv.org/abs/2204.02360v1)**|This is a preprint version of the accepted manuscript in the  Renewable and Sustainable Energy Reviews journal, shared under a CC-BY-NC-ND  license. The final published version can be found at:  https://doi.org/10.1016/j.rser.2021.111051|[code](https://github.com/joyjitchatterjee/scientometricreview-ai)|
 |**2022-04-05**|**[Impact of Data Quality on Renewable Energy Potential Estimations](http://arxiv.org/abs/2204.02334v1)**|Submitted to Applied Energy|~|
 |**2022-04-05**|**[Probabilistic surrogate modeling of offshore wind-turbine loads with chained Gaussian processes](http://arxiv.org/abs/2204.02258v1)**|10 pages. To be published in the IOP Journal of Physics: Conference  Series. To be presented at TORQUE 2022|~|
 |**2022-03-31**|**[Wind Farm Layout Optimisation using Set Based Multi-objective Bayesian Optimisation](http://arxiv.org/abs/2203.17065v2)**|~|~|
