@@ -4,6 +4,8 @@
 
 |Date|Title|Comment|Code|
 |----|-----|-------|----|
+|**2022-04-07**|**[Adversarial Machine Learning Attacks Against Video Anomaly Detection Systems](http://arxiv.org/abs/2204.03141v1)**|~|~|
+|**2022-04-06**|**[Federated Learning for Distributed Spectrum Sensing in NextG Communication Networks](http://arxiv.org/abs/2204.03027v1)**|~|~|
 |**2022-04-05**|**[PDNPulse: Sensing PCB Anomaly with the Intrinsic Power Delivery Network](http://arxiv.org/abs/2204.02482v1)**|~|~|
 |**2022-04-05**|**[Systematic Unsupervised Recycled Field-Programmable Gate Array Detection](http://arxiv.org/abs/2204.02159v1)**|~|~|
 |**2022-04-05**|**[Learning to Adapt to Domain Shifts with Few-shot Samples in Anomalous Sound Detection](http://arxiv.org/abs/2204.01905v1)**|~|~|

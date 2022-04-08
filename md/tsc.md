@@ -4,6 +4,16 @@
 
 |Date|Title|Comment|Code|
 |----|-----|-------|----|
+|**2022-04-07**|**[Music Influence Modeling Based on Directed Network Model](http://arxiv.org/abs/2204.03588v1)**|~|~|
+|**2022-04-07**|**[Few-Shot Forecasting of Time-Series with Heterogeneous Channels](http://arxiv.org/abs/2204.03456v1)**|Under review. Equal contribution (Brinkmeyer and Rego Drumond)|[code](https://github.com/radrumond/timehetnet)|
+|**2022-04-07**|**[Half-sibling regression meets exoplanet imaging: PSF modeling and subtraction using a flexible, domain knowledge-driven, causal framework](http://arxiv.org/abs/2204.03439v1)**|Accepted for publication in Astronomy & Astrophysics|~|
+|**2022-04-07**|**[Binary Spatial Random Field Reconstruction from Non-Gaussian Inhomogeneous Time-series Observations](http://arxiv.org/abs/2204.03343v1)**|~|~|
+|**2022-04-07**|**[Domain Adaptation for Time-Series Classification to Mitigate Covariate Shift](http://arxiv.org/abs/2204.03342v1)**|~|~|
+|**2022-04-07**|**[Robust and Explainable Autoencoders for Unsupervised Time Series Outlier Detection---Extended Version](http://arxiv.org/abs/2204.03341v1)**|This paper has been accepted by IEEE ICDE 2022|~|
+|**2022-04-07**|**[Quasi-periodic oscillations of the X-ray burst from the magnetar SGR J1935+2154 and associated with the fast radio burst FRB 200428](http://arxiv.org/abs/2204.03253v1)**|17 pages, 13 figures, accepted for publication by ApJ. arXiv admin  note: text overlap with arXiv:1212.1011 by other authors. text overlap with  arXiv:1212.1011 by other authors|~|
+|**2022-04-07**|**[MTH5: an archive and exchangeable data format for magnetotelluric time series data](http://arxiv.org/abs/2204.03218v1)**|~|~|
+|**2022-04-07**|**[Bayesian vector autoregressive analysis of macroeconomic and transport influences on urban traffic accidents](http://arxiv.org/abs/2204.03177v1)**|11 pages, 3 figures, 47 references|~|
+|**2022-04-06**|**[Hierarchical Annotation for Building A Suite of Clinical Natural Language Processing Tasks: Progress Note Understanding](http://arxiv.org/abs/2204.03035v1)**|To appear in 13th Language Resources and Evaluation Conference (LREC  2022)|~|
 |**2022-04-06**|**[Extraction of deterministic components for high frequency stochastic process -- an application from CSI 300 index](http://arxiv.org/abs/2204.02891v1)**|~|~|
 |**2022-04-06**|**[Dimensionality Expansion and Transfer Learning for Next Generation Energy Management Systems](http://arxiv.org/abs/2204.02802v1)**|11 pages, 2 figures|~|
 |**2022-04-06**|**[High-dimensional time series segmentation via factor-adjusted vector autoregressive modelling](http://arxiv.org/abs/2204.02724v1)**|~|~|
