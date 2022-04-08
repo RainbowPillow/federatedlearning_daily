@@ -16,7 +16,7 @@
 |**2022-04-06**|**[Hierarchical Annotation for Building A Suite of Clinical Natural Language Processing Tasks: Progress Note Understanding](http://arxiv.org/abs/2204.03035v1)**|To appear in 13th Language Resources and Evaluation Conference (LREC  2022)|~|
 |**2022-04-06**|**[Extraction of deterministic components for high frequency stochastic process -- an application from CSI 300 index](http://arxiv.org/abs/2204.02891v1)**|~|~|
 |**2022-04-06**|**[Dimensionality Expansion and Transfer Learning for Next Generation Energy Management Systems](http://arxiv.org/abs/2204.02802v1)**|11 pages, 2 figures|~|
-|**2022-04-06**|**[High-dimensional time series segmentation via factor-adjusted vector autoregressive modelling](http://arxiv.org/abs/2204.02724v1)**|~|~|
+|**2022-04-06**|**[High-dimensional time series segmentation via factor-adjusted vector autoregressive modelling](http://arxiv.org/abs/2204.02724v1)**|~|[code](https://github.com/haeran-cho/fvarseg)|
 |**2022-04-06**|**[VNIbCReg: VICReg with Neighboring-Invariance and better-Covariance Evaluated on Non-stationary Seismic Signal Time Series](http://arxiv.org/abs/2204.02697v2)**|~|~|
 |**2022-04-06**|**[Bridging the Gap: Decoding the Intrinsic Nature of Time in Market Data](http://arxiv.org/abs/2204.02682v1)**|15 pages, 5 figures, and 2 tables|~|
 |**2022-04-06**|**[Attention-based CNN-LSTM and XGBoost hybrid model for stock prediction](http://arxiv.org/abs/2204.02623v1)**|arXiv admin note: text overlap with arXiv:2202.13800|[code](https://github.com/zshicode/attention-clx-stock-prediction)|
