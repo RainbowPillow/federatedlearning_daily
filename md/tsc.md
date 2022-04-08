@@ -7,7 +7,7 @@
 |**2022-04-07**|**[Music Influence Modeling Based on Directed Network Model](http://arxiv.org/abs/2204.03588v1)**|~|~|
 |**2022-04-07**|**[Few-Shot Forecasting of Time-Series with Heterogeneous Channels](http://arxiv.org/abs/2204.03456v1)**|Under review. Equal contribution (Brinkmeyer and Rego Drumond)|[code](https://github.com/radrumond/timehetnet)|
 |**2022-04-07**|**[Half-sibling regression meets exoplanet imaging: PSF modeling and subtraction using a flexible, domain knowledge-driven, causal framework](http://arxiv.org/abs/2204.03439v1)**|Accepted for publication in Astronomy & Astrophysics|[code](https://github.com/timothygebhard/hsr4hci)|
-|**2022-04-07**|**[Binary Spatial Random Field Reconstruction from Non-Gaussian Inhomogeneous Time-series Observations](http://arxiv.org/abs/2204.03343v1)**|~|~|
+|**2022-04-07**|**[Binary Spatial Random Field Reconstruction from Non-Gaussian Inhomogeneous Time-series Observations](http://arxiv.org/abs/2204.03343v1)**|~|[code](https://github.com/ShunanSheng/WarpedGaussianProcesses)|
 |**2022-04-07**|**[Domain Adaptation for Time-Series Classification to Mitigate Covariate Shift](http://arxiv.org/abs/2204.03342v1)**|~|~|
 |**2022-04-07**|**[Robust and Explainable Autoencoders for Unsupervised Time Series Outlier Detection---Extended Version](http://arxiv.org/abs/2204.03341v1)**|This paper has been accepted by IEEE ICDE 2022|~|
 |**2022-04-07**|**[Quasi-periodic oscillations of the X-ray burst from the magnetar SGR J1935+2154 and associated with the fast radio burst FRB 200428](http://arxiv.org/abs/2204.03253v1)**|17 pages, 13 figures, accepted for publication by ApJ. arXiv admin  note: text overlap with arXiv:1212.1011 by other authors. text overlap with  arXiv:1212.1011 by other authors|~|
