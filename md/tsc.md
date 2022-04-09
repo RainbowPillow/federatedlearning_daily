@@ -11,7 +11,7 @@
 |**2022-04-07**|**[Domain Adaptation for Time-Series Classification to Mitigate Covariate Shift](http://arxiv.org/abs/2204.03342v1)**|~|~|
 |**2022-04-07**|**[Robust and Explainable Autoencoders for Unsupervised Time Series Outlier Detection---Extended Version](http://arxiv.org/abs/2204.03341v1)**|This paper has been accepted by IEEE ICDE 2022|~|
 |**2022-04-07**|**[Quasi-periodic oscillations of the X-ray burst from the magnetar SGR J1935+2154 and associated with the fast radio burst FRB 200428](http://arxiv.org/abs/2204.03253v1)**|17 pages, 13 figures, accepted for publication by ApJ. arXiv admin  note: text overlap with arXiv:1212.1011 by other authors. text overlap with  arXiv:1212.1011 by other authors|~|
-|**2022-04-07**|**[MTH5: an archive and exchangeable data format for magnetotelluric time series data](http://arxiv.org/abs/2204.03218v1)**|~|~|
+|**2022-04-07**|**[MTH5: an archive and exchangeable data format for magnetotelluric time series data](http://arxiv.org/abs/2204.03218v1)**|~|[code](https://github.com/kujaku11/mth5)|
 |**2022-04-07**|**[Bayesian vector autoregressive analysis of macroeconomic and transport influences on urban traffic accidents](http://arxiv.org/abs/2204.03177v1)**|11 pages, 3 figures, 47 references|~|
 |**2022-04-06**|**[Hierarchical Annotation for Building A Suite of Clinical Natural Language Processing Tasks: Progress Note Understanding](http://arxiv.org/abs/2204.03035v1)**|To appear in 13th Language Resources and Evaluation Conference (LREC  2022)|~|
 |**2022-04-06**|**[Extraction of deterministic components for high frequency stochastic process -- an application from CSI 300 index](http://arxiv.org/abs/2204.02891v1)**|~|~|
