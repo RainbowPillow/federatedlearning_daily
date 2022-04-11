@@ -8,6 +8,9 @@ layout: default
 
 | Date | Title | Comment | Code |
 |:-----|:------|:--------|:-----|
+|**2022-04-08**|**[EPASAD: Ellipsoid decision boundary based Process-Aware Stealthy Attack Detector](http://arxiv.org/abs/2204.04154v1)**|Submitted|~|
+|**2022-04-08**|**[A Video Anomaly Detection Framework based on Appearance-Motion Semantics Representation Consistency](http://arxiv.org/abs/2204.04151v1)**|~|~|
+|**2022-04-07**|**[Autoencoder-based Unsupervised Intrusion Detection using Multi-Scale Convolutional Recurrent Networks](http://arxiv.org/abs/2204.03779v1)**|arXiv admin note: text overlap with arXiv:2111.00626|~|
 |**2022-04-07**|**[Adversarial Machine Learning Attacks Against Video Anomaly Detection Systems](http://arxiv.org/abs/2204.03141v1)**|~|~|
 |**2022-04-06**|**[Federated Learning for Distributed Spectrum Sensing in NextG Communication Networks](http://arxiv.org/abs/2204.03027v1)**|~|~|
 |**2022-04-05**|**[PDNPulse: Sensing PCB Anomaly with the Intrinsic Power Delivery Network](http://arxiv.org/abs/2204.02482v1)**|~|~|

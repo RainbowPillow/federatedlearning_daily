@@ -8,6 +8,12 @@ layout: default
 
 | Date | Title | Comment | Code |
 |:-----|:------|:--------|:-----|
+|**2022-04-08**|**[Global Update Guided Federated Learning](http://arxiv.org/abs/2204.03920v1)**|6 pages, 3 figures, and 4 tables. Accepted by Chinese Control  Conference 2022, Hefei, P. R. China|~|
+|**2022-04-08**|**[CD$^2$-pFed: Cyclic Distillation-guided Channel Decoupling for Model Personalization in Federated Learning](http://arxiv.org/abs/2204.03880v1)**|Accepted by CVPR2022|~|
+|**2022-04-08**|**[Resource Consumption for Supporting Federated Learning in Wireless Networks](http://arxiv.org/abs/2204.03850v1)**|~|~|
+|**2022-04-08**|**[Communication-Efficient Cluster Federated Learning in Large-scale Peer-to-Peer Networks](http://arxiv.org/abs/2204.03843v1)**|~|~|
+|**2022-04-08**|**[Federated Learning with Partial Model Personalization](http://arxiv.org/abs/2204.03809v1)**|~|~|
+|**2022-04-07**|**[Decentralized Event-Triggered Federated Learning with Heterogeneous Communication Thresholds](http://arxiv.org/abs/2204.03726v1)**|8 pages|~|
 |**2022-04-07**|**[FedADMM: A Robust Federated Deep Learning Framework with Adaptivity to System Heterogeneity](http://arxiv.org/abs/2204.03529v2)**|~|[code](https://github.com/yonghaigong/fedadmm)|
 |**2022-04-07**|**[Multi-Task Distributed Learning using Vision Transformer with Random Patch Permutation](http://arxiv.org/abs/2204.03500v1)**|10 pages|~|
 |**2022-04-07**|**[Federated Learning from Only Unlabeled Data with Class-Conditional-Sharing Clients](http://arxiv.org/abs/2204.03304v1)**|ICLR 2022 camera-ready version|[code](https://github.com/lunanbit/fedul)|

@@ -4,6 +4,12 @@
 
 |Date|Title|Comment|Code|
 |----|-----|-------|----|
+|**2022-04-08**|**[Predicting Berth Stay for Tanker Terminals: A Systematic and Dynamic Approach](http://arxiv.org/abs/2204.04085v1)**|~|~|
+|**2022-04-08**|**[Multimodal Quasi-AutoRegression: Forecasting the visual popularity of new fashion products](http://arxiv.org/abs/2204.04014v1)**|12 pages, 4 figures|~|
+|**2022-04-07**|**[The market drives ETFs or ETFs the market: causality without Granger](http://arxiv.org/abs/2204.03760v1)**|~|~|
+|**2022-04-07**|**[T4PdM: a Deep Neural Network based on the Transformer Architecture for Fault Diagnosis of Rotating Machinery](http://arxiv.org/abs/2204.03725v1)**|~|~|
+|**2022-04-07**|**[Ultraviolet Spectroscopy and TARDIS Models of the Broad-lined Type-Ic Supernova 2014ad](http://arxiv.org/abs/2204.03716v1)**|25 pages, 14 figures, submitted to AAS Journals|~|
+|**2022-04-07**|**[Deconvolution of the Functional Ultrasound Response in the Mouse Visual Pathway Using Block-Term Decomposition](http://arxiv.org/abs/2204.03711v1)**|~|~|
 |**2022-04-07**|**[Music Influence Modeling Based on Directed Network Model](http://arxiv.org/abs/2204.03588v1)**|~|~|
 |**2022-04-07**|**[Few-Shot Forecasting of Time-Series with Heterogeneous Channels](http://arxiv.org/abs/2204.03456v1)**|Under review. Equal contribution (Brinkmeyer and Rego Drumond)|[code](https://github.com/radrumond/timehetnet)|
 |**2022-04-07**|**[Half-sibling regression meets exoplanet imaging: PSF modeling and subtraction using a flexible, domain knowledge-driven, causal framework](http://arxiv.org/abs/2204.03439v1)**|Accepted for publication in Astronomy & Astrophysics|[code](https://github.com/timothygebhard/hsr4hci)|
