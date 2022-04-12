@@ -8,6 +8,13 @@ layout: default
 
 | Date | Title | Comment | Code |
 |:-----|:------|:--------|:-----|
+|**2022-04-11**|**[CXR-FL: Deep Learning-based Chest X-ray Image Analysis Using Federated Learning](http://arxiv.org/abs/2204.05203v1)**|Accepted at International Conference on Computational Science (ICCS)  2022, London|~|
+|**2022-04-11**|**[FederatedScope: A Comprehensive and Flexible Federated Learning Platform via Message Passing](http://arxiv.org/abs/2204.05011v1)**|We have released FederatedScope for users on  https://github.com/alibaba/FederatedScope|~|
+|**2022-04-10**|**[FedCorr: Multi-Stage Federated Learning for Label Noise Correction](http://arxiv.org/abs/2204.04677v1)**|Accepted at IEEE/CVF Conference on Computer Vision and Pattern  Recognition (CVPR) 2022. 18 pages, 10 figures (including supplementary  material). First two authors contributed equally. Code is available at:  https://github.com/Xu-Jingyi/FedCorr|~|
+|**2022-04-09**|**[Adaptive Differential Filters for Fast and Communication-Efficient Federated Learning](http://arxiv.org/abs/2204.04424v1)**|CVPR 2022 FedVision Workshop (CVPRW), 12 pages, 5 figures, 2 tables,  supplementary material|~|
+|**2022-04-09**|**[Divergence-aware Federated Self-Supervised Learning](http://arxiv.org/abs/2204.04385v1)**|ICLR'22|~|
+|**2022-04-09**|**[Federated Unsupervised Domain Adaptation for Face Recognition](http://arxiv.org/abs/2204.04382v1)**|ICME'22. arXiv admin note: substantial text overlap with  arXiv:2105.07606|~|
+|**2022-04-08**|**[HBFL: A Hierarchical Blockchain-based Federated Learning Framework for a Collaborative IoT Intrusion Detection](http://arxiv.org/abs/2204.04254v1)**|~|~|
 |**2022-04-08**|**[Global Update Guided Federated Learning](http://arxiv.org/abs/2204.03920v1)**|6 pages, 3 figures, and 4 tables. Accepted by Chinese Control  Conference 2022, Hefei, P. R. China|~|
 |**2022-04-08**|**[CD$^2$-pFed: Cyclic Distillation-guided Channel Decoupling for Model Personalization in Federated Learning](http://arxiv.org/abs/2204.03880v1)**|Accepted by CVPR2022|~|
 |**2022-04-08**|**[Resource Consumption for Supporting Federated Learning in Wireless Networks](http://arxiv.org/abs/2204.03850v1)**|~|~|

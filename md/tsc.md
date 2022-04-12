@@ -4,6 +4,18 @@
 
 |Date|Title|Comment|Code|
 |----|-----|-------|----|
+|**2022-04-11**|**[Modeling of the nonlinear flame response of a Bunsen-type flame via multi-layer perceptron](http://arxiv.org/abs/2204.05234v1)**|~|~|
+|**2022-04-08**|**[Transformer-Based Self-Supervised Learning for Emotion Recognition](http://arxiv.org/abs/2204.05103v1)**|~|~|
+|**2022-04-07**|**[Forecasting new diseases in low-data settings using transfer learning](http://arxiv.org/abs/2204.05059v1)**|~|~|
+|**2022-04-11**|**[A Bayesian Decision Support System in Energy Systems Planning](http://arxiv.org/abs/2204.05035v1)**|~|~|
+|**2022-04-11**|**[Lyapunov-Guided Embedding for Hyperparameter Selection in Recurrent Neural Networks](http://arxiv.org/abs/2204.04876v1)**|~|~|
+|**2022-04-11**|**[Statistical Perspective on Functional and Causal Neural Connectomics: The Time-Aware PC Algorithm](http://arxiv.org/abs/2204.04845v1)**|~|~|
+|**2022-04-10**|**[Multi-Label Clinical Time-Series Generation via Conditional GAN](http://arxiv.org/abs/2204.04797v1)**|This work has been submitted to the IEEE for possible publication.  Copyright may be transferred without notice, after which this version may no  longer be accessible|~|
+|**2022-04-10**|**[Configuration and Collection Factors for Side-Channel Disassembly](http://arxiv.org/abs/2204.04766v1)**|8 pages, 8 figures|~|
+|**2022-04-10**|**[Optimization of IoT-Enabled Physical Location Monitoring Using DT and VAR](http://arxiv.org/abs/2204.04664v1)**|28 pages, 14 figures, Use of Machine Learning to process IoT Sensor  Data|~|
+|**2022-04-10**|**[Meteorological indicators of dengue epidemics in non-endemic Northwest Argentina](http://arxiv.org/abs/2204.04587v1)**|10 pages, 17 figures|~|
+|**2022-04-09**|**[Prognostic classification based on random convolutional kernel](http://arxiv.org/abs/2204.04527v1)**|9 pages, 3 figures|~|
+|**2022-04-09**|**[Crime Patterns in Los Angeles County Before and After Covid19 (2018-2021)](http://arxiv.org/abs/2204.04399v1)**|Keywords: Pandemic, Crime Rate Los Angeles, Data Analysis, Data  Science, Predictive Analysis|~|
 |**2022-04-08**|**[Predicting Berth Stay for Tanker Terminals: A Systematic and Dynamic Approach](http://arxiv.org/abs/2204.04085v1)**|~|~|
 |**2022-04-08**|**[Multimodal Quasi-AutoRegression: Forecasting the visual popularity of new fashion products](http://arxiv.org/abs/2204.04014v1)**|12 pages, 4 figures|~|
 |**2022-04-07**|**[The market drives ETFs or ETFs the market: causality without Granger](http://arxiv.org/abs/2204.03760v1)**|~|~|
