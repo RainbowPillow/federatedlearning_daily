@@ -33,7 +33,7 @@
 |**2022-04-02**|**[Privacy-preserving Anomaly Detection in Cloud Manufacturing via Federated Transformer](http://arxiv.org/abs/2204.00843v1)**|~|~|
 |**2022-04-01**|**[Accelerating Federated Edge Learning via Topology Optimization](http://arxiv.org/abs/2204.00489v1)**|15 pages, accepted by IEEE IoTJ for publication|~|
 |**2022-04-01**|**[Proactively Control Privacy in Recommender Systems](http://arxiv.org/abs/2204.00279v1)**|21 pages|~|
-|**2022-04-01**|**[Federated Learning Framework Coping with Hierarchical Heterogeneity in Cooperative ITS](http://arxiv.org/abs/2204.00215v1)**|~|~|
+|**2022-04-01**|**[Federated Learning Framework Coping with Hierarchical Heterogeneity in Cooperative ITS](http://arxiv.org/abs/2204.00215v2)**|~|~|
 |**2022-03-31**|**[Efficient Dropout-resilient Aggregation for Privacy-preserving Machine Learning](http://arxiv.org/abs/2203.17044v1)**|16 pages, 5 figures. Accepted by IEEE Transactions on Information  Forensics and Security|~|
 |**2022-03-31**|**[Differentially Private Federated Learning via Reconfigurable Intelligent Surface](http://arxiv.org/abs/2203.17028v1)**|16 pages, 11 figures|[code](https://github.com/mengcongwo/fl_privacy_blockcrossing)|
 |**2022-03-31**|**[Privacy-Preserving Aggregation in Federated Learning: A Survey](http://arxiv.org/abs/2203.17005v1)**|20 pages, 10 figures|~|

@@ -33,7 +33,7 @@ layout: default
 |**2022-03-29**|**[AnoDFDNet: A Deep Feature Difference Network for Anomaly Detection](http://arxiv.org/abs/2203.15195v1)**|14pages, 8figures|[code](https://github.com/wangle53/anodfdnet)|
 |**2022-03-28**|**[Semi-supervised anomaly detection algorithm based on KL divergence (SAD-KL)](http://arxiv.org/abs/2203.14539v1)**|9 pages, 8 figures|~|
 |**2022-03-28**|**[Catching Both Gray and Black Swans: Open-set Supervised Anomaly Detection](http://arxiv.org/abs/2203.14506v1)**|Accepted by CVPR2022, 16 pages|[code](https://github.com/choubo/dra)|
-|**2022-03-28**|**[PAEDID: Patch Autoencoder Based Deep Image Decomposition For Pixel-level Defective Region Segmentation](http://arxiv.org/abs/2203.14457v1)**|~|~|
+|**2022-03-28**|**[PAEDID: Patch Autoencoder Based Deep Image Decomposition For Pixel-level Defective Region Segmentation](http://arxiv.org/abs/2203.14457v2)**|~|~|
 |**2022-03-25**|**[Stabilizing Adversarially Learned One-Class Novelty Detection Using Pseudo Anomalies](http://arxiv.org/abs/2203.13716v1)**|This work has been submitted to the IEEE Transactions on Image  Processing for possible publication. Copyright may be transferred without  notice, after which this version may no longer be accessible|~|
 |**2022-03-25**|**[Clustering Aided Weakly Supervised Training to Detect Anomalous Events in Surveillance Videos](http://arxiv.org/abs/2203.13704v1)**|This work has been submitted to the IEEE Transactions on Neural  Networks and Learning Systems (TNNLS) for possible publication. Copyright may  be transferred without notice, after which this version may no longer be  accessible|~|
 |**2022-03-25**|**[Learning to Adapt to Unseen Abnormal Activities under Weak Supervision](http://arxiv.org/abs/2203.13610v1)**|20 pages, ACCV 2020|~|
