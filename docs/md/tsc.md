@@ -49,7 +49,7 @@ layout: default
 |**2022-04-04**|**[Do Deep Neural Networks Contribute to Multivariate Time Series Anomaly Detection?](http://arxiv.org/abs/2204.01637v1)**|~|~|
 |**2022-04-04**|**[Towards Deep Industrial Transfer Learning: Clustering for Transfer Case Selection](http://arxiv.org/abs/2204.01620v1)**|7 pages, 5 figurs, 2 tables. Submitted to IEEE ETFA 2022|~|
 |**2022-04-04**|**[Low Tree-Rank Bayesian Vector Autoregression Model](http://arxiv.org/abs/2204.01573v1)**|~|~|
-|**2022-04-04**|**[Taking ROCKET on an Efficiency Mission: Multivariate Time Series Classification with LightWaveS](http://arxiv.org/abs/2204.01379v3)**|This work has been accepted as a short paper at DCOSS 2022|~|
+|**2022-04-04**|**[Taking ROCKET on an Efficiency Mission: Multivariate Time Series Classification with LightWaveS](http://arxiv.org/abs/2204.01379v3)**|This work has been accepted as a short paper at DCOSS 2022|[code](https://github.com/lpphd/lightwaves)|
 |**2022-04-04**|**[Analysis of lifelog data using optimal feature selection based unsupervised logistic regression (OFS-ULR) for chronic disease classification](http://arxiv.org/abs/2204.01281v1)**|Data analytics and Machine learning in healthcare|~|
 |**2022-04-03**|**[Whose Advantage? Measuring Attention Dynamics across YouTube and Twitter on Controversial Topics](http://arxiv.org/abs/2204.00988v3)**|Accepted into ICWSM 2022. 11-page main paper and 11-page appendix|~|
 |**2022-04-03**|**[Dynamic physical activity recommendation on personalised mobile health information service: A deep reinforcement learning approach](http://arxiv.org/abs/2204.00961v1)**|~|~|
