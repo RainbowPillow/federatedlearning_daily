@@ -4,9 +4,9 @@
 
 |Date|Title|Comment|Code|
 |----|-----|-------|----|
-|**2022-04-11**|**[CXR-FL: Deep Learning-based Chest X-ray Image Analysis Using Federated Learning](http://arxiv.org/abs/2204.05203v1)**|Accepted at International Conference on Computational Science (ICCS)  2022, London|~|
-|**2022-04-11**|**[FederatedScope: A Comprehensive and Flexible Federated Learning Platform via Message Passing](http://arxiv.org/abs/2204.05011v1)**|We have released FederatedScope for users on  https://github.com/alibaba/FederatedScope|~|
-|**2022-04-10**|**[FedCorr: Multi-Stage Federated Learning for Label Noise Correction](http://arxiv.org/abs/2204.04677v1)**|Accepted at IEEE/CVF Conference on Computer Vision and Pattern  Recognition (CVPR) 2022. 18 pages, 10 figures (including supplementary  material). First two authors contributed equally. Code is available at:  https://github.com/Xu-Jingyi/FedCorr|~|
+|**2022-04-11**|**[CXR-FL: Deep Learning-based Chest X-ray Image Analysis Using Federated Learning](http://arxiv.org/abs/2204.05203v1)**|Accepted at International Conference on Computational Science (ICCS)  2022, London|[code](https://github.com/sanoscience/cxr-fl)|
+|**2022-04-11**|**[FederatedScope: A Comprehensive and Flexible Federated Learning Platform via Message Passing](http://arxiv.org/abs/2204.05011v1)**|We have released FederatedScope for users on  https://github.com/alibaba/FederatedScope|[code](https://github.com/alibaba/federatedscope)|
+|**2022-04-10**|**[FedCorr: Multi-Stage Federated Learning for Label Noise Correction](http://arxiv.org/abs/2204.04677v1)**|Accepted at IEEE/CVF Conference on Computer Vision and Pattern  Recognition (CVPR) 2022. 18 pages, 10 figures (including supplementary  material). First two authors contributed equally. Code is available at:  https://github.com/Xu-Jingyi/FedCorr|[code](https://github.com/xu-jingyi/fedcorr)|
 |**2022-04-09**|**[Adaptive Differential Filters for Fast and Communication-Efficient Federated Learning](http://arxiv.org/abs/2204.04424v1)**|CVPR 2022 FedVision Workshop (CVPRW), 12 pages, 5 figures, 2 tables,  supplementary material|~|
 |**2022-04-09**|**[Divergence-aware Federated Self-Supervised Learning](http://arxiv.org/abs/2204.04385v1)**|ICLR'22|~|
 |**2022-04-09**|**[Federated Unsupervised Domain Adaptation for Face Recognition](http://arxiv.org/abs/2204.04382v1)**|ICME'22. arXiv admin note: substantial text overlap with  arXiv:2105.07606|~|
@@ -40,7 +40,7 @@
 |**2022-04-02**|**[Privacy-preserving Anomaly Detection in Cloud Manufacturing via Federated Transformer](http://arxiv.org/abs/2204.00843v1)**|~|~|
 |**2022-04-01**|**[Accelerating Federated Edge Learning via Topology Optimization](http://arxiv.org/abs/2204.00489v1)**|15 pages, accepted by IEEE IoTJ for publication|~|
 |**2022-04-01**|**[Proactively Control Privacy in Recommender Systems](http://arxiv.org/abs/2204.00279v1)**|21 pages|~|
-|**2022-04-01**|**[Federated Learning Framework Coping with Hierarchical Heterogeneity in Cooperative ITS](http://arxiv.org/abs/2204.00215v2)**|~|~|
+|**2022-04-01**|**[Federated Learning Framework Coping with Hierarchical Heterogeneity in Cooperative ITS](http://arxiv.org/abs/2204.00215v2)**|~|[code](https://github.com/rruisong/h2-fed)|
 |**2022-03-31**|**[Efficient Dropout-resilient Aggregation for Privacy-preserving Machine Learning](http://arxiv.org/abs/2203.17044v1)**|16 pages, 5 figures. Accepted by IEEE Transactions on Information  Forensics and Security|~|
 |**2022-03-31**|**[Differentially Private Federated Learning via Reconfigurable Intelligent Surface](http://arxiv.org/abs/2203.17028v1)**|16 pages, 11 figures|[code](https://github.com/mengcongwo/fl_privacy_blockcrossing)|
 |**2022-03-31**|**[Privacy-Preserving Aggregation in Federated Learning: A Survey](http://arxiv.org/abs/2203.17005v1)**|20 pages, 10 figures|~|
