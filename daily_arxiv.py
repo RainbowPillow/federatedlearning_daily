@@ -242,7 +242,6 @@ if __name__ == "__main__":
         'ad': "abs:'anomaly\ detection'",
         'fd': "abs:'fault\ diagnosis'",
         'wt': "abs:'wind\ turbine'",
-        'longtail': "abs:'long-tailed\ recognition'",
     }
 
     for topic, keyword in keywords.items():
