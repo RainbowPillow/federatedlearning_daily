@@ -238,10 +238,10 @@ if __name__ == "__main__":
 
     keywords = {
         'fl': "abs:federated\ learning",
-        'tsc': "abs:time\ series",
-        'ad': "abs:'anomaly\ detection'",
-        'fd': "abs:'fault\ diagnosis'",
-        'wt': "abs:'wind\ turbine'",
+#         'tsc': "abs:time\ series",
+#         'ad': "abs:'anomaly\ detection'",
+#         'fd': "abs:'fault\ diagnosis'",
+#         'wt': "abs:'wind\ turbine'",
     }
 
     for topic, keyword in keywords.items():
