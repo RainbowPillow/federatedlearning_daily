@@ -237,8 +237,8 @@ if __name__ == "__main__":
     data_collector_web = []
 
     keywords = {
-        'fl': "abs:federated\ learning",
-#         'tsc': "abs:time\ series",
+        #'fl': "abs:federated\ learning",
+         'tsc': "abs:time\ series",
 #         'ad': "abs:'anomaly\ detection'",
 #         'fd': "abs:'fault\ diagnosis'",
 #         'wt': "abs:'wind\ turbine'",
