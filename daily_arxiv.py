@@ -228,9 +228,9 @@ if __name__ == "__main__":
     json_path = './json/'
     init = False
     demo = False
-    num_result = 50
+    num_result = 30
     if init:
-        num_result = 50
+        num_result = 30
     if demo:
         num_result = 2
     data_collector = []
